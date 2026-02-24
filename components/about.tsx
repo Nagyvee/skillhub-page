@@ -6,10 +6,11 @@ import { CheckCircle } from "lucide-react"
 import Image from "next/image"
 
 const pillars = [
-  "World-class research facilities and partnerships",
-  "Internationally recognized facilities and mentors",
-  "Industry-aligned curriculum with hands-on learning",
-  "Vibrant multicultural campus community",
+  "Rooted in Africa with a global outlook",
+  "International expertise with deep regional insight",
+  "High-impact training across leadership and digital transformation",
+  "Industry-focused programs in procurement, infrastructure, and technical fields",
+  "Real-world application with measurable, sustainable results",
 ]
 
 export function About() {
@@ -75,7 +76,7 @@ export function About() {
 
             <MotionDiv variants={fadeInUp}>
               <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                Based in South Africa and operating internationally, we design and deliver high-impact short courses, executive programmes, learnerships, and professional certifications that are practical, relevant, and aligned with modern organisational needs. Our programmes are delivered online, in-house at client premises, or at neutral training venues in major cities worldwide.
+                SkillHub International is a premier global training and capacity-development firm empowering individuals, organizations, and governments with future-ready skills. Through innovative, technology-driven learning solutions, we deliver practical programs aligned with global best practices and emerging industry trends.
               </p>
             </MotionDiv>
 
