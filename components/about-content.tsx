@@ -50,7 +50,7 @@ function MissionVisionVoice() {
                   Our Vision
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  Lead global skill transformation by unlocking talent everywhere.
+                  To be a global leader in tech-driven professional training that builds future-ready talent.
                 </p>
               </div>
             </div>
