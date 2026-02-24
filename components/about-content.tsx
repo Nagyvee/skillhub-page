@@ -112,17 +112,24 @@ function OurStory() {
             </MotionDiv>
             <MotionDiv variants={fadeInUp}>
               <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                At SkillHub International, we are passionate about providing an exceptional learning experience.
-                Guided by expert instructors and enriched with cutting-edge materials, our mission is
-                to equip you with the vital knowledge and skills to excel in today's dynamic business landscape.
+                🚀 Built for the Future
+                Technology-driven training that prepares your organization for what’s next — not what’s now.
               </p>
-            </MotionDiv>
-            <MotionDiv variants={fadeInUp}>
-              <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                Whether you're an individual eager to elevate your career or an organization focused on enhancing
-                performance, SkillHub International offers tailored learning experiences to meet your specific
-                objectives. We are driven by a commitment to provide efficient, effective, and insightful education
-                that equips you for a successful future in business management.
+
+              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed"> 🌍 Global Expertise. Local Impact.
+                World-class standards delivered with deep regional insight.
+              </p>
+              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
+                🎯 Practical. Actionable. Immediate.
+                Skills your teams can apply from day one.
+              </p>
+              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
+                🏛️ Trusted at the Highest Levels
+                Chosen by governments, state-owned enterprises, and leading organizations.
+              </p>
+              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
+                👥 Capability Across Every Level
+                From executives to frontline staff, we strengthen performance end-to-end.
               </p>
             </MotionDiv>
           </div>
