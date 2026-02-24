@@ -112,24 +112,18 @@ function OurStory() {
             </MotionDiv>
             <MotionDiv variants={fadeInUp}>
               <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                🚀 Built for the Future
-                Technology-driven training that prepares your organization for what’s next — not what’s now.
+                Built for the future, our technology-driven training prepares your
+                organization for what’s next — not just what’s now. We combine global
+                expertise with deep local insight, delivering world-class standards that
+                create meaningful regional impact.
               </p>
-
-              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed"> 🌍 Global Expertise. Local Impact.
-                World-class standards delivered with deep regional insight.
-              </p>
-              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                🎯 Practical. Actionable. Immediate.
-                Skills your teams can apply from day one.
-              </p>
-              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                🏛️ Trusted at the Highest Levels
-                Chosen by governments, state-owned enterprises, and leading organizations.
-              </p>
-              <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                👥 Capability Across Every Level
-                From executives to frontline staff, we strengthen performance end-to-end.
+            </MotionDiv>
+            <MotionDiv variants={fadeInUp}>
+              <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
+                Practical, actionable, and immediate, our programs equip teams with
+                skills they can apply from day one. Trusted by governments, state-owned
+                enterprises, and leading organizations, we build capability at every level
+                — from executives to frontline staff — strengthening performance end-to-end.
               </p>
             </MotionDiv>
           </div>
