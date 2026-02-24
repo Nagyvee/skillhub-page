@@ -74,7 +74,7 @@ const trajlonEvents = [
         monthYear: "September, 2026",
         location: "Durban, South Africa",
         startTime: "21",
-        endTime: "23 September 2026",
+        endTime: "25 September 2026",
         participants: "150",
         regEndDate: "16/09/2026",
         skillLevel: "Ports & Shipping Management",
