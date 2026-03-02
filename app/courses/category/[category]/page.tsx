@@ -36,7 +36,7 @@ export async function generateMetadata({
         }
     }
 
-    const title = `${category} Courses | Ascend Institute`
+    const title = `${category} Courses | SkillHub International`
     const description = `Explore our ${courseCount} professional ${category} courses. Advance your career with industry-leading training programs designed for real-world impact.`
 
     return {
