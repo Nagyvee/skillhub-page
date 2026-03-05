@@ -17364,7 +17364,7 @@ const TaxRevenueCourses = [
     },
     {
         id: 95,
-        type: "Tax-Revenue",
+        type: "Tax-and-Revenue",
         title: "Value Added Tax (VAT) Training",
         slg: "value-added-tax-vat-training",
         brochure: "https://drive.google.com/file/d/1OjDgZ6yQqWoGjyHPwPSKhymJ7SEi8YSa/view?usp=drive_link",
