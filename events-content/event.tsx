@@ -24,7 +24,7 @@ const trajlonEvents = [
     {
         id: 2,
         related_id: 17,
-        imgSrc: "/asset/aiAndDataimg.webp",
+        imgSrc: "/asset/railwayOperations.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "13",
         monthYear: "July, 2026",
@@ -68,7 +68,7 @@ const trajlonEvents = [
     {
         id: 4,
         related_id: 4,
-        imgSrc: "/asset/effectiveimg.webp",
+        imgSrc: "/asset/advancedPorts.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "21",
         monthYear: "September, 2026",
@@ -112,7 +112,7 @@ const trajlonEvents = [
     {
         id: 6,
         related_id: 15,
-        imgSrc: "/asset/advancedimg.webp",
+        imgSrc: "/asset/transport.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "17",
         monthYear: "November, 2026",
