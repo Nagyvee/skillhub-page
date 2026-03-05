@@ -5889,5 +5889,740 @@ export const AllCourseLists = [
       },
     ],
   },
+  {
+    "id": 47,
+    "type": "Public-Procurement",
+    "title": "Fundamentals of Public Sector Supply Chain Management",
+    "duration": "5 Days",
+    "slg": "fundamentals-of-public-sector-supply-chain-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Fundamentals of Public Sector Supply Chain Management Course | SkillHub International",
+      "seoDescription": "Fundamentals of Public Sector Supply Chain Management training course offered by SkillHub International.",
+      "seoKeywords": "fundamentals-of-public-sector-supply-chain-management, training course, skillhub",
+      "seoHeading": "Fundamentals of Public Sector Supply Chain Management"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "The Fundamentals of Public Sector Supply Chain Management course provides a foundational understanding of how supply chains function within the public sector environment. Public sector supply chain management plays a critical role in ensuring that goods, services, and infrastructure are delivered efficiently, transparently, and in a manner that supports socio-economic development. This course equips participants with the principles, policies, and practical tools required to manage supply chain activities within government institutions and other public entities. It emphasizes the need for accountability, value for money, and compliance with legal and regulatory frameworks. Topics include procurement planning, the procurement cycle, ethical standards, contract and asset management, and the integration of digital systems in public procurement. Designed for both new and experienced professionals, the course integrates theoretical knowledge with real-world examples and case studies to help participants understand how effective public sector SCM contributes to improved service delivery and public trust. ",
+    "audience": [
+      "Government procurement and supply chain officers",
+      "Public sector project managers",
+      "Local government officials",
+      "Development and donor agency procurement staff",
+      "Private sector suppliers to government entities"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Upon completion of this training, participants will be able to:",
+        "Understand the regulatory and institutional framework of public procurement.",
+        "Apply core principles of public supply chain management (SCM).",
+        "Execute procurement processes in compliance with public sector standards.",
+        "Manage risks and ensure ethical behaviour in the supply chain.",
+        "Enhance efficiency, accountability, and transparency in public SCM."
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Definition and importance of SCM in the public sector",
+          "Comparison: Public vs. Private sector supply chains",
+          "Key drivers and constraints of public SCM",
+          "SCM as a value-creation function in public service delivery"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Overview of procurement laws and regulations",
+          "Key institutions and governance structures",
+          "Role of Public Procurement Regulatory Authorities",
+          "International donor regulations (e.g., World Bank, UN, AfDB)"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Needs assessment and demand forecasting",
+          "Annual procurement planning",
+          "Procurement methods and thresholds",
+          "Market analysis and supplier engagement"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Specifications and terms of reference",
+          "Tendering and bid solicitation",
+          "Bid evaluation and contract award",
+          "Contract management and performance monitoring"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Ethical principles in public procurement",
+          "Common fraud and corruption risks",
+          "Conflict of interest and code of conduct",
+          "Whistleblower protection and enforcement mechanisms"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Inventory planning and control",
+          "Asset registration, tracking, and disposal",
+          "Warehousing best practices",
+          "ICT systems for logistics and inventory"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Budgeting and financial planning for procurement",
+          "Cost-benefit analysis and total cost of ownership",
+          "Audit, compliance, and financial controls",
+          "Ensuring value for money in public spending"
+        ]
+      },
+      {
+        "module": 8,
+        "lessons": [
+          "Supplier selection and prequalification",
+          "Managing supplier relationships and performance",
+          "Contract administration and reporting",
+          "Dispute resolution and termination"
+        ]
+      },
+      {
+        "module": 9,
+        "lessons": [
+          "Identifying and mitigating supply chain risks",
+          "Key performance indicators (KPIs)",
+          "Monitoring and evaluation of supply chain activities",
+          "Continuous improvement frameworks (e.g., PDCA)"
+        ]
+      },
+      {
+        "module": 10,
+        "lessons": [
+          "Digital procurement and e-Government platforms",
+          "Green and sustainable public procurement",
+          "Public-private partnerships (PPPs) in SCM",
+          "Use of AI and data analytics in public procurement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "type": "Public-Procurement",
+    "title": "Fundamentals of Public Sector Supply Chain Management",
+    "duration": "5 Days",
+    "slg": "fundamentals-of-public-sector-supply-chain-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Fundamentals of Public Sector Supply Chain Management Course | SkillHub International",
+      "seoDescription": "Fundamentals of Public Sector Supply Chain Management training course offered by SkillHub International.",
+      "seoKeywords": "fundamentals-of-public-sector-supply-chain-management, training course, skillhub",
+      "seoHeading": "Fundamentals of Public Sector Supply Chain Management"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "The Fundamentals of Public Sector Supply Chain Management course provides a foundational understanding of how supply chains function within the public sector environment. Public sector supply chain management plays a critical role in ensuring that goods, services, and infrastructure are delivered efficiently, transparently, and in a manner that supports socio-economic development. This course equips participants with the principles, policies, and practical tools required to manage supply chain activities within government institutions and other public entities. It emphasizes the need for accountability, value for money, and compliance with legal and regulatory frameworks. Topics include procurement planning, the procurement cycle, ethical standards, contract and asset management, and the integration of digital systems in public procurement. Designed for both new and experienced professionals, the course integrates theoretical knowledge with real-world examples and case studies to help participants understand how effective public sector SCM contributes to improved service delivery and public trust. ",
+    "audience": [
+      "Government procurement and supply chain officers",
+      "Public sector project managers",
+      "Local government officials",
+      "Development and donor agency procurement staff",
+      "Private sector suppliers to government entities"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Upon completion of this training, participants will be able to:",
+        "Understand the regulatory and institutional framework of public procurement.",
+        "Apply core principles of public supply chain management (SCM).",
+        "Execute procurement processes in compliance with public sector standards.",
+        "Manage risks and ensure ethical behaviour in the supply chain.",
+        "Enhance efficiency, accountability, and transparency in public SCM."
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Definition and importance of SCM in the public sector",
+          "Comparison: Public vs. Private sector supply chains",
+          "Key drivers and constraints of public SCM",
+          "SCM as a value-creation function in public service delivery"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Overview of procurement laws and regulations",
+          "Key institutions and governance structures",
+          "Role of Public Procurement Regulatory Authorities",
+          "International donor regulations (e.g., World Bank, UN, AfDB)"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Needs assessment and demand forecasting",
+          "Annual procurement planning",
+          "Procurement methods and thresholds",
+          "Market analysis and supplier engagement"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Specifications and terms of reference",
+          "Tendering and bid solicitation",
+          "Bid evaluation and contract award",
+          "Contract management and performance monitoring"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Ethical principles in public procurement",
+          "Common fraud and corruption risks",
+          "Conflict of interest and code of conduct",
+          "Whistleblower protection and enforcement mechanisms"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Inventory planning and control",
+          "Asset registration, tracking, and disposal",
+          "Warehousing best practices",
+          "ICT systems for logistics and inventory"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Budgeting and financial planning for procurement",
+          "Cost-benefit analysis and total cost of ownership",
+          "Audit, compliance, and financial controls",
+          "Ensuring value for money in public spending"
+        ]
+      },
+      {
+        "module": 8,
+        "lessons": [
+          "Supplier selection and prequalification",
+          "Managing supplier relationships and performance",
+          "Contract administration and reporting",
+          "Dispute resolution and termination"
+        ]
+      },
+      {
+        "module": 9,
+        "lessons": [
+          "Identifying and mitigating supply chain risks",
+          "Key performance indicators (KPIs)",
+          "Monitoring and evaluation of supply chain activities",
+          "Continuous improvement frameworks (e.g., PDCA)"
+        ]
+      },
+      {
+        "module": 10,
+        "lessons": [
+          "Digital procurement and e-Government platforms",
+          "Green and sustainable public procurement",
+          "Public-private partnerships (PPPs) in SCM",
+          "Use of AI and data analytics in public procurement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "Public-Procurement",
+    "title": "Effective Bid Committees and Tendering procedures",
+    "duration": "5 Days",
+    "slg": "effective-bid-committees-and-tendering-procedures",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Effective Bid Committees and Tendering procedures Course | SkillHub International",
+      "seoDescription": "Effective Bid Committees and Tendering procedures training course offered by SkillHub International.",
+      "seoKeywords": "effective-bid-committees-and-tendering-procedures, training course, skillhub",
+      "seoHeading": "Effective Bid Committees and Tendering procedures"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This course is designed to strengthen the effectiveness, compliance, and integrity of bid committees and tendering procedures within the public sector. Participants will gain a clear understanding of the legal framework governing procurement, the specific roles and responsibilities of each bid committee, and the procedural requirements for fair, transparent, and accountable tendering. The training includes detailed coverage of Bid Specification Committees (BSCs), Bid Evaluation Committees (BECs), and Bid Adjudication Committees (BACs), as well as practical guidance on managing risks, avoiding irregular expenditure, and ensuring value for money in the procurement process. ",
+    "audience": [
+      "Members of Bid Specification, Evaluation, and Adjudication Committees",
+      "Supply Chain Management (SCM) officials",
+      "Procurement practitioners and managers",
+      "Compliance, audit, and legal officers",
+      "Municipal officials and councillors involved in oversight",
+      "Project managers and end users involved in the procurement process"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Upon completion of this training, participants will be able to:",
+        "Understand the legal and regulatory framework for public sector tendering",
+        "Define and perform the distinct roles of each bid committee",
+        "Develop compliant specifications and evaluation criteria",
+        "Conduct fair, transparent, and auditable tendering processes",
+        "Prevent irregularities, conflicts of interest, and procurement fraud"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Overview of SCM in the public sector",
+          "Legal and regulatory framework (PFMA, MFMA, PPPFA, Treasury Regulations)",
+          "Principles of fair, equitable, transparent, competitive, and cost-effective procurement"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Structure of the three bid committees: BSC, BEC, BAC",
+          "Committee member responsibilities and accountability",
+          "Delegation of authority and quorum requirements",
+          "Code of conduct and confidentiality obligations"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Developing clear, fair, and objective specifications",
+          "Avoiding biased or restrictive specifications",
+          "Market analysis and alignment with procurement plans",
+          "Approval processes and compliance checks"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Defining evaluation criteria and weightings",
+          "Administrative compliance, functionality, and pricing evaluations",
+          "Preference point system under PPPFA and B-BBEE considerations",
+          "Documenting and motivating evaluation recommendations"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Reviewing and approving BEC recommendations",
+          "Decision-making authority and risk considerations",
+          "Handling deviations and disqualifications",
+          "Reporting and audit requirements"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Advertising and briefing sessions",
+          "Bid submissions and handling",
+          "Opening, registration, and recording of bids",
+          "Communication with bidders and compliance with timelines"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Identifying and declaring conflicts of interest",
+          "Managing bidder complaints and appeals",
+          "Dealing with undue influence, corruption, and irregular practices",
+          "Whistleblower protections and disciplinary procedures"
+        ]
+      },
+      {
+        "module": 8,
+        "lessons": [
+          "Maintaining audit trails and bid documentation",
+          "Responding to internal and external audits",
+          "Common findings from Auditor-General reports and how to address them"
+        ]
+      },
+      {
+        "module": 9,
+        "lessons": [
+          "Real-world examples of bid committee failures and successes",
+          "Group exercises on specification writing and bid evaluation",
+          "Lessons learned from irregular expenditure cases"
+        ]
+      },
+      {
+        "module": 10,
+        "lessons": [
+          "Enhancing capacity and professionalism in bid committees",
+          "E-procurement systems and digital workflows",
+          "Preparing for reforms under the new Public Procurement Bill"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "type": "Public-Procurement",
+    "title": "Municipality Financial Management Act",
+    "duration": "5 Days",
+    "slg": "municipality-financial-management-act",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Municipality Financial Management Act Course | SkillHub International",
+      "seoDescription": "Municipality Financial Management Act training course offered by SkillHub International.",
+      "seoKeywords": "municipality-financial-management-act, training course, skillhub",
+      "seoHeading": "Municipality Financial Management Act"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "The Municipal Finance Management Act (MFMA), Act No. 56 of 2003, governs financial management in South Africa’s municipalities and municipal entities. This course equips participants with practical knowledge and tools to implement the MFMA effectively and to support sound financial governance, service delivery, and accountability at the local government level. The training covers planning and budgeting, expenditure control, revenue management, supply chain management, reporting, internal controls, and oversight responsibilities. The course also highlights the roles of various stakeholders, including the municipal manager, CFO, council, and external oversight bodies. ",
+    "audience": [
+      "Municipal managers and CFOs",
+      "Municipal finance and budget officers",
+      "Councillors and oversight committees (e.g. MPAC, Audit Committees)",
+      "Internal auditors and compliance officials",
+      "Municipal supply chain and asset managers",
+      "Officials from municipal entities and development agencies",
+      "SCM practitioners"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Upon completion of this training, participants will be able to:",
+        "Understand and apply the key provisions of the MFMA",
+        "Enhance transparency and accountability in municipal finances",
+        "Support effective service delivery through sound financial planning and control",
+        "Manage municipal revenue, expenditure, and procurement processes within the law",
+        "Comply with reporting, auditing, and oversight requirements"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Legislative framework for municipal governance",
+          "Role and purpose of the MFMA",
+          "Principles of good financial governance",
+          "Constitutional and institutional context"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Role of the municipal council and mayor",
+          "Responsibilities of the municipal manager and CFO",
+          "Roles of National Treasury, Provincial Treasury, AGSA, and SALGA",
+          "Delegation of financial management responsibilities"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Integrated Development Planning (IDP)",
+          "Medium-Term Revenue and Expenditure Framework (MTREF)",
+          "Budget preparation, approval, and implementation",
+          "Alignment between IDP, SDBIP, and budget"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Revenue collection and management strategies",
+          "Expenditure control and commitment accounting",
+          "Management of municipal grants and conditional funding",
+          "Procedures for virements and budget adjustments"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "MFMA requirements on procurement",
+          "SCM policy development and implementation",
+          "Bidding processes and thresholds",
+          "Ethical conduct and anti-corruption in municipal SCM"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Asset registers and infrastructure accounting",
+          "Management of municipal property and equipment",
+          "Debt and liability management under the MFMA",
+          "Municipal borrowing requirements"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "In-year and annual financial reporting requirements",
+          "Performance and financial audits",
+          "Role of internal audit and audit committees",
+          "Dealing with irregular, fruitless, and wasteful expenditure"
+        ]
+      },
+      {
+        "module": 8,
+        "lessons": [
+          "Role of the council and MPAC in oversight",
+          "Monitoring service delivery and financial performance",
+          "Citizen participation and public accountability",
+          "Role of Provincial and National Treasury in support and intervention"
+        ]
+      },
+      {
+        "module": 9,
+        "lessons": [
+          "Risk assessment and mitigation in financial management",
+          "Compliance with legislation and audit outcomes",
+          "Recovery plans and financial turnaround strategies",
+          "Disciplinary actions and accountability for non-compliance"
+        ]
+      },
+      {
+        "module": 10,
+        "lessons": [
+          "Digitization and automation of financial systems (e.g., mSCOA)",
+          "Sustainable finance and climate budgeting in municipalities",
+          "Gender-responsive and inclusive budgeting",
+          "Professionalization of financial management in local government"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "type": "Public-Procurement",
+    "title": "Public Financial Management Act",
+    "duration": "5 Days",
+    "slg": "public-financial-management-act",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Public Financial Management Act Course | SkillHub International",
+      "seoDescription": "Public Financial Management Act training course offered by SkillHub International.",
+      "seoKeywords": "public-financial-management-act, training course, skillhub",
+      "seoHeading": "Public Financial Management Act"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This course provides a comprehensive understanding of the Public Financial Management Act (PFMA), a key piece of legislation governing the management of public finances in South Africa. The training covers the principles, responsibilities, and compliance requirements stipulated in the PFMA, with a focus on promoting transparency, accountability, and sound financial governance in national and provincial government departments and public entities. Participants will learn how to interpret and apply the PFMA in day-to-day operations, understand the roles of accounting officers and authorities, and ensure proper planning, budgeting, expenditure control, and financial reporting in alignment with good governance practices. ",
+    "audience": [
+      "Public sector procurement officials",
+      "SCM practitioners and finance officers",
+      "Compliance and legal officers",
+      "Supply chain managers and contract administrators",
+      "Municipal, provincial, and national government employees",
+      "Officials from state-owned enterprises and public entities"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Upon completion of this training, participants will be able to:",
+        "Understand the structure and intent of the PFMA",
+        "Comply with financial management and reporting obligations",
+        "Strengthen financial planning, control, and accountability mechanisms",
+        "Apply PFMA principles in budgeting, procurement, and performance management",
+        "Identify risks and ensure compliance with audit and oversight requirements"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Overview of public financial management systems",
+          "Purpose and scope of the PFMA",
+          "Principles of financial accountability and good governance"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Constitutional foundation of the PFMA",
+          "Relationship with other legislation: Treasury Regulations, MFMA, PPPFA, B-BBEE Act",
+          "Roles of National Treasury and Provincial Treasuries"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Responsibilities of Accounting Officers and Authorities",
+          "Delegation of authority and internal control structures",
+          "Role of Ministers, MECs, and Executing Authorities"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Medium-Term Expenditure Framework (MTEF)",
+          "Strategic plans and annual performance plans (APPs)",
+          "Alignment of budgets with strategic priorities"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Management of revenue and receipts",
+          "Expenditure controls and approvals",
+          "Cash and debt management requirements"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Overview of SCM requirements in PFMA",
+          "Procurement planning and demand management",
+          "Asset management and disposal procedures"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "In-year and annual financial reporting",
+          "Role of the Auditor-General",
+          "Audit committees and internal audit requirements"
+        ]
+      },
+      {
+        "module": 8,
+        "lessons": [
+          "Identifying and managing financial risks",
+          "Irregular, fruitless, and wasteful expenditure",
+          "Consequences of non-compliance and corrective actions",
+          "Disciplinary processes and legal accountability"
+        ]
+      },
+      {
+        "module": 9,
+        "lessons": [
+          "Monitoring performance against budgets and plans",
+          "Role of Parliament and Provincial Legislatures",
+          "Performance information and program evaluation"
+        ]
+      },
+      {
+        "module": 10,
+        "lessons": [
+          "PFMA amendments and emerging policy directions",
+          "Digitization of financial management (e.g., IFMS)",
+          "Building financial management capacity in the public sector"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "type": "Public-Procurement",
+    "title": "Public Procurement Policy Framework Act",
+    "duration": "5 Days",
+    "slg": "public-procurement-policy-framework-act",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Public Procurement Policy Framework Act Course | SkillHub International",
+      "seoDescription": "Public Procurement Policy Framework Act training course offered by SkillHub International.",
+      "seoKeywords": "public-procurement-policy-framework-act, training course, skillhub",
+      "seoHeading": "Public Procurement Policy Framework Act"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "he Public Procurement Policy Framework Act (PPPFA) course is designed to provide a clear and practical understanding of the legal and regulatory environment that governs public procurement in South Africa. The course explores the core principles, policy objectives, and legal provisions of the PPFA, as well as its alignment with constitutional values and other legislative instruments such as the PFMA, MFMA, and the B-BBEE Act. Participants will gain critical insights into how the PPFA promotes fairness, equity, transparency, competitiveness, and cost-effectiveness in public procurement. The course emphasizes the implementation of preferential procurement policies aimed at redressing past inequalities and driving socio-economic transformation. ",
+    "audience": [
+      "Public sector procurement officials",
+      "SCM practitioners and finance officers",
+      "Compliance and legal officers",
+      "Supply chain managers and contract administrators",
+      "Municipal, provincial, and national government employees",
+      "Officials from state-owned enterprises and public entities"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Upon completion of this training, participants will be able to:",
+        "Understand the purpose and scope of the PPPFA",
+        "Apply the principles and guidelines set out in the PPPFA",
+        "Align procurement processes with constitutional and legislative requirements",
+        "Promote empowerment, transformation, and economic inclusion through procurement",
+        "Ensure compliance, accountability, and good governance in public procurement"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Overview of the public procurement system",
+          "Constitutional and legislative foundation",
+          "Role of the PPPFA in procurement reform",
+          "Key stakeholders and institutional arrangements"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Objectives of the PPPFA",
+          "Applicability to organs of state and public entities",
+          "Interface with other laws (e.g., PFMA, MFMA, BBBEE Act)"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Value for money",
+          "Competition and fairness",
+          "Transparency and accountability",
+          "Socio-economic objectives: transformation and empowerment"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Preferential procurement policy requirements",
+          "Use of preference points and thresholds",
+          "Application of designated groups and local content requirements",
+          "Alignment with B-BBEE Codes of Good Practice"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Thresholds for procurement methods (RFQ, open tenders, etc.)",
+          "Competitive bidding and deviation procedures",
+          "Record-keeping and audit requirements",
+          "Common non-compliance risks and mitigation"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Role of National Treasury and Provincial Treasuries",
+          "Role of the Office of the Chief Procurement Officer (OCPO)",
+          "Internal control, monitoring, and reporting mechanisms",
+          "Role of the Auditor-General and Public Protector"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Legal enforcement and dispute resolution",
+          "Consequences of non-compliance",
+          "Dealing with irregular, fruitless, and wasteful expenditure",
+          "Appeal processes and supplier complaints mechanisms"
+        ]
+      },
+      {
+        "module": 8,
+        "lessons": [
+          "Draft Public Procurement Bill: Implications and updates",
+          "e-Procurement and digital transformation",
+          "Promoting ethical procurement and fighting corruption",
+          "Building professional capacity and procurement governance"
+        ]
+      }
+    ]
+  }
 ];
 
