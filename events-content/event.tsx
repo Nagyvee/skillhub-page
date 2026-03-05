@@ -24,7 +24,7 @@ const trajlonEvents = [
     {
         id: 2,
         related_id: 17,
-        imgSrc: "/asset/railwayOperations.webp",
+        imgSrc: "/asset/train.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "13",
         monthYear: "July, 2026",
@@ -68,7 +68,7 @@ const trajlonEvents = [
     {
         id: 4,
         related_id: 4,
-        imgSrc: "/asset/effectiveimg.webp",
+        imgSrc: "/asset/ethical.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "21",
         monthYear: "September, 2026",
