@@ -15,14 +15,14 @@ const testimonials = [
     cohort: "Class of 2025",
   },
   {
-    name: "Jonathan Mulenga",
+    name: "Jonathan Mulenga from Zambia",
     role: "Procurement Manager at Pensions and Insurance Authority",
     image: "/asset/jonathan.webp",
     quote: "This Procurement Business Analytics course delivers a practical, data-driven learning experience for modern procurement professionals. It equips participants with the skills to apply analytics for better decision-making, cost optimization, and improved supply chain performance through actionable insights.",
     cohort: "Class of 2025",
   },
   {
-    name: "Lamin Jallow",
+    name: "Lamin Jallow from Gambia",
     role: "Procurement Manager at Oryx Energies",
     image: "/asset/lamin.webp",
     quote: "This Advanced Principles in Ports & Marine Terminals Management course delivers a comprehensive and practical learning experience aligned with international standards. It equips participants with the skills to manage risk, enhance safety, and improve operational efficiency while effectively applying KPIs to achieve port and terminal objectives.",

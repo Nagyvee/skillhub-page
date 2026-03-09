@@ -20,6 +20,7 @@ const partners = [
   { name: "African Union", logo: "/asset/africanUnion.webp" },
   { name: "Public, Private Partnership Centre", logo: "/asset/tanzania.webp" },
   { name: "Reserve Bank of Zimbabwe", logo: "/asset/zimbabwe.webp" },
+  { name: "ESWATINI Sugar", logo: "/asset/eswatiniSugar.webp" },
 
 ]
 
