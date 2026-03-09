@@ -24,7 +24,7 @@ const trajlonEvents = [
     {
         id: 2,
         related_id: 17,
-        imgSrc: "/asset/train.webp",
+        imgSrc: "/asset/trainn.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "13",
         monthYear: "July, 2026",
