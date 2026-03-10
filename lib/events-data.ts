@@ -21,6 +21,16 @@ export interface Event {
         seoKeywords: string
         seoHeading: string
     }
+    duration?: string
+    programSummary?: string
+    whoShouldAttend?: string[]
+    learningOutcomes?: string[]
+    modules?: {
+        title: string
+        keyTopics: string[]
+        practicalActivities: string
+    }[]
+    trainingMethodology?: string[]
 }
 
 export const allEvents: Event[] = trajlonEvents
