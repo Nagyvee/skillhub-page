@@ -6623,6 +6623,2012 @@ export const AllCourseLists = [
         ]
       }
     ]
+  },
+  {
+    "id": 53,
+    "type": "Hospitality and Tourism",
+    "title": "Bar & Beverage Service & Mixology",
+    "duration": "5 Days",
+    "slg": "bar-and-beverage-service-and-mixology",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Bar & Beverage Service & Mixology Course | SkillHub International",
+      "seoDescription": "Bar & Beverage Service & Mixology training course offered by SkillHub International.",
+      "seoKeywords": "bar-and-beverage-service-and-mixology, training course, skillhub",
+      "seoHeading": "Bar & Beverage Service & Mixology"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the practical knowledge and hands-on skills required to deliver professional bar service and modern mixology in hotels, restaurants, resorts, bars, and catering operations. The course integrates beverage knowledge, classic and contemporary mixology techniques, customer service excellence, bar operations, cost control, hygiene, and responsible alcohol service. Participants will gain applied insight into how to design appealing drinks, operate an efficient bar, engage guests confidently, and maximise beverage revenue while maintaining high service and safety standards.",
+    "audience": [
+      "Bartenders and bar supervisors",
+      "Hotel, restaurant, and resort service staff",
+      "Catering and events beverage teams",
+      "Food & beverage supervisors and managers",
+      "Hospitality students and trainees",
+      "Entrepreneurs starting bars, lounges, or mobile bar services",
+      "Anyone involved in beverage service and bar operations"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Demonstrate professional bar setup and service standards",
+        "Prepare classic and modern cocktails confidently",
+        "Apply mixology techniques and flavour balancing principles",
+        "Deliver excellent customer service and guest engagement",
+        "Manage bar operations, stock, and cost control",
+        "Apply hygiene, safety, and responsible alcohol service practices",
+        "Increase beverage sales through upselling and presentation"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Bar & Beverage Service",
+          "Roles and responsibilities of bar staff",
+          "Bar equipment, tools, and workstation setup",
+          "Professional appearance and service etiquette",
+          "Understanding beverage menus and service flow"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Beverage Knowledge & Ingredients",
+          "Spirits, liqueurs, wines, beers, and non-alcoholic beverages",
+          "Garnishes, syrups, bitters, and mixers",
+          "Understanding flavours, aromas, and balance",
+          "Beverage storage and handling"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Classic & Contemporary Mixology",
+          "Essential classic cocktails and standard recipes",
+          "Modern cocktail trends and creative mixology",
+          "Shaking, stirring, muddling, layering, and presentation",
+          "Mocktails and low-/no-alcohol beverage options"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Customer Experience & Bar Sales",
+          "Guest interaction and communication skills",
+          "Upselling, suggestive selling, and menu knowledge",
+          "Handling difficult customers and service recovery",
+          "Creating memorable bar experiences"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Bar Operations & Cost Control",
+          "Stock management and inventory control",
+          "Portion control and waste reduction",
+          "Pricing strategies and profitability basics",
+          "Bar setup for events and high-volume service"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Hygiene, Safety & Responsible Service",
+          "Bar hygiene and food safety basics",
+          "Alcohol laws and responsible service practices",
+          "Managing intoxication and conflict",
+          "Health, safety, and risk management in bars"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Practical Assessments & Emerging Trends",
+          "Practical cocktail preparation and service assessments",
+          "Bar workflow simulations",
+          "Trends in mixology, sustainability, and presentation",
+          "Developing a personal bar service improvement plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "type": "Hospitality and Tourism",
+    "title": "Community-Based Tourism & Local Economic Development",
+    "duration": "5 Days",
+    "slg": "community-based-tourism-and-local-economic-development",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Community-Based Tourism & Local Economic Development Course | SkillHub International",
+      "seoDescription": "Community-Based Tourism & Local Economic Development training course offered by SkillHub International.",
+      "seoKeywords": "community-based-tourism-and-local-economic-development, training course, skillhub",
+      "seoHeading": "Community-Based Tourism & Local Economic Development"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design, implement, and manage community-based tourism (CBT) initiatives that generate inclusive local economic development while preserving cultural and natural heritage. The course integrates principles of participatory tourism planning, community enterprise development, value-chain integration, governance, and impact measurement. Participants will gain applied insight into how tourism can be leveraged to create jobs, support SMEs, empower women and youth, strengthen local institutions, and ensure that tourism benefits are equitably shared\u2014particularly in rural, peri-urban, and emerging destination contexts.",
+    "audience": [
+      "Community tourism leaders and cooperatives",
+      "Local government and municipal development officers",
+      "Tourism boards and destination management organisations",
+      "NGOs and donor-funded project staff",
+      "Tour operators working with communities",
+      "Cultural and heritage site managers",
+      "Youth and women entrepreneurs in tourism",
+      "Anyone involved in inclusive tourism and local economic development"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand the principles and models of community-based tourism",
+        "Design CBT initiatives that deliver economic and social benefits",
+        "Integrate local communities into tourism value chains",
+        "Support community enterprises and tourism SMEs",
+        "Establish effective governance and stakeholder coordination mechanisms",
+        "Measure and report socio-economic impacts of tourism",
+        "Develop a practical community-based tourism action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Community-Based Tourism",
+          "Concepts and principles of community-based tourism",
+          "CBT versus conventional tourism models",
+          "Role of tourism in local economic development",
+          "Global and regional CBT best practices"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Community Engagement & Participatory Planning",
+          "Community mobilisation and stakeholder mapping",
+          "Participatory tourism planning approaches",
+          "Managing expectations and benefit-sharing",
+          "Conflict sensitivity and cultural respect"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Tourism Value Chains & Local Enterprise Development",
+          "Understanding tourism value chains",
+          "Integrating local suppliers, artisans, guides, and SMEs",
+          "Supporting youth and women-led tourism enterprises",
+          "Market access and linkage development"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Community Tourism Products & Experiences",
+          "Designing authentic cultural and nature-based experiences",
+          "Heritage, arts, crafts, and storytelling in tourism",
+          "Quality standards and visitor management",
+          "Health, safety, and responsible tourism practices"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Governance, Partnerships & Institutional Arrangements",
+          "Community tourism governance structures",
+          "Public\u2013private\u2013community partnerships",
+          "Roles of local authorities and tourism boards",
+          "Financial management and transparency"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Marketing, Branding & Sustainability of CBT",
+          "Branding and positioning community tourism products",
+          "Responsible tourism marketing and promotion",
+          "Digital tools and market access for communities",
+          "Ensuring long-term sustainability and resilience"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Impact Measurement & Action Planning",
+          "Measuring economic, social, and cultural impacts",
+          "Monitoring indicators and reporting to stakeholders",
+          "Case studies in community-based tourism",
+          "Developing a community-based tourism and local development action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "type": "Hospitality and Tourism",
+    "title": "Cultural, Heritage & Creative Tourism",
+    "duration": "5 Days",
+    "slg": "cultural-heritage-and-creative-tourism",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Cultural, Heritage & Creative Tourism Course | SkillHub International",
+      "seoDescription": "Cultural, Heritage & Creative Tourism training course offered by SkillHub International.",
+      "seoKeywords": "cultural-heritage-and-creative-tourism, training course, skillhub",
+      "seoHeading": "Cultural, Heritage & Creative Tourism"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design, manage, and promote cultural, heritage, and creative tourism products that celebrate identity, preserve heritage, and generate inclusive economic value. The course integrates principles of cultural heritage management, creative economy development, tourism product design, storytelling, safeguarding of tangible and intangible heritage, and responsible visitor management. Participants will gain applied insight into how culture, heritage, and creativity can be leveraged to enhance destination attractiveness, support local artists and communities, and ensure that tourism contributes to preservation rather than degradation\u2014particularly within emerging and culturally rich destinations.",
+    "audience": [
+      "Cultural and heritage site managers",
+      "Museum, gallery, and archive professionals",
+      "Tourism board and destination management organisation (DMO) staff",
+      "Community-based tourism leaders and cultural custodians",
+      "Creative industry practitioners and entrepreneurs",
+      "Local government and heritage officers",
+      "NGOs and donor-funded culture and tourism projects",
+      "Anyone involved in cultural, heritage, or creative tourism development"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand concepts and models of cultural, heritage, and creative tourism",
+        "Design authentic and market-ready cultural tourism experiences",
+        "Safeguard tangible and intangible cultural heritage through tourism",
+        "Integrate creative industries into tourism value chains",
+        "Apply effective visitor management and interpretation techniques",
+        "Develop marketing and storytelling strategies for cultural tourism",
+        "Produce a practical cultural, heritage, and creative tourism action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Cultural, Heritage & Creative Tourism",
+          "Concepts and typologies of cultural, heritage, and creative tourism",
+          "Tangible and intangible cultural heritage in tourism",
+          "Role of culture and creativity in destination development",
+          "Global and regional best practices"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Heritage Management, Safeguarding & Interpretation",
+          "Heritage conservation principles and frameworks",
+          "Safeguarding living heritage, traditions, and knowledge systems",
+          "Interpretation, storytelling, and visitor education",
+          "Managing authenticity and cultural integrity"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Creative Tourism Products & Experience Design",
+          "Designing creative and participatory tourism experiences",
+          "Arts, crafts, music, festivals, and gastronomy in tourism",
+          "Co-creation with artists, artisans, and communities",
+          "Quality standards and visitor experience management"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Visitor Management, Ethics & Responsible Tourism",
+          "Managing visitor flows and carrying capacity at heritage sites",
+          "Ethical issues in cultural and heritage tourism",
+          "Community consent, benefit-sharing, and cultural rights",
+          "Health, safety, and protection of heritage assets"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Cultural Tourism Marketing, Branding & Storytelling",
+          "Branding and positioning cultural and heritage destinations",
+          "Storytelling techniques and content development",
+          "Digital platforms and creative marketing tools",
+          "Partnerships with tour operators and cultural institutions"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Creative Economy, Enterprise & Local Development",
+          "Linking creative industries and tourism value chains",
+          "Supporting cultural entrepreneurs and SMEs",
+          "Financing cultural and creative tourism initiatives",
+          "Public\u2013private\u2013community partnerships"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Governance, Sustainability & Action Planning",
+          "Governance models for cultural and heritage tourism",
+          "Policy alignment and institutional coordination",
+          "Monitoring impacts on culture, communities, and heritage",
+          "Developing a cultural, heritage, and creative tourism action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "type": "Hospitality and Tourism",
+    "title": "Destination Management & Tourism Planning",
+    "duration": "5 Days",
+    "slg": "destination-management-and-tourism-planning",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Destination Management & Tourism Planning Course | SkillHub International",
+      "seoDescription": "Destination Management & Tourism Planning training course offered by SkillHub International.",
+      "seoKeywords": "destination-management-and-tourism-planning, training course, skillhub",
+      "seoHeading": "Destination Management & Tourism Planning"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to plan, manage, and develop tourism destinations in a strategic, inclusive, and sustainable manner. The course integrates principles of destination management, spatial and tourism planning, stakeholder coordination, product development, policy alignment, and sustainability. Participants will gain applied insight into how destinations can balance economic growth, community well-being, environmental protection, and visitor satisfaction\u2014particularly within emerging, rural, and rapidly growing destinations in African and Global South contexts.",
+    "audience": [
+      "Destination management organisation (DMO) officials",
+      "Tourism board and ministry of tourism staff",
+      "Local government and municipal planners",
+      "Tourism development authorities and regulators",
+      "Private-sector tourism developers and operators",
+      "Community-based tourism leaders and associations",
+      "NGOs and donor-funded tourism project staff",
+      "Urban, regional, and spatial planners involved in tourism"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand core concepts and models of destination management",
+        "Conduct destination situation analysis and tourism assessments",
+        "Develop integrated tourism destination plans",
+        "Coordinate stakeholders across public, private, and community sectors",
+        "Design sustainable and inclusive tourism development strategies",
+        "Apply tools for destination governance, monitoring, and performance management",
+        "Produce a practical destination management and tourism planning action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Destination Management",
+          "Concepts and principles of destination management",
+          "Roles and functions of DMOs and tourism authorities",
+          "Tourism systems and destination competitiveness",
+          "Global and regional destination management best practices"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Destination Analysis & Tourism Planning Tools",
+          "Destination situational analysis and diagnostics",
+          "Tourism demand, supply, and market analysis",
+          "Resource mapping and carrying capacity considerations",
+          "Spatial planning and zoning for tourism development"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Stakeholder Coordination & Governance",
+          "Public\u2013private\u2013community collaboration models",
+          "Destination governance structures and policy alignment",
+          "Managing stakeholder interests and conflicts",
+          "Institutional roles of national, regional, and local authorities"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Tourism Product Development & Experience Design",
+          "Destination product portfolios and clustering",
+          "Developing cultural, nature-based, urban, and rural tourism products",
+          "Visitor experience design and quality standards",
+          "Infrastructure, services, and destination readiness"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Sustainability, Inclusion & Responsible Tourism",
+          "Sustainable tourism principles and frameworks",
+          "Community participation and benefit-sharing",
+          "Environmental management and climate considerations",
+          "Social inclusion, gender, and youth in tourism planning"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Destination Marketing, Branding & Investment Planning",
+          "Destination branding and positioning",
+          "Integrating planning with marketing and promotion",
+          "Tourism investment planning and project prioritisation",
+          "Public\u2013private partnerships and financing mechanisms"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Monitoring, Evaluation & Destination Action Planning",
+          "Destination performance indicators and data systems",
+          "Monitoring visitor impacts and destination health",
+          "Adaptive management and continuous improvement",
+          "Developing a destination management and tourism planning action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "type": "Hospitality and Tourism",
+    "title": "Food & Beverage Innovation & Restaurant Management",
+    "duration": "5 Days",
+    "slg": "food-and-beverage-innovation-and-restaurant-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Food & Beverage Innovation & Restaurant Management Course | SkillHub International",
+      "seoDescription": "Food & Beverage Innovation & Restaurant Management training course offered by SkillHub International.",
+      "seoKeywords": "food-and-beverage-innovation-and-restaurant-management, training course, skillhub",
+      "seoHeading": "Food & Beverage Innovation & Restaurant Management"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to manage modern food and beverage operations while driving innovation, efficiency, and profitability in restaurants, hotels, catering, and food service businesses. The course integrates F&B operations management, menu innovation, cost control, service excellence, food safety, and customer experience design. Participants will gain applied insight into how successful restaurants and F&B outlets innovate menus, manage costs, enhance service quality, comply with safety standards, and respond to changing consumer preferences and market trends.",
+    "audience": [
+      "Restaurant and F&B managers",
+      "Hotel and resort food & beverage supervisors",
+      "Catering and banquet managers",
+      "Chefs and kitchen supervisors",
+      "Hospitality entrepreneurs and restaurant owners",
+      "Food service supervisors and team leaders",
+      "Anyone involved in managing or innovating food and beverage operations"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand core principles of food and beverage management",
+        "Design innovative menus aligned to customer demand and cost targets",
+        "Manage food and beverage costs and profitability",
+        "Deliver high-quality service and guest dining experiences",
+        "Apply food safety, hygiene, and quality standards",
+        "Optimise restaurant operations and workflows",
+        "Develop an F&B improvement and innovation plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Food & Beverage Management",
+          "Role of F&B in hospitality profitability",
+          "Types of restaurant and catering operations",
+          "F&B organisational structures and responsibilities",
+          "Trends shaping modern food and beverage operations"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Menu Design, Innovation & Engineering",
+          "Menu planning and concept development",
+          "Menu engineering for profitability",
+          "Pricing strategies and portion control",
+          "Responding to dietary trends and customer preferences"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "F&B Cost Control & Financial Management",
+          "Food and beverage cost structures",
+          "Inventory management and stock control",
+          "Waste reduction and yield management",
+          "Budgeting and financial performance tracking"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Service Excellence & Restaurant Operations",
+          "Front-of-house and back-of-house coordination",
+          "Service standards and guest experience",
+          "Workflow optimisation and table management",
+          "Managing peak service periods"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Food Safety, Hygiene & Quality Assurance",
+          "Food safety principles and hygiene standards",
+          "Hazard analysis and risk control",
+          "Quality assurance and inspections",
+          "Compliance with food regulations"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Innovation, Technology & Sustainability in F&B",
+          "Technology in restaurant operations (POS, ordering systems)",
+          "Sustainable sourcing and green restaurant practices",
+          "Delivery, takeaway, and digital dining models",
+          "Innovation in service and operational design"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Practical Applications & Action Planning",
+          "Case studies in restaurant management and innovation",
+          "Operational audits and improvement planning",
+          "Developing an F&B innovation and management plan",
+          "Implementation challenges and best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "type": "Hospitality and Tourism",
+    "title": "Food Safety & HACCP Certification",
+    "duration": "5 Days",
+    "slg": "food-safety-and-haccp-certification",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Food Safety & HACCP Certification Course | SkillHub International",
+      "seoDescription": "Food Safety & HACCP Certification training course offered by SkillHub International.",
+      "seoKeywords": "food-safety-and-haccp-certification, training course, skillhub",
+      "seoHeading": "Food Safety & HACCP Certification"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to implement effective food safety management systems and comply with Hazard Analysis and Critical Control Point (HACCP) principles across food service, hospitality, catering, and food processing environments. The course integrates international food safety standards, HACCP methodology, hygiene and sanitation practices, and regulatory compliance. Participants will gain applied insight into identifying food safety hazards, establishing critical control points, implementing monitoring and corrective actions, and maintaining documentation\u2014ensuring safe food handling, legal compliance, and protection of consumer health across the food value chain.",
+    "audience": [
+      "Food handlers and food service staff",
+      "Chefs, kitchen supervisors, and catering managers",
+      "Restaurant, hotel, and lodge managers",
+      "Quality assurance and food safety officers",
+      "Food processing and manufacturing personnel",
+      "Health, safety, and compliance officers",
+      "Regulatory inspectors and environmental health practitioners",
+      "Anyone responsible for food safety and hygiene compliance"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand food safety risks and contamination hazards",
+        "Apply good hygiene and sanitation practices",
+        "Implement HACCP principles in food operations",
+        "Identify critical control points and monitoring procedures",
+        "Develop and maintain food safety documentation",
+        "Comply with food safety laws and regulatory requirements",
+        "Conduct basic food safety audits and inspections",
+        "Develop a practical food safety and HACCP implementation plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Food Safety",
+          "Importance of food safety and public health",
+          "Types of food contamination and hazards",
+          "Foodborne illnesses and prevention",
+          "Food safety legislation and standards",
+          "Roles and responsibilities in food safety"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Good Hygiene & Sanitation Practices",
+          "Personal hygiene and food handler responsibilities",
+          "Cleaning and sanitation procedures",
+          "Pest control and waste management",
+          "Safe food storage and temperature control",
+          "Equipment and facility hygiene"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "HACCP Principles & Hazard Analysis",
+          "Introduction to HACCP systems",
+          "Biological, chemical, and physical hazards",
+          "Conducting hazard analysis",
+          "Identifying critical control points (CCPs)",
+          "Establishing critical limits"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "HACCP Implementation & Monitoring",
+          "Monitoring procedures for CCPs",
+          "Corrective actions and verification processes",
+          "Record keeping and documentation",
+          "Traceability and recall procedures",
+          "Managing non-conformities"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Food Safety Systems & Auditing",
+          "Food safety management systems",
+          "Internal audits and inspections",
+          "Preparing for regulatory and third-party audits",
+          "Continuous improvement in food safety",
+          "Roles of supervisors and managers in HACCP"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Health, Safety & Regulatory Compliance",
+          "Occupational health and safety in food operations",
+          "Regulatory inspections and enforcement",
+          "Managing food safety incidents and outbreaks",
+          "Communication with authorities and stakeholders",
+          "Legal responsibilities and liabilities"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Certification & Action Planning",
+          "Requirements for HACCP certification",
+          "Preparing for HACCP assessments",
+          "Case studies in food safety implementation",
+          "Review and assessment of participant knowledge",
+          "Developing a food safety and HACCP action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "type": "Hospitality and Tourism",
+    "title": "Guest Experience Design & Service Excellence",
+    "duration": "5 Days",
+    "slg": "guest-experience-design-and-service-excellence",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Guest Experience Design & Service Excellence Course | SkillHub International",
+      "seoDescription": "Guest Experience Design & Service Excellence training course offered by SkillHub International.",
+      "seoKeywords": "guest-experience-design-and-service-excellence, training course, skillhub",
+      "seoHeading": "Guest Experience Design & Service Excellence"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design exceptional guest experiences and deliver consistent service excellence across hospitality and tourism operations. The course integrates principles of customer experience (CX) design, service psychology, emotional intelligence, service standards, and continuous improvement. Participants will gain applied insight into how guest journeys are designed, managed, and improved across touchpoints\u2014enhancing satisfaction, loyalty, reputation, and revenue in hotels, resorts, lodges, restaurants, and tourism services.",
+    "audience": [
+      "Front office, guest relations, and concierge teams",
+      "Hotel, resort, and lodge managers",
+      "Restaurant and F&B service supervisors",
+      "Customer service and experience managers",
+      "Tourism and hospitality operators",
+      "Quality assurance and training officers",
+      "Anyone responsible for guest-facing service delivery"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand the principles of guest experience and service excellence",
+        "Map and analyse end-to-end guest journeys",
+        "Apply service design tools to improve guest touchpoints",
+        "Demonstrate professional service etiquette and emotional intelligence",
+        "Handle complaints and service recovery effectively",
+        "Build consistent service standards and quality systems",
+        "Enhance guest satisfaction, loyalty, and brand reputation"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of Guest Experience & Service Excellence",
+          "Understanding guest expectations and service quality",
+          "Difference between service delivery and guest experience",
+          "Moments of truth in hospitality and tourism",
+          "Service excellence culture and values"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Guest Journey Mapping & Experience Design",
+          "Mapping the guest journey from pre-arrival to post-departure",
+          "Identifying pain points and delight moments",
+          "Designing seamless and personalised experiences",
+          "Aligning physical, digital, and human touchpoints"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "Emotional Intelligence & Service Psychology",
+          "Understanding guest emotions and behaviour",
+          "Communication skills and active listening",
+          "Professional etiquette and body language",
+          "Managing diverse guests and cultural sensitivity"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "Service Standards & Quality Management",
+          "Developing and implementing service standards",
+          "Standard operating procedures (SOPs) for service delivery",
+          "Measuring service quality and guest satisfaction",
+          "Using feedback, reviews, and surveys for improvement"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "Complaint Handling & Service Recovery",
+          "Types of guest complaints and root causes",
+          "Effective complaint handling techniques",
+          "Turning service failures into loyalty opportunities",
+          "Empowering staff for on-the-spot recovery"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Service Innovation & Team Alignment",
+          "Innovating guest experiences within operations",
+          "Empowering and motivating service teams",
+          "Cross-department collaboration for seamless service",
+          "Continuous improvement and service excellence culture"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Practical Applications & Action Planning",
+          "Real-life hospitality service case studies",
+          "Guest experience audits and improvement planning",
+          "Designing a guest experience enhancement plan",
+          "Personal and organisational service excellence action plans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "type": "Hospitality and Tourism",
+    "title": "Hospitality AI, Data & Smart Operations",
+    "duration": "5 Days",
+    "slg": "hospitality-ai-data-and-smart-operations",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Hospitality AI, Data & Smart Operations Course | SkillHub International",
+      "seoDescription": "Hospitality AI, Data & Smart Operations training course offered by SkillHub International.",
+      "seoKeywords": "hospitality-ai-data-and-smart-operations, training course, skillhub",
+      "seoHeading": "Hospitality AI, Data & Smart Operations"
+    },
+    "brochure": "",
+    "shortDesc": "",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to apply Artificial Intelligence (AI), data analytics, and smart technologies to optimise hospitality operations and enhance guest experiences. The course integrates AI fundamentals, hospitality data analytics, smart operations, automation, and digital decision-making. Participants will gain applied insight into how hotels, resorts, lodges, restaurants, and catering operations can leverage AI and data to improve efficiency, forecasting, staffing, pricing, service delivery, and overall operational performance\u2014while ensuring ethical use of data and regulatory compliance.",
+    "audience": [
+      "Hotel, resort, and lodge managers",
+      "Operations and facilities managers",
+      "Revenue, sales, and marketing managers",
+      "IT, systems, and digital transformation leads",
+      "Data and business analysts in hospitality",
+      "Hospitality entrepreneurs and business owners",
+      "Tourism and hospitality policymakers",
+      "Anyone involved in smart operations or digital innovation in hospitality"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand AI and data analytics concepts relevant to hospitality",
+        "Identify practical AI use cases across hospitality operations",
+        "Apply data-driven decision-making to improve efficiency and service quality",
+        "Use AI and analytics to support revenue, staffing, and demand forecasting",
+        "Implement smart operational tools and automation solutions",
+        "Manage data privacy, ethics, and governance considerations",
+        "Develop a practical AI and smart operations roadmap for hospitality organisations"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "lessons": [
+          "Foundations of AI & Data in Hospitality",
+          "Overview of AI, machine learning, and data analytics",
+          "Evolution of digital transformation in hospitality",
+          "AI versus traditional decision-making approaches",
+          "Opportunities and limitations of AI in hospitality operations"
+        ]
+      },
+      {
+        "module": 2,
+        "lessons": [
+          "Hospitality Data & Analytics",
+          "Types of hospitality data (guest, operational, financial)",
+          "Data collection, quality, and integration",
+          "Key analytics tools and dashboards for managers",
+          "Turning data into actionable operational insights"
+        ]
+      },
+      {
+        "module": 3,
+        "lessons": [
+          "AI in Smart Hospitality Operations",
+          "AI applications in front office and reservations",
+          "Smart housekeeping, maintenance, and facilities management",
+          "Workforce scheduling and productivity optimisation",
+          "Process automation and operational efficiency"
+        ]
+      },
+      {
+        "module": 4,
+        "lessons": [
+          "AI for Revenue, Demand & Capacity Management",
+          "Demand forecasting and booking pattern analysis",
+          "AI-driven pricing and inventory optimisation",
+          "Integrating AI into revenue management systems",
+          "Managing seasonality and peak demand"
+        ]
+      },
+      {
+        "module": 5,
+        "lessons": [
+          "AI in Guest Experience & Service Delivery",
+          "Chatbots and virtual concierge services",
+          "Personalisation and recommendation engines",
+          "AI-enabled feedback and sentiment analysis",
+          "Enhancing service consistency through automation"
+        ]
+      },
+      {
+        "module": 6,
+        "lessons": [
+          "Governance, Ethics & Cybersecurity",
+          "Data privacy and protection in hospitality",
+          "Ethical use of AI and algorithmic transparency",
+          "Cybersecurity risks and controls",
+          "Regulatory and compliance considerations"
+        ]
+      },
+      {
+        "module": 7,
+        "lessons": [
+          "Implementation, Innovation & Future Trends",
+          "Developing an AI and smart operations strategy",
+          "Change management and staff capability building",
+          "Measuring ROI of AI and digital investments",
+          "Future trends in smart hospitality and data-driven operations"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "type": "Hospitality and Tourism",
+    "title": "Hospitality Leadership & People Management",
+    "duration": "5 Days",
+    "slg": "hospitality-leadership-people-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Hospitality Leadership & People Management Course | SkillHub International",
+      "seoDescription": "Develop the leadership, supervisory, and people management skills needed to lead high-performing teams in hospitality. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "hospitality leadership training, people management course, hospitality supervisory skills, hotel management training, service culture development, skillhub",
+      "seoHeading": "Hospitality Leadership & People Management"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping hospitality professionals with leadership, communication, performance management, and labour relations skills to lead high-performing teams.",
+    "overview": "This comprehensive programme equips participants with the leadership, supervisory, and people management skills required to lead high-performing teams in hospitality and service-driven environments. The course integrates principles of leadership, communication, performance management, labour relations, staff motivation, and service culture development. Participants will gain applied insight into how effective leadership improves employee engagement, service quality, productivity, and retention in hotels, restaurants, resorts, lodges, and catering operations.",
+    "audience": [
+      "Supervisors, team leaders, and department heads",
+      "Hotel, restaurant, and catering managers",
+      "Front office, housekeeping, and F&B supervisors",
+      "Human resource and training officers in hospitality",
+      "Hospitality entrepreneurs and business owners",
+      "Anyone preparing for leadership roles in hospitality"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Demonstrate effective leadership and communication skills",
+        "Manage and motivate diverse hospitality teams",
+        "Apply performance management and coaching techniques",
+        "Handle workplace conflict and employee relations professionally",
+        "Build a positive service culture and team engagement",
+        "Understand labour law basics relevant to hospitality",
+        "Lead change and continuous improvement initiatives"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Leadership in Hospitality",
+        "lessons": [
+          "Leadership styles and their application in hospitality",
+          "Role of leaders in service-driven organisations",
+          "Leading by example and professional conduct",
+          "Building trust and credibility"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Communication & Team Dynamics",
+        "lessons": [
+          "Effective workplace communication",
+          "Managing multicultural and diverse teams",
+          "Team building and collaboration",
+          "Emotional intelligence in leadership"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Performance Management & Coaching",
+        "lessons": [
+          "Setting performance standards and expectations",
+          "Staff appraisal and feedback techniques",
+          "Coaching for service excellence and productivity",
+          "Identifying and developing talent"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Employee Engagement & Motivation",
+        "lessons": [
+          "Motivation theories and practical application",
+          "Managing shift work and staff scheduling",
+          "Reducing staff turnover and absenteeism",
+          "Building employee commitment and morale"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Labour Relations & Workplace Management",
+        "lessons": [
+          "Labour law basics for hospitality managers",
+          "Managing discipline and grievances",
+          "Health, safety, and staff wellbeing",
+          "Fair treatment and ethical leadership"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Change Management & Service Culture",
+        "lessons": [
+          "Leading change in hospitality environments",
+          "Embedding service excellence culture",
+          "Managing resistance to change",
+          "Continuous improvement and innovation"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Leadership Applications",
+        "lessons": [
+          "Leadership case studies in hospitality",
+          "Role plays and scenario-based learning",
+          "Developing a personal leadership action plan",
+          "Team and organisational improvement planning"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "Hospitality and Tourism",
+    "title": "Hospitality Revenue Management & Pricing",
+    "duration": "5 Days",
+    "slg": "hospitality-revenue-management-pricing",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Hospitality Revenue Management & Pricing Course | SkillHub International",
+      "seoDescription": "Master revenue optimisation, dynamic pricing, and demand forecasting for hospitality operations. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "hospitality revenue management, hotel pricing strategy, yield management course, RevPAR training, demand forecasting hospitality, skillhub",
+      "seoHeading": "Hospitality Revenue Management & Pricing"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping hospitality professionals with data-driven revenue management, pricing strategies, and performance analytics skills to maximise profitability.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to optimise revenue, pricing, and profitability across hospitality operations. The course integrates principles of revenue management, demand forecasting, pricing strategies, distribution channel management, and performance analytics. Participants will gain applied insight into how hotels, resorts, lodges, and restaurants use data-driven approaches to maximise revenue per available room/seat, manage seasonality, and respond effectively to changing market conditions.",
+    "audience": [
+      "Hotel general managers and operations managers",
+      "Revenue and yield managers",
+      "Sales and marketing managers",
+      "Front office and reservations supervisors",
+      "Finance and business analysts in hospitality",
+      "Lodge, resort, and boutique hotel owners",
+      "Anyone involved in pricing, sales strategy, or revenue optimisation"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand the principles of hospitality revenue management",
+        "Analyse demand patterns and market segments",
+        "Apply dynamic pricing and yield management strategies",
+        "Optimise room, food, beverage, and ancillary revenue",
+        "Manage distribution channels and online travel agencies (OTAs)",
+        "Use key revenue performance indicators effectively",
+        "Develop a practical revenue and pricing strategy for their organisation"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Hospitality Revenue Management",
+        "lessons": [
+          "Introduction to revenue management concepts",
+          "Revenue management in hotels, resorts, and restaurants",
+          "Understanding demand, supply, and price sensitivity",
+          "Revenue culture and organisational alignment"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Market Segmentation & Demand Forecasting",
+        "lessons": [
+          "Customer segmentation and booking behaviours",
+          "Seasonality, trends, and demand patterns",
+          "Forecasting techniques and tools",
+          "Using historical and market data for planning"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Pricing Strategies & Yield Management",
+        "lessons": [
+          "Dynamic pricing and rate optimisation",
+          "Price fences, discounts, and promotional strategies",
+          "Managing length of stay and inventory controls",
+          "Psychological pricing and value perception"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Distribution Channels & Sales Optimisation",
+        "lessons": [
+          "Direct bookings vs OTAs and third-party channels",
+          "Channel costs, commissions, and profitability",
+          "Rate parity and distribution strategy",
+          "Managing group, corporate, and contract rates"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Revenue Analytics & Performance Measurement",
+        "lessons": [
+          "Key metrics: ADR, RevPAR, GOPPAR, occupancy",
+          "Revenue dashboards and reporting",
+          "Benchmarking and competitive set analysis",
+          "Using insights to adjust pricing strategies"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Total Revenue Management",
+        "lessons": [
+          "Integrating rooms, F&B, events, and ancillary revenue",
+          "Cross-selling and upselling strategies",
+          "Revenue optimisation across the guest journey",
+          "Collaboration between revenue, sales, and operations teams"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Applications & Action Planning",
+        "lessons": [
+          "Case studies in hospitality revenue management",
+          "Revenue strategy simulation and scenario analysis",
+          "Developing a 12-month revenue and pricing plan",
+          "Implementation challenges and best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "type": "Hospitality and Tourism",
+    "title": "Hospitality Sales, Marketing & Brand Growth",
+    "duration": "5 Days",
+    "slg": "hospitality-sales-marketing-brand-growth",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Hospitality Sales, Marketing & Brand Growth Course | SkillHub International",
+      "seoDescription": "Learn to grow hospitality brands, drive sales performance, and increase market visibility. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "hospitality sales training, hotel marketing course, brand growth hospitality, digital marketing hotels, hospitality brand management, skillhub",
+      "seoHeading": "Hospitality Sales, Marketing & Brand Growth"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping hospitality professionals with sales strategy, digital marketing, brand positioning, and reputation management skills to drive sustainable revenue growth.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to grow hospitality brands, drive sales performance, and increase market visibility in competitive local and global markets. The course integrates hospitality sales strategy, digital marketing, brand positioning, distribution channel management, customer acquisition, and reputation management. Participants will gain applied insight into how hotels, resorts, lodges, restaurants, and catering businesses attract, convert, and retain guests \u2014 building strong brands and sustainable revenue growth in an increasingly digital, experience-driven hospitality landscape.",
+    "audience": [
+      "Hotel, resort, and lodge sales managers",
+      "Marketing and brand managers in hospitality",
+      "Restaurant and catering business owners",
+      "Front office, reservations, and guest relations supervisors",
+      "Tourism and hospitality entrepreneurs",
+      "Digital marketing and communications officers",
+      "Anyone responsible for sales growth, marketing, or brand management in hospitality"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Develop effective hospitality sales and marketing strategies",
+        "Position and differentiate hospitality brands competitively",
+        "Manage digital marketing and online booking channels",
+        "Apply sales techniques to increase occupancy and revenue",
+        "Strengthen brand reputation and customer loyalty",
+        "Use data and performance metrics to optimise marketing spend",
+        "Create an integrated sales, marketing, and brand growth plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Hospitality Sales & Marketing",
+        "lessons": [
+          "Overview of hospitality markets and buyer behaviour",
+          "Sales versus marketing roles in hospitality",
+          "Brand identity, positioning, and value propositions",
+          "Aligning sales and marketing for growth"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Hospitality Sales Strategy & Revenue Growth",
+        "lessons": [
+          "Sales planning and target setting",
+          "Corporate, group, leisure, and MICE sales strategies",
+          "Relationship management and key account sales",
+          "Negotiation, contracting, and closing techniques"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Digital Marketing & Online Presence",
+        "lessons": [
+          "Websites, booking engines, and conversion optimisation",
+          "Search engine optimisation (SEO) and paid digital advertising",
+          "Social media marketing and content strategy",
+          "Influencer marketing and partnerships"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Distribution Channels & Market Reach",
+        "lessons": [
+          "Direct bookings vs OTAs and third-party platforms",
+          "Channel costs, commissions, and profitability",
+          "Rate parity and channel optimisation",
+          "Managing travel agents and distribution partners"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Brand Management & Reputation",
+        "lessons": [
+          "Brand storytelling and experience-led branding",
+          "Online reputation management and guest reviews",
+          "Customer loyalty programmes and repeat business",
+          "Managing brand consistency across touchpoints"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Marketing Analytics & Performance Measurement",
+        "lessons": [
+          "Sales and marketing KPIs for hospitality",
+          "Campaign tracking and return on investment (ROI)",
+          "Using data to refine targeting and messaging",
+          "Budgeting and marketing spend optimisation"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Applications & Growth Planning",
+        "lessons": [
+          "Case studies in hospitality sales and brand growth",
+          "Developing an integrated sales and marketing plan",
+          "Brand audit and improvement roadmap",
+          "Implementation challenges and best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": "Hospitality and Tourism",
+    "title": "Restaurant & Culinary Skills for Supervisors",
+    "duration": "5 Days",
+    "slg": "restaurant-culinary-skills-for-supervisors",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Restaurant & Culinary Skills for Supervisors Course | SkillHub International",
+      "seoDescription": "Equip restaurant and kitchen supervisors with the skills to manage operations, ensure food safety, and deliver exceptional service. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "restaurant supervisor training, culinary skills for supervisors, kitchen management course, food and beverage supervision, restaurant operations training, skillhub",
+      "seoHeading": "Restaurant & Culinary Skills for Supervisors"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping restaurant and kitchen supervisors with the operational, culinary, food safety, and people management skills to lead high-quality service delivery.",
+    "overview": "This comprehensive programme equips restaurant and kitchen supervisors with the knowledge and practical skills required to effectively manage day-to-day restaurant operations while supporting high-quality culinary production and service delivery. The course integrates principles of restaurant operations, basic culinary management, food safety, service quality, staff supervision, and operational control. Participants will gain applied insight into how supervisors can coordinate front-of-house and kitchen teams, maintain quality and consistency, control costs, and ensure excellent customer experiences.",
+    "audience": [
+      "Restaurant and dining supervisors",
+      "Assistant restaurant managers",
+      "Kitchen supervisors and sous chefs",
+      "Food and beverage supervisors",
+      "Catering and banqueting supervisors",
+      "Hospitality SME owners and team leaders",
+      "Senior waitstaff and shift leaders",
+      "Anyone supervising restaurant or kitchen operations"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand core restaurant and culinary operations",
+        "Supervise kitchen and service teams effectively",
+        "Apply food safety, hygiene, and quality standards",
+        "Coordinate service flow between front-of-house and kitchen",
+        "Implement basic cost control and waste reduction measures",
+        "Handle customer service issues and complaints professionally",
+        "Develop a practical restaurant and culinary supervision action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Restaurant & Culinary Operations",
+        "lessons": [
+          "Structure and organisation of restaurant operations",
+          "Roles and responsibilities of supervisors",
+          "Front-of-house and kitchen coordination",
+          "Daily operational planning and controls"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Culinary Basics for Supervisors",
+        "lessons": [
+          "Understanding kitchen workflows and production processes",
+          "Menu knowledge, ingredients, and preparation methods",
+          "Portion control and consistency",
+          "Supporting chefs and kitchen teams"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Service Excellence & Customer Experience",
+        "lessons": [
+          "Service standards and guest expectations",
+          "Managing service flow and peak periods",
+          "Handling complaints and service recovery",
+          "Communication and teamwork in service delivery"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Food Safety, Hygiene & Compliance",
+        "lessons": [
+          "Food safety principles and hygiene practices",
+          "Health regulations and inspections",
+          "Hazard prevention and risk control",
+          "Supervisor responsibilities for compliance"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "People Management & Supervision Skills",
+        "lessons": [
+          "Supervisory leadership and motivation",
+          "Staff scheduling and task allocation",
+          "Coaching, feedback, and performance management",
+          "Managing discipline and workplace conduct"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Cost Awareness, Waste Control & Efficiency",
+        "lessons": [
+          "Basic food and beverage cost concepts",
+          "Stock handling and waste reduction",
+          "Productivity and labour efficiency",
+          "Supporting profitability through daily controls"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Operational Control & Action Planning",
+        "lessons": [
+          "Monitoring service and kitchen performance",
+          "Using checklists and standard operating procedures",
+          "Continuous improvement in restaurant operations",
+          "Developing a restaurant and culinary supervision action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "type": "Hospitality and Tourism",
+    "title": "Smart Tourism, Data & Digital Innovation",
+    "duration": "5 Days",
+    "slg": "smart-tourism-data-digital-innovation",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Smart Tourism, Data & Digital Innovation Course | SkillHub International",
+      "seoDescription": "Learn to design and manage smart tourism initiatives using data, AI, IoT, and digital technologies to enhance destination performance and visitor experiences. Enrol with SkillHub International.",
+      "seoKeywords": "smart tourism training, digital innovation tourism, tourism data analytics, destination management digital, smart city tourism course, tourism digitalisation, skillhub",
+      "seoHeading": "Smart Tourism, Data & Digital Innovation"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping tourism and hospitality professionals with the digital tools, data analytics, and innovation strategies to drive smart tourism development.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design, implement, and manage smart tourism initiatives that leverage data, digital technologies, and innovation to enhance destination performance, visitor experiences, and sustainable tourism development. The course integrates principles of smart tourism ecosystems, digital transformation, data analytics, and innovation management. Participants will gain applied insight into how technologies such as big data, artificial intelligence, IoT, mobile platforms, and digital marketing can be used to improve planning, operations, governance, and competitiveness \u2014 particularly within emerging destinations, cities, and developing tourism markets.",
+    "audience": [
+      "Tourism boards and destination management organisations (DMOs)",
+      "Hospitality and tourism managers and supervisors",
+      "Government tourism and municipal planning officials",
+      "Travel, tour, and attraction operators",
+      "Digital marketing and customer experience professionals",
+      "Smart city and urban development practitioners",
+      "NGOs and donor-funded tourism project staff",
+      "Entrepreneurs and innovators in tourism and hospitality",
+      "Anyone involved in tourism digitalisation and innovation"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand the principles and components of smart tourism ecosystems",
+        "Apply data and digital tools to tourism planning and decision-making",
+        "Design technology-enabled visitor journeys and experiences",
+        "Leverage emerging technologies to improve tourism operations",
+        "Use digital platforms for tourism marketing, branding, and engagement",
+        "Strengthen governance, data management, and cybersecurity practices",
+        "Develop a practical smart tourism and digital innovation action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Smart Tourism & Digital Transformation",
+        "lessons": [
+          "Concepts and evolution of smart tourism",
+          "Smart tourism versus traditional tourism models",
+          "Digital transformation in tourism and hospitality",
+          "Smart destinations and smart cities",
+          "Global and regional smart tourism best practices"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Tourism Data & Analytics for Decision-Making",
+        "lessons": [
+          "Types and sources of tourism data",
+          "Visitor data collection methods and tools",
+          "Demand forecasting and capacity management",
+          "Data-driven destination planning and policy-making",
+          "Tourism performance dashboards and indicators"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Digital Visitor Experience & Smart Services",
+        "lessons": [
+          "Mapping and designing digital visitor journeys",
+          "Mobile applications, QR codes, and digital touchpoints",
+          "Personalisation and experience management",
+          "Smart attractions, museums, and heritage sites",
+          "Accessibility and inclusive tourism through technology"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Emerging Technologies in Tourism",
+        "lessons": [
+          "Artificial intelligence and automation in tourism",
+          "Internet of Things (IoT) and smart infrastructure",
+          "Smart mobility and transport solutions",
+          "Virtual and augmented reality in tourism experiences",
+          "Innovation pilots and proof-of-concept projects"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Digital Marketing, Platforms & Online Engagement",
+        "lessons": [
+          "Digital tourism marketing strategies",
+          "Social media, content marketing, and influencers",
+          "Online booking platforms and distribution channels",
+          "Reputation management and online reviews",
+          "Data-driven marketing and customer insights"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Governance, Data Protection & Ethics",
+        "lessons": [
+          "Smart tourism governance and institutional coordination",
+          "Data privacy, cybersecurity, and regulatory compliance",
+          "Ethical use of data and artificial intelligence",
+          "Stakeholder collaboration in smart tourism ecosystems",
+          "Managing digital risks and system resilience"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Smart Tourism Strategy & Action Planning",
+        "lessons": [
+          "Aligning smart tourism with sustainability and resilience goals",
+          "Measuring impacts of digital and smart tourism initiatives",
+          "Case studies in smart tourism implementation",
+          "Financing and scaling digital tourism solutions",
+          "Developing a smart tourism, data, and digital innovation action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "type": "Hospitality and Tourism",
+    "title": "Sustainable Hospitality, Green Hotel & Catering Management",
+    "duration": "5 Days",
+    "slg": "sustainable-hospitality-green-hotel-catering-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Sustainable Hospitality, Green Hotel & Catering Management Course | SkillHub International",
+      "seoDescription": "Learn to design and manage sustainable, eco-responsible practices across hospitality, hotel, and catering operations. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "sustainable hospitality training, green hotel management, eco-friendly catering course, ESG hospitality, environmental management hotels, green operations training, skillhub",
+      "seoHeading": "Sustainable Hospitality, Green Hotel & Catering Management"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping hospitality and catering professionals with sustainability, green operations, ESG compliance, and resource efficiency skills to drive responsible business practices.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design, implement, and manage sustainable and environmentally responsible practices across hospitality, hotel, and catering operations. The course integrates principles of sustainability, environmental management, resource efficiency, waste reduction, ethical sourcing, and ESG practices within hospitality settings. Participants will gain applied insight into how green operations reduce costs, enhance brand reputation, meet regulatory and ESG requirements, and respond to the growing demand for responsible and eco-conscious hospitality and catering services.",
+    "audience": [
+      "Hotel, resort, and lodge managers",
+      "Restaurant, catering, and food service managers",
+      "Facilities and operations managers",
+      "Sustainability and ESG officers",
+      "Tourism and hospitality policymakers",
+      "Hospitality entrepreneurs and business owners",
+      "Quality assurance and compliance officers",
+      "Anyone responsible for sustainable hospitality operations"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand sustainability principles in hospitality and catering",
+        "Identify environmental impacts across hotel and catering operations",
+        "Implement energy, water, and waste efficiency measures",
+        "Apply sustainable food sourcing and catering practices",
+        "Develop green operational policies and procedures",
+        "Measure and report sustainability performance",
+        "Align hospitality operations with ESG and regulatory standards"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Sustainable Hospitality",
+        "lessons": [
+          "Sustainability concepts and global hospitality trends",
+          "Environmental impacts of hotels and catering operations",
+          "Business case for green hospitality",
+          "Overview of sustainability standards and certifications"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Energy & Water Management in Hospitality",
+        "lessons": [
+          "Energy efficiency in hotels and kitchens",
+          "Renewable energy options for hospitality facilities",
+          "Water conservation and reuse strategies",
+          "Monitoring and reducing utility costs"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Waste Management & Green Catering Practices",
+        "lessons": [
+          "Waste streams in hotels and catering operations",
+          "Food waste reduction and circular economy approaches",
+          "Sustainable packaging and single-use plastics reduction",
+          "Composting and recycling practices"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Sustainable Food, Procurement & Supply Chains",
+        "lessons": [
+          "Ethical and local sourcing of food and beverages",
+          "Sustainable menus and menu engineering",
+          "Supplier evaluation and green procurement",
+          "Reducing food miles and environmental footprint"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Green Operations, Facilities & Housekeeping",
+        "lessons": [
+          "Eco-friendly housekeeping practices",
+          "Green cleaning products and chemical management",
+          "Sustainable laundry and linen management",
+          "Indoor air quality and guest comfort"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "ESG, Compliance & Green Certification",
+        "lessons": [
+          "ESG principles in hospitality and catering",
+          "Regulatory requirements and environmental compliance",
+          "Green hotel and catering certifications",
+          "Sustainability reporting and communication"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Applications & Action Planning",
+        "lessons": [
+          "Sustainability audits and baseline assessments",
+          "Developing a green hotel or catering action plan",
+          "Staff engagement and behaviour change",
+          "Case studies and best practices in sustainable hospitality"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "type": "Hospitality and Tourism",
+    "title": "Sustainable Tourism & Eco-Tourism Management",
+    "duration": "5 Days",
+    "slg": "sustainable-tourism-eco-tourism-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Sustainable Tourism & Eco-Tourism Management Course | SkillHub International",
+      "seoDescription": "Learn to design, manage, and promote sustainable and eco-tourism initiatives that balance environmental protection, community development, and economic viability. Enrol with SkillHub International.",
+      "seoKeywords": "sustainable tourism training, eco-tourism management course, responsible tourism, conservation tourism, community-based tourism, eco-lodge management, skillhub",
+      "seoHeading": "Sustainable Tourism & Eco-Tourism Management"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping tourism professionals with the skills to design and manage sustainable and eco-tourism initiatives that protect the environment, empower communities, and drive responsible growth.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design, manage, and promote sustainable tourism and eco-tourism initiatives that balance environmental protection, community development, and economic viability. The course integrates principles of sustainable tourism planning, eco-tourism operations, conservation, community engagement, responsible marketing, and policy frameworks. Participants will gain applied insight into how destinations, tour operators, lodges, and tourism enterprises can minimise environmental impact, enhance local livelihoods, comply with sustainability standards, and meet the growing demand for responsible and authentic tourism experiences \u2014 particularly in emerging and nature-based destinations.",
+    "audience": [
+      "Tourism and destination managers",
+      "Eco-lodge, lodge, and resort operators",
+      "Tour operators and guides",
+      "Conservation and community development practitioners",
+      "Tourism policymakers and local government officials",
+      "NGOs and donor-funded tourism programme staff",
+      "Hospitality and tourism entrepreneurs",
+      "Anyone involved in sustainable or eco-tourism development"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand core principles of sustainable tourism and eco-tourism",
+        "Assess environmental and social impacts of tourism activities",
+        "Design and manage eco-tourism products and experiences",
+        "Engage communities and stakeholders in sustainable tourism development",
+        "Apply conservation and resource-management practices",
+        "Implement sustainability standards, certification, and monitoring systems",
+        "Develop a practical sustainable tourism or eco-tourism action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Sustainable Tourism & Eco-Tourism",
+        "lessons": [
+          "Concepts and principles of sustainable tourism",
+          "Difference between mass tourism and eco-tourism",
+          "Environmental, social, and economic pillars of sustainability",
+          "Global trends and demand for responsible tourism"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Environmental Management & Conservation in Tourism",
+        "lessons": [
+          "Tourism impacts on ecosystems and biodiversity",
+          "Conservation-based tourism models",
+          "Resource management: water, energy, and waste",
+          "Minimising carbon footprint and environmental degradation"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Community-Based Tourism & Local Development",
+        "lessons": [
+          "Community engagement and participation models",
+          "Inclusive tourism value chains",
+          "Cultural heritage protection and interpretation",
+          "Measuring socio-economic impact of tourism"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Eco-Tourism Operations & Product Development",
+        "lessons": [
+          "Designing eco-tourism experiences and itineraries",
+          "Managing eco-lodges, camps, and nature-based attractions",
+          "Visitor management and carrying capacity",
+          "Health, safety, and responsible guiding practices"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Sustainable Tourism Policy, Standards & Certification",
+        "lessons": [
+          "Sustainable tourism policies and governance",
+          "Eco-tourism standards and certification schemes",
+          "Regulatory compliance and reporting",
+          "Monitoring, evaluation, and continuous improvement"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Marketing & Promotion of Sustainable Tourism",
+        "lessons": [
+          "Branding and positioning sustainable destinations",
+          "Responsible tourism marketing and storytelling",
+          "Digital marketing for eco-tourism products",
+          "Managing visitor expectations and responsible behaviour"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Applications & Action Planning",
+        "lessons": [
+          "Sustainability audits and baseline assessments",
+          "Case studies in eco-tourism and sustainable destinations",
+          "Developing a sustainable tourism or eco-tourism action plan",
+          "Implementation challenges and best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "type": "Hospitality and Tourism",
+    "title": "Tourism Entrepreneurship & SME Development",
+    "duration": "5 Days",
+    "slg": "tourism-entrepreneurship-sme-development",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Tourism Entrepreneurship & SME Development Course | SkillHub International",
+      "seoDescription": "Gain the skills to start, manage, and scale tourism enterprises and SMEs in a competitive market. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "tourism entrepreneurship training, tourism SME development, hospitality business planning, tourism start-up course, small business tourism, enterprise development tourism, skillhub",
+      "seoHeading": "Tourism Entrepreneurship & SME Development"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping tourism entrepreneurs and SME owners with business planning, financial management, digital marketing, and growth strategies to build resilient tourism enterprises.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to start, manage, and scale tourism enterprises and small and medium-sized enterprises (SMEs) in a competitive and rapidly evolving tourism market. The course integrates principles of tourism entrepreneurship, business planning, financial management, market access, innovation, digitalisation, and enterprise sustainability. Participants will gain applied insight into how tourism SMEs can create jobs, drive local economic growth, strengthen value chains, and build resilient, market-oriented businesses \u2014 particularly within emerging and developing tourism destinations.",
+    "audience": [
+      "Aspiring and early-stage tourism entrepreneurs",
+      "Owners and managers of tourism SMEs",
+      "Youth and women entrepreneurs in tourism",
+      "Community-based tourism enterprise leaders",
+      "Tour operators, guides, and hospitality start-ups",
+      "Business development service (BDS) providers",
+      "NGOs and donor-funded entrepreneurship programmes",
+      "Anyone involved in tourism enterprise development and SME support"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand tourism entrepreneurship and SME business models",
+        "Identify viable tourism business opportunities and niches",
+        "Develop bankable tourism business and growth plans",
+        "Manage finances, pricing, and cash flow in tourism enterprises",
+        "Apply marketing, branding, and digital tools for tourism SMEs",
+        "Strengthen operational efficiency and service quality",
+        "Develop a practical tourism SME business or growth action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Tourism Entrepreneurship",
+        "lessons": [
+          "Tourism entrepreneurship concepts and trends",
+          "Overview of tourism value chains and SME roles",
+          "Identifying tourism business opportunities and niches",
+          "Innovation and differentiation in tourism markets"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Business Planning & Financial Management",
+        "lessons": [
+          "Developing tourism business models and value propositions",
+          "Business planning for start-ups and SMEs",
+          "Costing, pricing, and revenue management",
+          "Financial management, budgeting, and cash-flow control"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Operations, Quality & Regulatory Compliance",
+        "lessons": [
+          "Managing tourism operations and service delivery",
+          "Quality standards and customer experience management",
+          "Health, safety, and regulatory requirements",
+          "Licensing, permits, and compliance for tourism SMEs"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Marketing, Branding & Digital Enablement",
+        "lessons": [
+          "Branding and positioning tourism enterprises",
+          "Sales channels, distribution, and partnerships",
+          "Digital marketing, online platforms, and social media",
+          "E-commerce, booking systems, and customer engagement tools"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Access to Finance, Markets & Partnerships",
+        "lessons": [
+          "Financing options for tourism SMEs",
+          "Working with banks, investors, and donors",
+          "Market access, linkages, and supplier integration",
+          "Partnerships with tour operators, platforms, and DMOs"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Growth, Innovation & Business Resilience",
+        "lessons": [
+          "Scaling tourism SMEs and managing growth",
+          "Product diversification and innovation strategies",
+          "Risk management and business resilience",
+          "Sustainability and responsible tourism practices"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Enterprise Support & Action Planning",
+        "lessons": [
+          "Business development services for tourism SMEs",
+          "Mentorship, coaching, and incubation models",
+          "Measuring enterprise performance and impact",
+          "Developing a tourism entrepreneurship or SME growth action plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "type": "Hospitality and Tourism",
+    "title": "Tourism Marketing, Branding & Digital Promotion",
+    "duration": "5 Days",
+    "slg": "tourism-marketing-branding-digital-promotion",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Tourism Marketing, Branding & Digital Promotion Course | SkillHub International",
+      "seoDescription": "Master destination branding, digital marketing, and tourism promotion strategies to attract visitors and drive sustainable demand. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "tourism marketing course, destination branding training, digital promotion tourism, DMO marketing, tourism content strategy, online tourism marketing, skillhub",
+      "seoHeading": "Tourism Marketing, Branding & Digital Promotion"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping tourism professionals with destination branding, digital marketing, content creation, and analytics skills to attract visitors and grow tourism demand.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to market tourism destinations, products, and experiences effectively in competitive local and global markets. The course integrates destination branding, tourism marketing strategy, digital promotion, content creation, social media, data-driven marketing, and reputation management. Participants will gain applied insight into how tourism boards, tour operators, destinations, and hospitality businesses build strong brands, attract visitors, increase conversions, and sustain demand using modern digital and storytelling-driven marketing approaches.",
+    "audience": [
+      "Tourism board and destination marketing organisation (DMO) staff",
+      "Tour operators and travel company managers",
+      "Marketing and communications officers in tourism",
+      "Hospitality and attraction marketing teams",
+      "Tourism entrepreneurs and SMEs",
+      "Digital marketing and content creators in tourism",
+      "Anyone responsible for tourism promotion, branding, or visitor growth"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Develop effective tourism marketing and branding strategies",
+        "Position destinations and tourism products competitively",
+        "Apply digital marketing tools to attract and convert visitors",
+        "Create compelling tourism content and storytelling campaigns",
+        "Manage online reputation and visitor engagement",
+        "Use data and analytics to optimise marketing performance",
+        "Design an integrated tourism marketing and digital promotion plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Tourism Marketing & Branding",
+        "lessons": [
+          "Tourism market dynamics and traveller behaviour",
+          "Destination and product branding concepts",
+          "Value propositions and competitive positioning",
+          "Aligning branding with destination identity and experience"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Destination Branding & Storytelling",
+        "lessons": [
+          "Building strong destination and tourism brands",
+          "Storytelling, culture, and experiential branding",
+          "Visual identity and brand consistency",
+          "Managing destination image and perception"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Digital Marketing Channels for Tourism",
+        "lessons": [
+          "Tourism websites and conversion optimisation",
+          "Search engine optimisation (SEO) and paid advertising",
+          "Social media platforms and content strategy",
+          "Influencer marketing and partnerships"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Content Creation & Visitor Engagement",
+        "lessons": [
+          "Content planning for tourism marketing",
+          "Photography, video, and user-generated content",
+          "Managing online communities and engagement",
+          "Email marketing and customer journey nurturing"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Distribution Platforms & Online Presence",
+        "lessons": [
+          "Online travel agencies (OTAs) and booking platforms",
+          "Destination websites and digital marketplaces",
+          "Channel performance and cost management",
+          "Integrating digital promotion with sales channels"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Reputation Management & Marketing Analytics",
+        "lessons": [
+          "Managing reviews, ratings, and feedback",
+          "Crisis communication and brand protection",
+          "Marketing KPIs and performance measurement",
+          "Using data to refine targeting and campaigns"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Applications & Action Planning",
+        "lessons": [
+          "Case studies in tourism branding and digital promotion",
+          "Developing a tourism marketing and digital strategy",
+          "Campaign planning and budgeting",
+          "Implementation challenges and best practices"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "type": "Hospitality and Tourism",
+    "title": "Tourism Resilience, Crisis & Risk Management",
+    "duration": "5 Days",
+    "slg": "tourism-resilience-crisis-risk-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Tourism Resilience, Crisis & Risk Management Course | SkillHub International",
+      "seoDescription": "Build the skills to anticipate, prepare for, and recover from crises affecting the tourism sector. Enrol in this 5-day programme with SkillHub International.",
+      "seoKeywords": "tourism resilience training, crisis management tourism, tourism risk assessment, disaster management hospitality, business continuity tourism, emergency response tourism, skillhub",
+      "seoHeading": "Tourism Resilience, Crisis & Risk Management"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day programme equipping tourism professionals with risk assessment, crisis preparedness, emergency response, and recovery strategies to build long-term destination and enterprise resilience.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to anticipate, prepare for, respond to, and recover from crises and risks affecting the tourism sector, while strengthening long-term resilience at destination and enterprise levels. The course integrates principles of tourism risk assessment, crisis preparedness, emergency response, business continuity, climate change adaptation, and post-crisis recovery planning. Participants will gain applied insight into how tourism destinations and businesses can manage shocks such as natural disasters, health emergencies, security incidents, climate impacts, and economic disruptions \u2014 particularly within African and Global South contexts where vulnerability and exposure are often high.",
+    "audience": [
+      "Tourism board and destination management organisation (DMO) officials",
+      "Hotel, lodge, resort, and attraction managers",
+      "Tour operators and travel agency executives",
+      "Aviation, cruise, and transport sector professionals",
+      "Government officials in tourism, environment, and disaster management",
+      "Community-based tourism leaders and SMEs",
+      "NGOs, development agencies, and donor-funded tourism projects",
+      "Risk, safety, and compliance officers in hospitality and tourism"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Identify and assess key risks affecting tourism destinations and enterprises",
+        "Design and implement tourism crisis preparedness and response plans",
+        "Strengthen organisational and destination-level resilience",
+        "Apply effective crisis leadership and communication strategies",
+        "Integrate climate change adaptation and disaster risk reduction into tourism planning",
+        "Develop recovery and future-proofing strategies for tourism systems",
+        "Produce a practical tourism resilience and crisis management action plan"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Foundations of Tourism Risk & Resilience",
+        "lessons": [
+          "Tourism risk typologies: natural, health, political, economic, and technological",
+          "Understanding vulnerability, exposure, and resilience in tourism",
+          "Climate change impacts on tourism destinations",
+          "Global and regional tourism risk trends and lessons"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Risk Assessment & Preparedness Planning",
+        "lessons": [
+          "Tourism risk identification and prioritisation tools",
+          "Destination and enterprise-level risk mapping",
+          "Crisis preparedness frameworks for tourism",
+          "Early warning systems and contingency planning"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Crisis Response & Emergency Management",
+        "lessons": [
+          "Emergency response planning for tourism operations",
+          "Safety, security, and evacuation procedures",
+          "Coordination with public authorities and emergency services",
+          "Managing tourists, staff, and assets during crises"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Crisis Leadership & Communication",
+        "lessons": [
+          "Leadership and decision-making under crisis conditions",
+          "Crisis communication strategies and media management",
+          "Stakeholder engagement during emergencies",
+          "Managing reputation, trust, and misinformation"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Business Continuity & Operational Resilience",
+        "lessons": [
+          "Business continuity planning for tourism enterprises",
+          "Financial risk management and insurance in tourism",
+          "Supply chain and service continuity strategies",
+          "Workforce protection and organisational resilience"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Recovery, Adaptation & Sustainable Rebuilding",
+        "lessons": [
+          "Post-crisis recovery planning and destination repositioning",
+          "Learning from global tourism crises and shocks",
+          "Climate-resilient and disaster-ready tourism development",
+          "Building back better through sustainability and inclusion"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Monitoring, Learning & Action Planning",
+        "lessons": [
+          "Monitoring resilience and preparedness indicators",
+          "Evaluating crisis response and recovery effectiveness",
+          "Continuous improvement and institutional learning",
+          "Developing a tourism resilience, crisis, and risk management action plan"
+        ]
+      }
+    ]
   }
 ];
 
