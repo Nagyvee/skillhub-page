@@ -47,6 +47,7 @@ interface CoursesGridProps {
   totalPages: number
   currentCategory?: string
   baseUrl: string
+  showCategoryNavigation?: boolean
 }
 
 export function CoursesGrid({
@@ -55,7 +56,8 @@ export function CoursesGrid({
   currentPage,
   totalPages,
   currentCategory = "All",
-  baseUrl
+  baseUrl,
+  showCategoryNavigation = true,
 }: CoursesGridProps) {
   const router = useRouter()
   const pathname = usePathname()
@@ -129,21 +131,22 @@ export function CoursesGrid({
 
             {/* Dropdown filters + mobile categories button */}
             <div className="flex flex-wrap items-center gap-3">
-              {/* Mobile-only Categories trigger */}
-              <button
-                onClick={() => setIsModalOpen(true)}
-                className="md:hidden flex items-center gap-2 h-10 rounded-lg border border-border/60 bg-card px-4 text-sm font-medium text-foreground transition-colors hover:bg-secondary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/40"
-                aria-haspopup="dialog"
-                aria-expanded={isModalOpen}
-              >
-                <SlidersHorizontal className="h-4 w-4 text-accent" />
-                Categories
-                {currentCategory !== "All" && (
-                  <span className="ml-1 inline-flex h-5 min-w-[1.25rem] items-center justify-center rounded-full bg-accent px-1.5 text-[10px] font-bold text-accent-foreground">
-                    1
-                  </span>
-                )}
-              </button>
+              {showCategoryNavigation && (
+                <button
+                  onClick={() => setIsModalOpen(true)}
+                  className="md:hidden flex items-center gap-2 h-10 rounded-lg border border-border/60 bg-card px-4 text-sm font-medium text-foreground transition-colors hover:bg-secondary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/40"
+                  aria-haspopup="dialog"
+                  aria-expanded={isModalOpen}
+                >
+                  <SlidersHorizontal className="h-4 w-4 text-accent" />
+                  Categories
+                  {currentCategory !== "All" && (
+                    <span className="ml-1 inline-flex h-5 min-w-[1.25rem] items-center justify-center rounded-full bg-accent px-1.5 text-[10px] font-bold text-accent-foreground">
+                      1
+                    </span>
+                  )}
+                </button>
+              )}
 
               <select
                 value={duration}
@@ -162,9 +165,10 @@ export function CoursesGrid({
 
 
         {/* Category pills – desktop only */}
-        <div className="mt-8 hidden md:block">
-          <div className="flex flex-wrap gap-2">
-            {categories.map((cat) => {
+        {showCategoryNavigation && (
+          <div className="mt-8 hidden md:block">
+            <div className="flex flex-wrap gap-2">
+              {categories.map((cat) => {
               // Construct URL:
               // If All -> /courses
               // If Category -> /courses/category/[cat]
@@ -198,15 +202,18 @@ export function CoursesGrid({
             })}
           </div>
         </div>
+      )}
 
-        {/* Mobile category modal */}
-        <CategoryModal
-          categories={categories}
-          currentCategory={currentCategory}
-          isOpen={isModalOpen}
-          onClose={() => setIsModalOpen(false)}
-          onSelect={handleCategorySelect}
-        />
+      {/* Mobile category modal */}
+      {showCategoryNavigation && (
+          <CategoryModal
+            categories={categories}
+            currentCategory={currentCategory}
+            isOpen={isModalOpen}
+            onClose={() => setIsModalOpen(false)}
+            onSelect={handleCategorySelect}
+          />
+        )}
 
         {/* Results count */}
         <div className="mt-8 text-sm text-muted-foreground">
