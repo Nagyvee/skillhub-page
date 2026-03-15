@@ -6,6 +6,8 @@ import { Footer } from "@/components/footer"
 
 // Course data utilities
 import { getCourseBySlug, allCourses } from "@/lib/courses-data"
+import { Microsoft } from "@/short-courses/Microsoft"
+import type { Course } from "@/lib/courses-data"
 
 // Next.js utilities
 import { notFound } from "next/navigation"
@@ -23,7 +25,9 @@ interface CoursePageProps {
 // This allows Next.js to pre-build each course page at build time
 // ------------------------------------------------------------
 export async function generateStaticParams() {
-    return allCourses.map((course) => ({
+    const microsoftCourses = Microsoft as Course[]
+
+    return [...allCourses, ...microsoftCourses].map((course) => ({
         slug: course.slg, // Ensure this matches your course slug field
     }))
 }
@@ -39,8 +43,10 @@ export async function generateMetadata({
     // Extract slug from dynamic route params
     const { slug } = await params
 
-    // Retrieve course using slug
-    const course = getCourseBySlug(slug)
+    // Retrieve course using slug (include Microsoft course catalog)
+    const course =
+        getCourseBySlug(slug) ||
+        (Microsoft as Course[]).find((c) => c.slg === slug)
 
     // If no course found, return fallback metadata
     if (!course) {
@@ -91,8 +97,10 @@ export default async function CoursePage({ params }: CoursePageProps) {
     // Extract slug from params
     const { slug } = await params
 
-    // Fetch the course data
-    const course = getCourseBySlug(slug)
+    // Fetch the course data (include Microsoft course catalog)
+    const course =
+        getCourseBySlug(slug) ||
+        (Microsoft as Course[]).find((c) => c.slg === slug)
 
     // If course does not exist, trigger Next.js 404 page
     if (!course) {
