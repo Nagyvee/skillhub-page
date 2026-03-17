@@ -87,22 +87,11 @@ export const galleryItems: GalleryItem[] = [
         span: "medium"
     },
     {
-        id: "14",
-        src: "/asset/img8.webp",
-        category: "Community",
-        span: "small"
-    },
-    {
         id: "16",
         src: "/asset/img12.webp",
         category: "Community",
         span: "small"
     },
-    {
-        id: "15",
-        src: "/asset/img8.webp",
-        category: "Workshops",
-        span: "large"
-    }
+
 
 ]

@@ -122,7 +122,7 @@ export const AllCourseLists = [
     brochure:
       "https://drive.google.com/file/d/1e7KKjTm372mKOS8drWnSL13stI_uvsbV/view?usp=drive_link",
     shortDesc:
-      "This course deals with all aspects of the inventory management.",
+      "Master the integration of stock control, demand forecasting, and strategic planning to optimize inventory levels and enhance supply chain efficiency.",
     overview: `This outline provides a comprehensive overview of a training program covering Stock Management, Forecasting, and Demand Planning. The program can be tailored to different levels of experience and specific industry needs.`,
     audience: [
       "Demand Planners",
