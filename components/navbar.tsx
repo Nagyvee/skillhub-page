@@ -3,16 +3,23 @@
 import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "motion/react"
 import { Button } from "@/components/ui/button"
-import { Menu, X, ChevronRight } from "lucide-react"
+import { Menu, X, ChevronRight, ChevronDown } from "lucide-react"
 import Link from "next/link"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
 
 const navLinks = [
   { label: "Home", href: "/" },
-  { label: "About", href: "/about" },
-  { label: "Courses", href: "/courses" },
-  { label: "Microsoft Courses", href: "/microsoft-courses" },
+  {
+    label: "Courses",
+    href: "/courses",
+    dropdown: [
+      { label: "All Courses", href: "/courses" },
+      { label: "Microsoft Courses", href: "/courses/category/Microsoft-Productivity-and-Analytics" },
+      { label: "Inventory & Warehouse", href: "/courses/category/Inventory-Warehouse" },
+      { label: "Ports & Shipping", href: "/courses/category/Ports-Shipping" },
+    ],
+  },
   { label: "Learnerships", href: "/learnerships" },
   { label: "Events", href: "/events" },
   { label: "Gallery", href: "/gallery" },
@@ -70,7 +77,66 @@ export function Navbar() {
 
         <ul className="hidden items-center gap-1 lg:flex">
           {navLinks.map((link) => {
-            const isActive = pathname === link.href
+            const isActive = pathname === link.href || (link.dropdown?.some(sub => pathname === sub.href))
+            const [isDropdownOpen, setIsDropdownOpen] = useState(false)
+
+            if (link.dropdown) {
+              return (
+                <li
+                  key={link.label}
+                  className="relative"
+                  onMouseEnter={() => setIsDropdownOpen(true)}
+                  onMouseLeave={() => setIsDropdownOpen(false)}
+                >
+                  <button
+                    className={`relative flex items-center gap-1 px-3.5 py-2 text-[13px] font-medium tracking-wide transition-colors duration-300 rounded-md ${isActive
+                      ? showTransparent
+                        ? "text-white"
+                        : "text-foreground"
+                      : showTransparent
+                        ? "text-white/70 hover:text-white"
+                        : "text-muted-foreground hover:text-foreground"
+                      }`}
+                  >
+                    {link.label}
+                    <ChevronDown className={`h-3.5 w-3.5 transition-transform duration-200 ${isDropdownOpen ? "rotate-180" : ""}`} />
+                    {isActive && (
+                      <motion.span
+                        layoutId="nav-active"
+                        className={`absolute inset-0 rounded-md -z-10 ${showTransparent ? "bg-white/10" : "bg-secondary"
+                          }`}
+                        transition={{ type: "spring", stiffness: 380, damping: 30 }}
+                      />
+                    )}
+                  </button>
+
+                  <AnimatePresence>
+                    {isDropdownOpen && (
+                      <motion.div
+                        initial={{ opacity: 0, y: 10, scale: 0.95 }}
+                        animate={{ opacity: 1, y: 0, scale: 1 }}
+                        exit={{ opacity: 0, y: 10, scale: 0.95 }}
+                        transition={{ duration: 0.2 }}
+                        className="absolute left-0 top-full w-56 pt-2"
+                      >
+                        <div className="overflow-hidden rounded-xl border border-border/50 bg-background/95 p-1 backdrop-blur-xl shadow-xl">
+                          {link.dropdown.map((sub) => (
+                            <Link
+                              key={sub.href}
+                              href={sub.href}
+                              className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-[13px] font-medium text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+                            >
+                              {sub.label}
+                            </Link>
+                          ))}
+                        </div>
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
+                </li>
+              )
+            }
+
             return (
               <li key={link.href}>
                 <Link
@@ -133,24 +199,76 @@ export function Navbar() {
           >
             <div className="mx-auto max-w-7xl px-6 py-6">
               <ul className="flex flex-col gap-1">
-                {navLinks.map((link, i) => (
-                  <motion.li
-                    key={link.href}
-                    initial={{ opacity: 0, x: -10 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: i * 0.05 }}
-                  >
-                    <Link
-                      href={link.href}
-                      className={`block rounded-lg px-4 py-3 text-sm font-medium transition-colors ${pathname === link.href
-                        ? "bg-secondary text-foreground"
-                        : "text-muted-foreground hover:bg-secondary hover:text-foreground"
-                        }`}
+                {navLinks.map((link, i) => {
+                  const [isMobileSubOpen, setIsMobileSubOpen] = useState(false)
+
+                  if (link.dropdown) {
+                    return (
+                      <motion.li
+                        key={link.label}
+                        initial={{ opacity: 0, x: -10 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ delay: i * 0.05 }}
+                      >
+                        <button
+                          onClick={() => setIsMobileSubOpen(!isMobileSubOpen)}
+                          className={`flex w-full items-center justify-between rounded-lg px-4 py-3 text-sm font-medium transition-colors ${pathname === link.href || link.dropdown.some(sub => pathname === sub.href)
+                            ? "bg-secondary text-foreground"
+                            : "text-muted-foreground hover:bg-secondary hover:text-foreground"
+                            }`}
+                        >
+                          {link.label}
+                          <ChevronDown className={`h-4 w-4 transition-transform duration-200 ${isMobileSubOpen ? "rotate-180" : ""}`} />
+                        </button>
+                        <AnimatePresence>
+                          {isMobileSubOpen && (
+                            <motion.div
+                              initial={{ height: 0, opacity: 0 }}
+                              animate={{ height: "auto", opacity: 1 }}
+                              exit={{ height: 0, opacity: 0 }}
+                              className="overflow-hidden bg-secondary/30"
+                            >
+                              <ul className="flex flex-col gap-1 py-1 pl-4">
+                                {link.dropdown.map((sub) => (
+                                  <li key={sub.href}>
+                                    <Link
+                                      href={sub.href}
+                                      className={`block rounded-lg px-4 py-2.5 text-sm font-medium transition-colors ${pathname === sub.href
+                                        ? "text-foreground"
+                                        : "text-muted-foreground hover:text-foreground"
+                                        }`}
+                                    >
+                                      {sub.label}
+                                    </Link>
+                                  </li>
+                                ))}
+                              </ul>
+                            </motion.div>
+                          )}
+                        </AnimatePresence>
+                      </motion.li>
+                    )
+                  }
+
+                  return (
+                    <motion.li
+                      key={link.href}
+                      initial={{ opacity: 0, x: -10 }}
+                      animate={{ opacity: 1, x: 0 }}
+                      transition={{ delay: i * 0.05 }}
                     >
-                      {link.label}
-                    </Link>
-                  </motion.li>
-                ))}
+                      <Link
+                        href={link.href}
+                        className={`block rounded-lg px-4 py-3 text-sm font-medium transition-colors ${pathname === link.href
+                          ? "bg-secondary text-foreground"
+                          : "text-muted-foreground hover:bg-secondary hover:text-foreground"
+                          }`}
+                      >
+                        {link.label}
+                      </Link>
+                    </motion.li>
+                  )
+                })}
               </ul>
               <div className="mt-4 pt-4 border-t border-border">
                 <Button
