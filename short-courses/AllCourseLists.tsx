@@ -6626,7 +6626,7 @@ export const AllCourseLists = [
   },
   {
     "id": 53,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Bar & Beverage Service & Mixology",
     "duration": "5 Days",
     "slg": "bar-and-beverage-service-and-mixology",
@@ -6736,7 +6736,7 @@ export const AllCourseLists = [
   },
   {
     "id": 54,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Community-Based Tourism & Local Economic Development",
     "duration": "5 Days",
     "slg": "community-based-tourism-and-local-economic-development",
@@ -6847,7 +6847,7 @@ export const AllCourseLists = [
   },
   {
     "id": 55,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Cultural, Heritage & Creative Tourism",
     "duration": "5 Days",
     "slg": "cultural-heritage-and-creative-tourism",
@@ -6958,7 +6958,7 @@ export const AllCourseLists = [
   },
   {
     "id": 56,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Destination Management & Tourism Planning",
     "duration": "5 Days",
     "slg": "destination-management-and-tourism-planning",
@@ -7069,7 +7069,7 @@ export const AllCourseLists = [
   },
   {
     "id": 57,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Food & Beverage Innovation & Restaurant Management",
     "duration": "5 Days",
     "slg": "food-and-beverage-innovation-and-restaurant-management",
@@ -7179,7 +7179,7 @@ export const AllCourseLists = [
   },
   {
     "id": 58,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Food Safety & HACCP Certification",
     "duration": "5 Days",
     "slg": "food-safety-and-haccp-certification",
@@ -7298,7 +7298,7 @@ export const AllCourseLists = [
   },
   {
     "id": 59,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Guest Experience Design & Service Excellence",
     "duration": "5 Days",
     "slg": "guest-experience-design-and-service-excellence",
@@ -7311,7 +7311,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "shortDesc": "",
-    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design exceptional guest experiences and deliver consistent service excellence across hospitality and tourism operations. The course integrates principles of customer experience (CX) design, service psychology, emotional intelligence, service standards, and continuous improvement. Participants will gain applied insight into how guest journeys are designed, managed, and improved across touchpoints\u2014enhancing satisfaction, loyalty, reputation, and revenue in hotels, resorts, lodges, restaurants, and tourism services.",
+    "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design exceptional guest experiences and deliver consistent service excellence across Hospitality-and-Tourism operations. The course integrates principles of customer experience (CX) design, service psychology, emotional intelligence, service standards, and continuous improvement. Participants will gain applied insight into how guest journeys are designed, managed, and improved across touchpoints\u2014enhancing satisfaction, loyalty, reputation, and revenue in hotels, resorts, lodges, restaurants, and tourism services.",
     "audience": [
       "Front office, guest relations, and concierge teams",
       "Hotel, resort, and lodge managers",
@@ -7340,7 +7340,7 @@ export const AllCourseLists = [
           "Foundations of Guest Experience & Service Excellence",
           "Understanding guest expectations and service quality",
           "Difference between service delivery and guest experience",
-          "Moments of truth in hospitality and tourism",
+          "Moments of truth in Hospitality-and-Tourism",
           "Service excellence culture and values"
         ]
       },
@@ -7408,7 +7408,7 @@ export const AllCourseLists = [
   },
   {
     "id": 60,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Hospitality AI, Data & Smart Operations",
     "duration": "5 Days",
     "slg": "hospitality-ai-data-and-smart-operations",
@@ -7519,7 +7519,7 @@ export const AllCourseLists = [
   },
   {
     "id": 61,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Hospitality Leadership & People Management",
     "duration": "5 Days",
     "slg": "hospitality-leadership-people-management",
@@ -7628,7 +7628,7 @@ export const AllCourseLists = [
   },
   {
     "id": 62,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Hospitality Revenue Management & Pricing",
     "duration": "5 Days",
     "slg": "hospitality-revenue-management-pricing",
@@ -7738,7 +7738,7 @@ export const AllCourseLists = [
   },
   {
     "id": 63,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Hospitality Sales, Marketing & Brand Growth",
     "duration": "5 Days",
     "slg": "hospitality-sales-marketing-brand-growth",
@@ -7848,7 +7848,7 @@ export const AllCourseLists = [
   },
   {
     "id": 64,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Restaurant & Culinary Skills for Supervisors",
     "duration": "5 Days",
     "slg": "restaurant-culinary-skills-for-supervisors",
@@ -7959,7 +7959,7 @@ export const AllCourseLists = [
   },
   {
     "id": 65,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Smart Tourism, Data & Digital Innovation",
     "duration": "5 Days",
     "slg": "smart-tourism-data-digital-innovation",
@@ -7975,7 +7975,7 @@ export const AllCourseLists = [
     "overview": "This comprehensive programme equips participants with the knowledge and practical skills required to design, implement, and manage smart tourism initiatives that leverage data, digital technologies, and innovation to enhance destination performance, visitor experiences, and sustainable tourism development. The course integrates principles of smart tourism ecosystems, digital transformation, data analytics, and innovation management. Participants will gain applied insight into how technologies such as big data, artificial intelligence, IoT, mobile platforms, and digital marketing can be used to improve planning, operations, governance, and competitiveness \u2014 particularly within emerging destinations, cities, and developing tourism markets.",
     "audience": [
       "Tourism boards and destination management organisations (DMOs)",
-      "Hospitality and tourism managers and supervisors",
+      "Hospitality-and-Tourism managers and supervisors",
       "Government tourism and municipal planning officials",
       "Travel, tour, and attraction operators",
       "Digital marketing and customer experience professionals",
@@ -8078,7 +8078,7 @@ export const AllCourseLists = [
   },
   {
     "id": 66,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Sustainable Hospitality, Green Hotel & Catering Management",
     "duration": "5 Days",
     "slg": "sustainable-hospitality-green-hotel-catering-management",
@@ -8189,7 +8189,7 @@ export const AllCourseLists = [
   },
   {
     "id": 67,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Sustainable Tourism & Eco-Tourism Management",
     "duration": "5 Days",
     "slg": "sustainable-tourism-eco-tourism-management",
@@ -8210,7 +8210,7 @@ export const AllCourseLists = [
       "Conservation and community development practitioners",
       "Tourism policymakers and local government officials",
       "NGOs and donor-funded tourism programme staff",
-      "Hospitality and tourism entrepreneurs",
+      "Hospitality-and-Tourism entrepreneurs",
       "Anyone involved in sustainable or eco-tourism development"
     ],
     "objectives": {
@@ -8300,7 +8300,7 @@ export const AllCourseLists = [
   },
   {
     "id": 68,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Tourism Entrepreneurship & SME Development",
     "duration": "5 Days",
     "slg": "tourism-entrepreneurship-sme-development",
@@ -8411,7 +8411,7 @@ export const AllCourseLists = [
   },
   {
     "id": 69,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Tourism Marketing, Branding & Digital Promotion",
     "duration": "5 Days",
     "slg": "tourism-marketing-branding-digital-promotion",
@@ -8521,7 +8521,7 @@ export const AllCourseLists = [
   },
   {
     "id": 70,
-    "type": "Hospitality and Tourism",
+    "type": "Hospitality-and-Tourism",
     "title": "Tourism Resilience, Crisis & Risk Management",
     "duration": "5 Days",
     "slg": "tourism-resilience-crisis-risk-management",
@@ -8543,7 +8543,7 @@ export const AllCourseLists = [
       "Government officials in tourism, environment, and disaster management",
       "Community-based tourism leaders and SMEs",
       "NGOs, development agencies, and donor-funded tourism projects",
-      "Risk, safety, and compliance officers in hospitality and tourism"
+      "Risk, safety, and compliance officers in Hospitality-and-Tourism"
     ],
     "objectives": {
       "title": "By the end of the programme, participants will be able to:",
