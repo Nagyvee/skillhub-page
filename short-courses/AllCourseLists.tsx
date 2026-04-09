@@ -9507,6 +9507,923 @@ export const AllCourseLists = [
         ]
       }
     ]
+  },
+  {
+    "id": 78,
+    "type": "Technical-and-Repair",
+    "title": "Auto Electrical Technician Programme",
+    "duration": "6 Months (24 Weeks)",
+    "slg": "auto-electrical-technician-programme",
+    "popular": false,
+    "deliveryMode": "Blended (Theory + Practical + Workshop + Diagnostics)",
+    "certification": "SkillHub International + International Alignment (Training Express UK – Electrical & Safety Modules; pathway to QCTO/SETA alignment)",
+    "seo": {
+      "seoTitle": "Auto Electrical Technician Programme | SkillHub International",
+      "seoDescription": "Auto Electrical Technician Programme training course offered by SkillHub International.",
+      "seoKeywords": "auto-electrical-technician, automotive diagnostics, vehicle electrical systems, training course, skillhub",
+      "seoHeading": "Auto Electrical Technician Programme"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 24-week programme equipping participants with practical skills to diagnose, repair, install, and maintain vehicle electrical and electronic systems for employment or self-employment.",
+    "overview": "The Auto Electrical Technician Programme equips participants with practical, industry-relevant skills to diagnose, repair, install, and maintain vehicle electrical and electronic systems. The programme integrates electrical fundamentals, vehicle systems, diagnostics, and hands-on workshop training, preparing graduates for roles in automotive workshops, fleet maintenance environments, or self-employment.",
+    "audience": [
+      "School leavers and youth",
+      "Informal mechanics and technicians",
+      "Automotive workshop assistants",
+      "Entrepreneurs seeking technical skills"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Interpret vehicle wiring diagrams and electrical schematics",
+        "Diagnose electrical faults using multimeters and scan tools",
+        "Service and repair starting, charging, and lighting systems",
+        "Test and replace batteries, alternators, and starter motors",
+        "Troubleshoot sensors, actuators, and control units",
+        "Perform basic diagnostics using OBD-II scanners",
+        "Install accessories such as alarms, radios, and tracking systems",
+        "Apply safe working practices and workshop procedures",
+        "Deliver basic customer service and manage repair jobs",
+        "Start and operate a small auto electrical business"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction & Workshop Safety",
+        "weeks": "Weeks 1–2",
+        "lessons": [
+          "Overview of automotive electrical systems",
+          "Workshop safety and PPE",
+          "Tools and equipment (multimeter, test light, scan tool)",
+          "Introduction to troubleshooting methodology"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Electrical Fundamentals",
+        "weeks": "Weeks 3–5",
+        "lessons": [
+          "Voltage, current, resistance, and power",
+          "Ohm's Law and circuit basics",
+          "Series and parallel circuits",
+          "Use of multimeter and basic testing",
+          "Reading basic electrical diagrams"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Vehicle Electrical Systems",
+        "weeks": "Weeks 6–9",
+        "lessons": [
+          "Wiring systems and harnesses",
+          "Fuses, relays, and switches",
+          "Grounding and circuit protection",
+          "Lighting systems (headlights, indicators, interior)",
+          "Horns and basic accessories"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Starting & Charging Systems",
+        "weeks": "Weeks 10–13",
+        "lessons": [
+          "Batteries: types, testing, and maintenance",
+          "Starter motors: operation and faults",
+          "Alternators and charging systems",
+          "Voltage regulation",
+          "Fault diagnosis and repairs"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Engine Electrical & Electronic Systems",
+        "weeks": "Weeks 14–17",
+        "lessons": [
+          "Sensors (temperature, oxygen, position sensors)",
+          "Actuators (injectors, coils)",
+          "Basic ECU concepts",
+          "Fuel injection electrical systems",
+          "Ignition systems"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Diagnostics & Fault Finding",
+        "weeks": "Weeks 18–20",
+        "lessons": [
+          "Systematic fault diagnosis",
+          "Use of OBD-II scanners",
+          "Reading fault codes",
+          "Electrical troubleshooting techniques",
+          "Real-life case studies"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Installation & Accessories",
+        "weeks": "Week 21",
+        "lessons": [
+          "Car alarms and immobilisers",
+          "Audio systems and radios",
+          "Tracking devices",
+          "Auxiliary lighting installation"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Practical Workshop",
+        "weeks": "Weeks 22–23",
+        "lessons": [
+          "Real vehicle diagnostics",
+          "Fault simulation exercises",
+          "Wiring repairs and installations",
+          "System testing and verification"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Entrepreneurship & Business Skills",
+        "weeks": "Week 24",
+        "lessons": [
+          "Starting an auto electrical business",
+          "Pricing and costing services",
+          "Customer handling and job management",
+          "Marketing (local and digital platforms)",
+          "Basic financial management"
+        ]
+      }
+    ],
+    "assessment": [
+      "Continuous assessments (theory and practical)",
+      "Module tests",
+      "Final practical assessment (vehicle-based)",
+      "Diagnostic problem-solving tasks"
+    ],
+    "careerOpportunities": [
+      "Auto Electrical Technician",
+      "Automotive Diagnostic Technician",
+      "Workshop Assistant / Technician",
+      "Fleet Maintenance Technician",
+      "Self-employed auto electrician"
+    ]
+  },
+  {
+    "id": 79,
+    "type": "Technical-and-Repair",
+    "title": "Cellphone Repair Technician Programme",
+    "duration": "3 Months (12 Weeks)",
+    "slg": "cellphone-repair-technician-programme",
+    "popular": false,
+    "deliveryMode": "Blended (Theory + Practical + Workshop-Based Training)",
+    "certification": "SkillHub International + International Alignment (Training Express UK / QCTO-aligned)",
+    "seo": {
+      "seoTitle": "Cellphone Repair Technician Programme | SkillHub International",
+      "seoDescription": "Cellphone Repair Technician Programme training course offered by SkillHub International.",
+      "seoKeywords": "cellphone-repair-technician, smartphone repair, mobile phone repair, training course, skillhub",
+      "seoHeading": "Cellphone Repair Technician Programme"
+    },
+    "brochure": "",
+    "shortDesc": "A practical 12-week programme equipping participants with hands-on skills to diagnose, repair, and maintain modern smartphones for employment in repair shops or self-employment.",
+    "overview": "The Cellphone Repair Technician Programme is designed to equip participants with practical, hands-on skills to diagnose, repair, and maintain modern smartphones. The programme focuses on hardware and software troubleshooting, enabling graduates to work in repair shops, service centers, or establish their own mobile repair businesses.",
+    "audience": [
+      "Youth seeking practical income-generating skills",
+      "Entrepreneurs and small business owners",
+      "Informal technicians seeking formal training",
+      "Individuals interested in electronics repair",
+      "IT beginners"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Identify and understand smartphone components",
+        "Safely disassemble and reassemble mobile devices",
+        "Diagnose and repair common hardware faults",
+        "Replace screens, batteries, charging ports, and other components",
+        "Troubleshoot software issues and perform system resets",
+        "Handle water-damaged devices",
+        "Use diagnostic tools and repair equipment",
+        "Apply safe working practices and ESD protection",
+        "Start and manage a mobile phone repair business"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction & Safety",
+        "weeks": "Week 1",
+        "lessons": [
+          "Introduction to mobile phone technology",
+          "Types of smartphones (Android, iOS)",
+          "Workshop safety practices",
+          "Electrostatic discharge (ESD) protection",
+          "Tools and equipment overview"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Basic Electronics Fundamentals",
+        "weeks": "Weeks 2–3",
+        "lessons": [
+          "Basic electrical concepts (voltage, current, resistance)",
+          "Understanding circuit boards",
+          "Components (resistors, capacitors, ICs)",
+          "Using multimeters and basic tools"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Phone Hardware & Components",
+        "weeks": "Weeks 4–5",
+        "lessons": [
+          "Smartphone architecture",
+          "Key components: Screen (LCD/OLED), Battery, Charging system, Motherboard",
+          "Disassembly and reassembly techniques"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Common Repairs",
+        "weeks": "Weeks 6–8",
+        "lessons": [
+          "Screen replacement",
+          "Battery replacement",
+          "Charging port repair",
+          "Speaker and microphone repair",
+          "Camera replacement",
+          "Button repairs"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Software Troubleshooting",
+        "weeks": "Weeks 9–10",
+        "lessons": [
+          "Operating systems (Android & iOS basics)",
+          "Software flashing and updates",
+          "Factory reset and troubleshooting",
+          "Virus and malware removal",
+          "Data backup and recovery basics"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Advanced Repairs & Diagnostics",
+        "weeks": "Week 11",
+        "lessons": [
+          "Water damage repair techniques",
+          "Fault tracing and diagnostics",
+          "Use of repair software tools",
+          "Introduction to micro-soldering (basic)"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Entrepreneurship & Business Skills",
+        "weeks": "Week 12",
+        "lessons": [
+          "Setting up a repair business",
+          "Pricing and costing services",
+          "Customer service and communication",
+          "Marketing (WhatsApp, social media, local advertising)",
+          "Managing inventory and spare parts"
+        ]
+      }
+    ],
+    "assessment": [
+      "Continuous practical assessments",
+      "Module quizzes and tests",
+      "Final practical repair assessment",
+      "Business plan mini-project"
+    ],
+    "careerOpportunities": [
+      "Mobile Phone Repair Technician",
+      "Electronics Repair Assistant",
+      "Service Center Technician",
+      "Self-employed Repair Specialist",
+      "Small Business Owner"
+    ]
+  },
+  {
+    "id": 80,
+    "type": "Technical-and-Repair",
+    "title": "Desktop & Laptop Computer Repair Technician Programme",
+    "duration": "3–4 Months (14 Weeks)",
+    "slg": "desktop-and-laptop-computer-repair-technician-programme",
+    "popular": false,
+    "deliveryMode": "Blended (Theory + Practical + Workshop)",
+    "certification": "SkillHub International + International Alignment (Training Express UK – IT & Digital Skills)",
+    "seo": {
+      "seoTitle": "Desktop & Laptop Computer Repair Technician Programme | SkillHub International",
+      "seoDescription": "Desktop & Laptop Computer Repair Technician Programme training course offered by SkillHub International.",
+      "seoKeywords": "desktop-laptop-repair-technician, computer repair, IT support, training course, skillhub",
+      "seoHeading": "Desktop & Laptop Computer Repair Technician Programme"
+    },
+    "brochure": "",
+    "shortDesc": "A practical 14-week programme equipping participants with hands-on skills to diagnose, repair, maintain, and upgrade desktop and laptop computer systems for IT support roles or self-employment.",
+    "overview": "The Desktop & Laptop Computer Repair Technician Programme is designed to equip participants with practical, hands-on skills in diagnosing, repairing, maintaining, and upgrading computer systems. The programme focuses on real-world troubleshooting and repair techniques, enabling participants to work in IT support environments, repair centres, or establish their own computer repair businesses.",
+    "audience": [
+      "School leavers and youth",
+      "IT beginners",
+      "Informal technicians seeking formal skills",
+      "Entrepreneurs and small business owners"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Identify and understand computer hardware components",
+        "Assemble and disassemble desktop and laptop systems",
+        "Diagnose and repair hardware faults",
+        "Install, configure, and troubleshoot operating systems",
+        "Perform system upgrades and maintenance",
+        "Troubleshoot common software and network issues",
+        "Apply safe working practices and ESD protection",
+        "Provide basic IT support services",
+        "Start and manage a computer repair business"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction & Safety",
+        "weeks": "Week 1",
+        "lessons": [
+          "Overview of computer systems (desktop and laptop)",
+          "Tools and repair equipment",
+          "Electrostatic discharge (ESD) protection",
+          "Workshop safety procedures",
+          "Introduction to troubleshooting"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Computer Hardware Fundamentals",
+        "weeks": "Weeks 2–4",
+        "lessons": [
+          "Key components: Motherboard, CPU, RAM, Power supply, Storage (HDD, SSD)",
+          "Desktop vs laptop architecture",
+          "System assembly and disassembly",
+          "Component identification and functions"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Operating Systems & Software",
+        "weeks": "Weeks 5–6",
+        "lessons": [
+          "Installing operating systems (Windows / Linux basics)",
+          "Drivers and updates",
+          "BIOS/UEFI configuration",
+          "Software installation and configuration",
+          "System recovery and backups"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Diagnostics & Troubleshooting",
+        "weeks": "Weeks 7–9",
+        "lessons": [
+          "Fault identification techniques",
+          "Boot failures and system errors",
+          "Overheating and performance issues",
+          "Hardware vs software faults",
+          "Use of diagnostic tools and utilities"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Repair & Maintenance",
+        "weeks": "Weeks 10–11",
+        "lessons": [
+          "Replacing hardware components",
+          "Laptop repairs (screens, keyboards, batteries)",
+          "Cleaning and servicing systems",
+          "Thermal paste application",
+          "Preventive maintenance practices"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Networking & Basic IT Support",
+        "weeks": "Week 12",
+        "lessons": [
+          "Basic networking concepts",
+          "Connecting devices and troubleshooting networks",
+          "Internet and Wi-Fi configuration",
+          "Customer support basics"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Workshop",
+        "weeks": "Week 13",
+        "lessons": [
+          "Real repair scenarios",
+          "Fault simulation exercises",
+          "System rebuilds and upgrades",
+          "Quality assurance checks"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Entrepreneurship & Business Skills",
+        "weeks": "Week 14",
+        "lessons": [
+          "Starting a computer repair business",
+          "Pricing and costing services",
+          "Customer service and communication",
+          "Marketing (social media, WhatsApp, local outreach)",
+          "Basic financial management"
+        ]
+      }
+    ],
+    "assessment": [
+      "Continuous assessments (theory and practical)",
+      "Module tests",
+      "Final practical repair assessment",
+      "Workshop-based evaluation"
+    ],
+    "careerOpportunities": [
+      "Computer Repair Technician",
+      "IT Support Technician",
+      "Helpdesk Assistant",
+      "Technical Support Specialist",
+      "Self-employed IT repair entrepreneur"
+    ]
+  },
+  {
+    "id": 81,
+    "type": "Technical-and-Repair",
+    "title": "Domestic Appliance Repair & Maintenance Technician Programme",
+    "duration": "3–4 Months (14 Weeks)",
+    "slg": "domestic-appliance-repair-and-maintenance-technician-programme",
+    "popular": false,
+    "deliveryMode": "Blended (Theory + Practical + Workshop)",
+    "certification": "SkillHub International + International Alignment (Training Express UK – Technical & Safety Modules)",
+    "seo": {
+      "seoTitle": "Domestic Appliance Repair & Maintenance Technician Programme | SkillHub International",
+      "seoDescription": "Domestic Appliance Repair & Maintenance Technician Programme training course offered by SkillHub International.",
+      "seoKeywords": "domestic-appliance-repair, household appliance maintenance, appliance technician, training course, skillhub",
+      "seoHeading": "Domestic Appliance Repair & Maintenance Technician Programme"
+    },
+    "brochure": "",
+    "shortDesc": "A practical 14-week programme equipping participants with hands-on skills to diagnose, repair, service, and maintain a wide range of household electrical appliances for employment or self-employment.",
+    "overview": "The Domestic Appliance Repair & Maintenance Technician Programme is designed to equip participants with practical, hands-on skills to diagnose, repair, service, and maintain a wide range of household electrical appliances. The programme integrates electrical fundamentals, mechanical systems, fault diagnosis, and real-world repair training, enabling participants to work in repair centres, maintenance environments, or establish their own appliance repair businesses.",
+    "audience": [
+      "Youth and school leavers",
+      "Informal repair technicians",
+      "Entrepreneurs and small business owners",
+      "Individuals seeking technical vocational skills"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand electrical and mechanical principles used in domestic appliances",
+        "Diagnose faults in a range of household appliances",
+        "Repair washing machines, microwaves, and kitchen appliances",
+        "Service motors, pumps, heating elements, and control systems",
+        "Use diagnostic tools such as multimeters safely and effectively",
+        "Perform preventive maintenance and servicing",
+        "Apply safe working practices and compliance standards",
+        "Manage customer service and repair workflows",
+        "Start and operate a small appliance repair business"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction & Safety",
+        "weeks": "Week 1",
+        "lessons": [
+          "Overview of domestic appliances",
+          "Tools and workshop equipment",
+          "Electrical safety and PPE",
+          "Introduction to troubleshooting",
+          "Safe handling of appliances"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Electrical Fundamentals",
+        "weeks": "Weeks 2–3",
+        "lessons": [
+          "Basic electrical principles (voltage, current, resistance)",
+          "Use of multimeter and testing tools",
+          "Wiring and circuits",
+          "Electrical fault identification"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Mechanical Systems",
+        "weeks": "Week 4",
+        "lessons": [
+          "Motors and drive systems",
+          "Belts, gears, and bearings",
+          "Pumps and moving components",
+          "Mechanical fault diagnosis"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Washing Machine Systems",
+        "weeks": "Weeks 5–6",
+        "lessons": [
+          "Types of washing machines",
+          "Water systems and drainage",
+          "Motor and drum systems",
+          "Common faults and repairs",
+          "Maintenance and servicing"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Microwave Systems",
+        "weeks": "Week 7",
+        "lessons": [
+          "Microwave components",
+          "Heating systems and magnetron basics",
+          "Control panels and circuits",
+          "Common faults and repairs",
+          "Safety precautions"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Kitchen Appliance Repairs",
+        "weeks": "Weeks 8–9",
+        "lessons": [
+          "Electric stoves and ovens",
+          "Kettles and small appliances",
+          "Heating elements and thermostats",
+          "Common household appliance faults"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Heating & Control Systems",
+        "weeks": "Week 10",
+        "lessons": [
+          "Heating elements",
+          "Temperature controls and sensors",
+          "Switches and control boards",
+          "Fault diagnosis techniques"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Fault Diagnosis & Troubleshooting",
+        "weeks": "Weeks 11–12",
+        "lessons": [
+          "Systematic troubleshooting methods",
+          "Electrical vs mechanical faults",
+          "Use of diagnostic tools",
+          "Real-life repair scenarios"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Practical Workshop",
+        "weeks": "Week 13",
+        "lessons": [
+          "Hands-on repairs of real appliances",
+          "Fault simulation exercises",
+          "Disassembly and reassembly",
+          "Testing and quality assurance"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Entrepreneurship & Business Skills",
+        "weeks": "Week 14",
+        "lessons": [
+          "Starting a repair business",
+          "Pricing and costing services",
+          "Customer management",
+          "Marketing (local and digital platforms)",
+          "Basic financial management"
+        ]
+      }
+    ],
+    "assessment": [
+      "Continuous assessments (theory and practical)",
+      "Module-based tests",
+      "Final practical repair assessment",
+      "Workshop performance evaluation"
+    ],
+    "careerOpportunities": [
+      "Appliance Repair Technician",
+      "Maintenance Technician",
+      "Service Centre Technician",
+      "Field Service Technician",
+      "Self-employed appliance repair entrepreneur"
+    ]
+  },
+  {
+    "id": 82,
+    "type": "Technical-and-Repair",
+    "title": "Photocopier & Printer Repair Technician Programme",
+    "duration": "3–4 Months (14 Weeks)",
+    "slg": "photocopier-and-printer-repair-technician-programme",
+    "popular": false,
+    "deliveryMode": "Blended (Theory + Practical + Workshop)",
+    "certification": "SkillHub International + International Alignment (Training Express UK – IT & Technical Modules)",
+    "seo": {
+      "seoTitle": "Photocopier & Printer Repair Technician Programme | SkillHub International",
+      "seoDescription": "Photocopier & Printer Repair Technician Programme training course offered by SkillHub International.",
+      "seoKeywords": "photocopier-printer-repair-technician, printer repair, copier maintenance, training course, skillhub",
+      "seoHeading": "Photocopier & Printer Repair Technician Programme"
+    },
+    "brochure": "",
+    "shortDesc": "A practical 14-week programme equipping participants with hands-on skills to diagnose, repair, maintain, and service a wide range of printers and photocopiers for corporate or self-employed environments.",
+    "overview": "The Photocopier & Printer Repair Technician Programme is designed to equip participants with practical, hands-on skills in diagnosing, repairing, maintaining, and servicing a wide range of printing and copying devices. The programme focuses on real-world technical applications, enabling participants to work in corporate IT environments, service centres, or establish independent repair businesses.",
+    "audience": [
+      "Youth and school leavers",
+      "IT and electronics beginners",
+      "Informal repair technicians",
+      "Entrepreneurs and small business owners"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Identify and understand printer and photocopier components",
+        "Diagnose mechanical and electronic faults",
+        "Repair inkjet, laser printers, and photocopiers",
+        "Replace and service consumables (toner, drums, rollers)",
+        "Troubleshoot print quality issues",
+        "Install and configure printers and network devices",
+        "Perform preventive maintenance",
+        "Provide technical support to clients",
+        "Start and manage a printer repair business"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction & Safety",
+        "weeks": "Week 1",
+        "lessons": [
+          "Overview of printers and photocopiers",
+          "Types of machines (inkjet, laser, multifunction devices)",
+          "Tools and equipment",
+          "Workshop safety and handling procedures",
+          "Introduction to troubleshooting"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Printer & Copier Fundamentals",
+        "weeks": "Weeks 2–4",
+        "lessons": [
+          "Key components: Power supply, Control boards, Print heads, Fuser units, Drums and rollers",
+          "Inkjet vs laser technology",
+          "Paper feeding systems",
+          "Machine architecture"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Mechanical & Electrical Systems",
+        "weeks": "Weeks 5–6",
+        "lessons": [
+          "Motors and gears",
+          "Sensors and switches",
+          "Heating elements (fuser systems)",
+          "Electrical connections and circuits",
+          "Basic electronic diagnostics"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Installation & Configuration",
+        "weeks": "Week 7",
+        "lessons": [
+          "Printer setup and installation",
+          "Driver installation",
+          "Network configuration (USB, Wi-Fi, LAN)",
+          "Integration with computers and systems"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Fault Diagnosis & Troubleshooting",
+        "weeks": "Weeks 8–10",
+        "lessons": [
+          "Common printer faults: paper jams, print quality issues (lines, fading, smudging), connectivity issues",
+          "Diagnostic tools and techniques",
+          "Error codes and system messages"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Repair & Maintenance",
+        "weeks": "Weeks 11–12",
+        "lessons": [
+          "Replacing components (drums, fusers, rollers)",
+          "Cleaning and servicing machines",
+          "Preventive maintenance schedules",
+          "Consumables management"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Practical Workshop",
+        "weeks": "Week 13",
+        "lessons": [
+          "Real equipment repairs",
+          "Fault simulation exercises",
+          "Machine disassembly and reassembly",
+          "Quality testing and inspection"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Entrepreneurship & Business Skills",
+        "weeks": "Week 14",
+        "lessons": [
+          "Setting up a repair service business",
+          "Pricing services and contracts",
+          "Customer relationship management",
+          "Marketing strategies (local and digital)",
+          "Basic financial management"
+        ]
+      }
+    ],
+    "assessment": [
+      "Continuous assessments (theory and practical)",
+      "Module-based tests",
+      "Final practical repair assessment",
+      "Workshop performance evaluation"
+    ],
+    "careerOpportunities": [
+      "Printer & Photocopier Technician",
+      "Office Equipment Maintenance Technician",
+      "IT Support Technician",
+      "Service Centre Technician",
+      "Self-employed repair entrepreneur"
+    ]
+  },
+  {
+    "id": 83,
+    "type": "Technical-and-Repair",
+    "title": "Refrigeration & Air Conditioning (RAC) Technician Programme",
+    "duration": "6 Months (24 Weeks)",
+    "slg": "refrigeration-and-air-conditioning-technician-programme",
+    "popular": false,
+    "deliveryMode": "Blended (Theory + Practical + Workplace Simulation)",
+    "certification": "SkillHub International + International Alignment (Training Express UK / QCTO-aligned)",
+    "seo": {
+      "seoTitle": "Refrigeration & Air Conditioning (RAC) Technician Programme | SkillHub International",
+      "seoDescription": "Refrigeration & Air Conditioning (RAC) Technician Programme training course offered by SkillHub International.",
+      "seoKeywords": "refrigeration-air-conditioning-technician, HVAC training, RAC technician, aircon repair, training course, skillhub",
+      "seoHeading": "Refrigeration & Air Conditioning (RAC) Technician Programme"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 24-week programme equipping participants with practical skills in the installation, maintenance, repair, and servicing of refrigeration and air conditioning systems for residential, commercial, or industrial environments.",
+    "overview": "The Refrigeration & Air Conditioning (RAC) Technician Programme is designed to equip participants with practical, industry-relevant skills in the installation, maintenance, repair, and servicing of refrigeration and air conditioning systems. This programme combines theoretical knowledge, hands-on technical training, and real-world applications, enabling graduates to work in residential, commercial, and industrial environments or establish their own service businesses.",
+    "audience": [
+      "School leavers and youth seeking technical skills",
+      "Technicians seeking upskilling",
+      "Maintenance personnel in industry",
+      "Entrepreneurs interested in starting HVAC businesses",
+      "Informal sector technicians"
+    ],
+    "objectives": {
+      "title": "By the end of the programme, participants will be able to:",
+      "data": [
+        "Understand refrigeration cycles and HVAC principles",
+        "Install and service refrigeration and air conditioning systems",
+        "Diagnose and repair faults in HVAC equipment",
+        "Safely handle refrigerants and comply with environmental regulations",
+        "Perform electrical testing and troubleshooting",
+        "Maintain compressors, condensers, evaporators, and control systems",
+        "Apply preventive and predictive maintenance techniques",
+        "Demonstrate workplace safety and compliance practices",
+        "Start and manage a small HVAC repair business"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to HVAC & Safety",
+        "weeks": "Weeks 1–2",
+        "lessons": [
+          "Introduction to refrigeration and air conditioning systems",
+          "HVAC industry overview",
+          "Workplace health and safety (PPE, hazard identification)",
+          "Tools and equipment handling",
+          "Basic electrical safety",
+          "Introduction to environmental regulations"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Basic Electrical & Mechanical Principles",
+        "weeks": "Weeks 3–5",
+        "lessons": [
+          "Electrical fundamentals (voltage, current, resistance)",
+          "Ohm's Law and circuit analysis",
+          "Reading wiring diagrams",
+          "Motors and compressors basics",
+          "Mechanical systems in HVAC"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Refrigeration Cycle & Components",
+        "weeks": "Weeks 6–9",
+        "lessons": [
+          "Refrigeration cycle principles",
+          "Key components: Compressor, Condenser, Expansion device, Evaporator",
+          "Types of refrigerants",
+          "Pressure-temperature relationships",
+          "System performance basics"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Installation of HVAC Systems",
+        "weeks": "Weeks 10–13",
+        "lessons": [
+          "Installation procedures for AC systems",
+          "Pipe installation and brazing techniques",
+          "Vacuuming and charging systems",
+          "Leak detection",
+          "Commissioning HVAC systems"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Maintenance & Servicing",
+        "weeks": "Weeks 14–17",
+        "lessons": [
+          "Preventive maintenance techniques",
+          "Cleaning and servicing components",
+          "System performance checks",
+          "Lubrication and inspection",
+          "Maintenance schedules"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Fault Diagnosis & Repairs",
+        "weeks": "Weeks 18–20",
+        "lessons": [
+          "Fault identification techniques",
+          "Electrical fault diagnosis",
+          "Refrigerant issues and leak detection",
+          "Compressor and motor faults",
+          "Troubleshooting real-life scenarios"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Environmental & Regulatory Compliance",
+        "weeks": "Week 21",
+        "lessons": [
+          "Safe handling of refrigerants",
+          "Environmental impact (ozone depletion, global warming)",
+          "Regulatory compliance standards",
+          "Waste management and disposal"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Workplace Practice / Simulation",
+        "weeks": "Weeks 22–23",
+        "lessons": [
+          "Real-world repair scenarios",
+          "Installation simulations",
+          "Team-based practical assignments",
+          "Performance assessment"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Entrepreneurship & Business Skills",
+        "weeks": "Week 24",
+        "lessons": [
+          "Starting a refrigeration/AC business",
+          "Pricing and costing services",
+          "Customer management",
+          "Marketing (WhatsApp, local advertising)",
+          "Financial basics"
+        ]
+      }
+    ],
+    "assessment": [
+      "Continuous assessments (practical and theory)",
+      "Module tests",
+      "Final practical examination",
+      "Workplace simulation assessment"
+    ],
+    "careerOpportunities": [
+      "HVAC Technician",
+      "Refrigeration Technician",
+      "Maintenance Technician",
+      "Installation Specialist",
+      "Self-employed HVAC contractor"
+    ]
   }
 ];
 

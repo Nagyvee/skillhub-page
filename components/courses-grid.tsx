@@ -18,7 +18,8 @@ import {
   Shield,
   Layers,
   GraduationCap,
-  SlidersHorizontal
+  SlidersHorizontal,
+  Wrench
 } from "lucide-react"
 import { getAllCategories, Course } from "@/lib/courses-data"
 import { Pagination } from "@/components/pagination"
@@ -37,6 +38,7 @@ const getCategoryIcon = (category: string) => {
   if (lowerCat.includes("inventory") || lowerCat.includes("warehouse")) return Layers
   if (lowerCat.includes("risk") || lowerCat.includes("compliance")) return Shield
   if (lowerCat.includes("port") || lowerCat.includes("shipping")) return BookOpen
+  if (lowerCat.includes("technical") || lowerCat.includes("repair")) return Wrench
   return GraduationCap
 }
 

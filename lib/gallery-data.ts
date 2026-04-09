@@ -92,6 +92,11 @@ export const galleryItems: GalleryItem[] = [
         category: "Community",
         span: "small"
     },
-
+    {
+        id: "17",
+        src: "/asset/class.webp",
+        category: "Workshops",
+        span: "small"
+    },
 
 ]
