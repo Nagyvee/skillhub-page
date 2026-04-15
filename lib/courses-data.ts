@@ -1,5 +1,6 @@
 import { AllCourseLists } from "@/short-courses/AllCourseLists"
 import { NewCourse } from "@/short-courses/NewCourse"
+import { BroadcastingCourses } from "@/short-courses/BroadcastingCourses"
 
 // Course type definition
 export interface Course {
@@ -30,7 +31,7 @@ export interface Course {
 }
 
 // Merge all courses from both data sources
-export const allCourses: Course[] = [...AllCourseLists, ...NewCourse]
+export const allCourses: Course[] = [...AllCourseLists, ...NewCourse, ...BroadcastingCourses]
 
 /**
  * Get a single course by its slug
