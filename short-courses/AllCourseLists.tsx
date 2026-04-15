@@ -10424,6 +10424,2003 @@ export const AllCourseLists = [
       "Installation Specialist",
       "Self-employed HVAC contractor"
     ]
+  },
+  [
+  {
+    "id": 84,
+    "type": "Broadcasting-and-Media",
+    "title": "Advanced Broadcast Engineering & Transmission",
+    "duration": "3–5 Days",
+    "slg": "advanced-broadcast-engineering-and-transmission",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Advanced Broadcast Engineering & Transmission Course | SkillHub International",
+      "seoDescription": "Advanced Broadcast Engineering & Transmission training programme offered by SkillHub International.",
+      "seoKeywords": "broadcast engineering, transmission systems, RF fundamentals, digital broadcasting, skillhub",
+      "seoHeading": "Advanced Broadcast Engineering & Transmission"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–5 day intensive programme equipping broadcast engineers and technicians with advanced technical knowledge in transmission systems, RF fundamentals, signal flow, diagnostics, and system reliability.",
+    "overview": "In modern broadcasting environments, reliable transmission systems and robust engineering infrastructure are critical to delivering high-quality content to audiences. As broadcasters transition from analogue to digital and integrate IP-based systems, the demand for skilled broadcast engineers continues to grow. This programme equips participants with advanced technical knowledge and practical skills in broadcast engineering and transmission systems. It covers signal flow, RF fundamentals, digital broadcasting technologies, network architecture, and system reliability. Participants will also learn how to troubleshoot faults, optimize performance, and ensure continuous service delivery. The course integrates real-world case studies and practical exercises to ensure participants can confidently manage and maintain broadcasting systems in both traditional and digital environments.",
+    "audience": [
+      "Broadcast Engineers and Technicians",
+      "Transmission Engineers",
+      "Technical Operations Managers",
+      "IT and Network Engineers in broadcasting",
+      "Maintenance and Support Teams",
+      "Regulatory and Spectrum Management Personnel"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand broadcasting transmission systems and architectures",
+        "Apply RF and signal flow principles in broadcasting",
+        "Configure and manage transmission equipment",
+        "Troubleshoot technical faults and signal issues",
+        "Optimize system performance and coverage",
+        "Implement redundancy and disaster recovery systems",
+        "Integrate IP and digital broadcasting technologies",
+        "Ensure compliance with technical and regulatory standards"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Broadcast Engineering",
+        "lessons": [
+          "Evolution of broadcasting technology",
+          "Analog vs digital broadcasting systems",
+          "Overview of broadcasting infrastructure",
+          "Roles of engineering teams in broadcasting"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Signal Flow and System Architecture",
+        "lessons": [
+          "End-to-end broadcast signal flow",
+          "Studio to transmitter link (STL)",
+          "Network architecture design",
+          "IP-based broadcasting systems"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "RF Fundamentals and Spectrum Management",
+        "lessons": [
+          "Basics of radio frequency (RF) systems",
+          "Frequency allocation and spectrum management",
+          "Modulation techniques (AM, FM, digital)",
+          "Interference and signal degradation"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Transmission Systems",
+        "lessons": [
+          "Terrestrial transmission systems",
+          "Satellite broadcasting systems",
+          "Cable and IPTV transmission",
+          "Digital broadcasting standards (DVB, ISDB, ATSC)"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Broadcasting Equipment and Configuration",
+        "lessons": [
+          "Transmitters, antennas, and receivers",
+          "Signal processing equipment",
+          "Configuration and calibration of systems",
+          "Equipment integration and interoperability"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Monitoring, Testing and Measurement",
+        "lessons": [
+          "Signal monitoring tools and techniques",
+          "Measuring signal strength and quality",
+          "Performance testing and diagnostics",
+          "Using monitoring systems for fault detection"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Troubleshooting and Fault Management",
+        "lessons": [
+          "Identifying common transmission faults",
+          "Root cause analysis techniques",
+          "Corrective and preventive maintenance",
+          "Troubleshooting workflows"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "System Reliability and Redundancy",
+        "lessons": [
+          "Designing resilient broadcasting systems",
+          "Backup systems and failover mechanisms",
+          "Disaster recovery planning",
+          "Minimizing downtime and service interruptions"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "IP Broadcasting and Digital Integration",
+        "lessons": [
+          "Convergence of broadcasting and IT",
+          "Streaming and network-based transmission",
+          "Cloud-based broadcasting systems",
+          "Cybersecurity in broadcasting networks"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Regulatory Compliance and Standards",
+        "lessons": [
+          "Technical compliance requirements",
+          "Role of regulators such as ICASA",
+          "International broadcasting standards (ITU, DVB, SMPTE)",
+          "Licensing and transmission regulations"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Emerging Trends in Broadcast Engineering",
+        "lessons": [
+          "Digital migration and smart broadcasting",
+          "AI and automation in transmission systems",
+          "Software-defined broadcasting",
+          "Future of broadcast infrastructure"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Practical Exercises and Final Assessment",
+        "lessons": [
+          "Designing a broadcast transmission system",
+          "Identifying and resolving signal faults",
+          "System performance optimization exercise",
+          "Group presentations and evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "Broadcasting-and-Media",
+    "title": "AI & Automation in Broadcasting",
+    "duration": "3–5 Days",
+    "slg": "ai-and-automation-in-broadcasting",
+    "popular": false,
+    "seo": {
+      "seoTitle": "AI & Automation in Broadcasting Course | SkillHub International",
+      "seoDescription": "AI & Automation in Broadcasting training programme offered by SkillHub International.",
+      "seoKeywords": "AI broadcasting, automation media, content automation, audience analytics, skillhub",
+      "seoHeading": "AI & Automation in Broadcasting"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–5 day intensive programme equipping broadcasting professionals with practical knowledge of AI tools, automated workflows, audience analytics, and intelligent scheduling to future-proof their operations.",
+    "overview": "The broadcasting industry is undergoing a major transformation driven by Artificial Intelligence (AI) and automation technologies. From content creation and editing to scheduling, distribution, and audience analytics, AI is enabling broadcasters to operate more efficiently, reduce costs, and deliver highly personalized content. This programme equips participants with practical knowledge of how AI and automation can be applied across broadcasting operations. It covers AI-driven content production, automated workflows, data analytics, audience personalization, and intelligent scheduling systems. Participants will gain insight into how to leverage AI tools, automate processes, and build future-ready broadcasting systems that enhance productivity and competitiveness.",
+    "audience": [
+      "Broadcasting and Media Executives",
+      "Technical and Operations Managers",
+      "Content Producers and Editors",
+      "Digital and OTT Platform Managers",
+      "IT and Data Analytics Teams",
+      "Innovation and Strategy Teams"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand the role of AI in broadcasting",
+        "Identify opportunities for automation in media operations",
+        "Apply AI tools in content creation and editing",
+        "Use data analytics for audience insights and personalization",
+        "Automate scheduling and broadcasting workflows",
+        "Improve operational efficiency through automation",
+        "Understand ethical and regulatory considerations of AI",
+        "Develop AI-driven broadcasting strategies"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to AI in Broadcasting",
+        "lessons": [
+          "Overview of Artificial Intelligence and automation",
+          "Evolution of AI in media and broadcasting",
+          "Key AI technologies used in broadcasting",
+          "Opportunities and challenges of AI adoption"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "AI in Content Creation",
+        "lessons": [
+          "AI tools for video and audio production",
+          "Automated script generation and editing",
+          "AI-assisted video editing and enhancement",
+          "Voice synthesis and text-to-speech technologies"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Automation of Broadcasting Workflows",
+        "lessons": [
+          "Automating production and scheduling processes",
+          "Workflow optimization using automation tools",
+          "Integration of AI into existing systems",
+          "Reducing manual processes and operational costs"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "AI in Content Management & Distribution",
+        "lessons": [
+          "AI-powered content tagging and metadata generation",
+          "Automated content classification and organization",
+          "Smart content distribution across platforms",
+          "Managing large content libraries efficiently"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Audience Analytics & Personalization",
+        "lessons": [
+          "Using AI for audience insights and behavior analysis",
+          "Personalization and recommendation systems",
+          "Predictive analytics for content performance",
+          "Improving audience engagement through data"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "AI in Advertising & Revenue Optimization",
+        "lessons": [
+          "Targeted advertising using AI",
+          "Programmatic advertising and automation",
+          "Optimizing ad placement and pricing",
+          "Increasing revenue through data-driven strategies"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "AI in OTT & Digital Broadcasting",
+        "lessons": [
+          "AI applications in OTT platforms",
+          "Automated streaming and content delivery",
+          "Enhancing user experience through AI",
+          "Integration with digital broadcasting systems"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Ethical, Legal & Regulatory Considerations",
+        "lessons": [
+          "Ethical implications of AI in media",
+          "Data privacy and protection",
+          "Managing bias and misinformation",
+          "Compliance with broadcasting regulations"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Implementing AI in Broadcasting Organizations",
+        "lessons": [
+          "Assessing readiness for AI adoption",
+          "Developing an AI implementation roadmap",
+          "Change management and staff training",
+          "Measuring ROI of AI investments"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Emerging Trends in AI & Broadcasting",
+        "lessons": [
+          "Future of AI-driven media production",
+          "Automation of live broadcasting",
+          "AI-powered news and journalism",
+          "Innovations shaping the industry"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Practical Exercises & Case Studies",
+        "lessons": [
+          "Identify automation opportunities in a broadcasting workflow",
+          "Design an AI-driven content strategy",
+          "Analyze audience data for personalization"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Final Assessment",
+        "lessons": [
+          "Develop an AI & Automation strategy for a broadcasting organization",
+          "Presentation and evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "Broadcasting-and-Media",
+    "title": "Broadcast Compliance, Regulation & Policy",
+    "duration": "3 Days",
+    "slg": "broadcast-compliance-regulation-and-policy",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Broadcast Compliance, Regulation & Policy Course | SkillHub International",
+      "seoDescription": "Broadcast Compliance, Regulation & Policy training programme offered by SkillHub International.",
+      "seoKeywords": "broadcast compliance, broadcasting regulation, media policy, ICASA, licensing, skillhub",
+      "seoHeading": "Broadcast Compliance, Regulation & Policy"
+    },
+    "brochure": "",
+    "shortDesc": "A 3-day intensive programme equipping broadcasting professionals with the knowledge and tools to navigate regulatory frameworks, implement compliance systems, and manage risks effectively.",
+    "overview": "Broadcasting operates within a highly regulated environment where adherence to legal, ethical, and technical standards is critical. Failure to comply with regulations can result in penalties, reputational damage, and loss of broadcasting licenses. This programme equips participants with the knowledge and practical tools required to ensure compliance with broadcasting laws, regulations, and policies. It covers licensing requirements, content regulation, advertising standards, monitoring systems, and enforcement mechanisms. Participants will gain a clear understanding of how to navigate regulatory frameworks, implement compliance systems, and manage risks effectively within broadcasting organizations.",
+    "audience": [
+      "Compliance and Regulatory Officers",
+      "Broadcasting Managers and Executives",
+      "Content Producers and Editors",
+      "Legal and Policy Advisors",
+      "Media and Communications Officers",
+      "Government and Regulatory Personnel"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand broadcasting laws and regulatory frameworks",
+        "Interpret and apply compliance requirements in operations",
+        "Ensure content adheres to legal and ethical standards",
+        "Manage licensing and regulatory obligations",
+        "Monitor and report on compliance performance",
+        "Identify and mitigate compliance risks",
+        "Handle regulatory audits and inspections",
+        "Develop internal compliance policies and procedures"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Broadcasting Regulation",
+        "lessons": [
+          "Overview of broadcasting laws and regulations",
+          "Purpose and importance of regulation in media",
+          "Key regulatory frameworks in broadcasting",
+          "Role of regulatory bodies such as ICASA"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Licensing & Authorization Requirements",
+        "lessons": [
+          "Types of broadcasting licenses",
+          "Licensing application processes",
+          "License conditions and obligations",
+          "Renewal and compliance requirements"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Content Regulation & Standards",
+        "lessons": [
+          "Content classification and guidelines",
+          "Restrictions on harmful or inappropriate content",
+          "Political, religious, and public interest broadcasting",
+          "Ethical broadcasting standards"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Advertising & Sponsorship Compliance",
+        "lessons": [
+          "Advertising regulations in broadcasting",
+          "Sponsorship rules and disclosures",
+          "Protecting consumers and audiences",
+          "Managing commercial content"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Monitoring & Compliance Systems",
+        "lessons": [
+          "Establishing compliance monitoring frameworks",
+          "Internal compliance policies and procedures",
+          "Reporting mechanisms and documentation",
+          "Use of monitoring tools and audits"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Legal & Ethical Considerations",
+        "lessons": [
+          "Freedom of expression vs regulation",
+          "Defamation, privacy, and intellectual property",
+          "Handling complaints and disputes",
+          "Ethical decision-making in broadcasting"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Digital & OTT Compliance",
+        "lessons": [
+          "Regulations for digital broadcasting and OTT platforms",
+          "Content licensing and rights management",
+          "Data protection and privacy laws",
+          "Cross-border broadcasting considerations"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Risk Management & Enforcement",
+        "lessons": [
+          "Identifying compliance risks",
+          "Regulatory enforcement actions and penalties",
+          "Managing investigations and inspections",
+          "Developing risk mitigation strategies"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Policy Development & Implementation",
+        "lessons": [
+          "Developing internal broadcasting policies",
+          "Aligning policies with regulatory frameworks",
+          "Training staff on compliance requirements",
+          "Continuous improvement of compliance systems"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Practical Exercises & Case Studies",
+        "lessons": [
+          "Review and assess broadcast content for compliance",
+          "Develop a compliance checklist",
+          "Analyze real-world regulatory cases"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Final Assessment",
+        "lessons": [
+          "Develop a broadcast compliance framework or policy",
+          "Presentation and evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "Broadcasting-and-Media",
+    "title": "Broadcast Journalism & Newsroom Management",
+    "duration": "3–5 Days",
+    "slg": "broadcast-journalism-and-newsroom-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Broadcast Journalism & Newsroom Management Course | SkillHub International",
+      "seoDescription": "Broadcast Journalism & Newsroom Management training programme offered by SkillHub International.",
+      "seoKeywords": "broadcast journalism, newsroom management, news writing, live reporting, media, skillhub",
+      "seoHeading": "Broadcast Journalism & Newsroom Management"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–5 day intensive programme equipping journalists and newsroom professionals with practical skills to gather, produce, and deliver high-quality broadcast news while managing editorial workflows effectively.",
+    "overview": "In today's fast-paced media environment, the demand for accurate, timely, and credible news has never been greater. Broadcast journalism plays a critical role in informing the public, shaping opinions, and maintaining accountability. At the same time, effective newsroom management is essential to ensure efficiency, coordination, and editorial integrity. This programme equips participants with the practical skills required to gather, produce, and deliver high-quality broadcast news while managing newsroom operations effectively. It covers news gathering, writing, editing, ethical journalism, live reporting, and newsroom workflows. Participants will gain hands-on experience in developing news stories, managing editorial processes, and delivering professional broadcasts.",
+    "audience": [
+      "Journalists and Reporters",
+      "News Editors and Producers",
+      "Media and Communications Officers",
+      "Newsroom Managers and Supervisors",
+      "Broadcasters and Presenters",
+      "Public Relations and Media Professionals"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand the principles of broadcast journalism",
+        "Gather, verify, and report news accurately",
+        "Write and edit scripts for radio and television",
+        "Deliver professional on-air news presentations",
+        "Apply ethical standards in journalism",
+        "Manage newsroom workflows and deadlines",
+        "Coordinate editorial teams effectively",
+        "Handle breaking news and crisis reporting"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Broadcast Journalism",
+        "lessons": [
+          "Role of journalism in society",
+          "Types of broadcast journalism (radio, TV, digital)",
+          "News values and storytelling principles",
+          "Structure of a news organization"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "News Gathering & Research",
+        "lessons": [
+          "Identifying newsworthy stories",
+          "Research techniques and sources",
+          "Interviewing skills and techniques",
+          "Fact-checking and verification"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "News Writing & Script Development",
+        "lessons": [
+          "Writing for radio and television",
+          "Structuring news stories (inverted pyramid)",
+          "Writing clear, concise, and engaging scripts",
+          "Adapting content for different audiences"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Editing & Content Production",
+        "lessons": [
+          "Editing news scripts and packages",
+          "Audio and video editing basics",
+          "Ensuring accuracy and clarity",
+          "Preparing content for broadcast"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "On-Air Presentation & Live Reporting",
+        "lessons": [
+          "Delivering news on-air with confidence",
+          "Voice control and delivery techniques",
+          "Live reporting from the field",
+          "Managing interviews and discussions"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Newsroom Management & Workflow",
+        "lessons": [
+          "Structure and roles within a newsroom",
+          "Editorial planning and scheduling",
+          "Managing deadlines and workflow",
+          "Coordination between reporters, editors, and producers"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Ethical Journalism & Compliance",
+        "lessons": [
+          "Principles of ethical journalism",
+          "Avoiding bias and misinformation",
+          "Legal considerations in broadcasting",
+          "Regulatory compliance guidelines"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Breaking News & Crisis Reporting",
+        "lessons": [
+          "Handling breaking news situations",
+          "Rapid decision-making under pressure",
+          "Verifying information during crises",
+          "Communicating responsibly in emergencies"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Digital Journalism & Multimedia Integration",
+        "lessons": [
+          "Transition to digital news platforms",
+          "Social media and online reporting",
+          "Multimedia storytelling (video, audio, text)",
+          "Engaging digital audiences"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Audience Engagement & Impact",
+        "lessons": [
+          "Understanding audience needs",
+          "Building trust and credibility",
+          "Interactive news formats",
+          "Measuring audience response and feedback"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Practical Newsroom Simulation",
+        "lessons": [
+          "Develop and write a news story",
+          "Conduct interviews and gather content",
+          "Produce and present a news segment",
+          "Simulate a newsroom environment"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Final Assessment",
+        "lessons": [
+          "Produce a complete news bulletin or report",
+          "Presentation and peer review",
+          "Feedback and evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "Broadcasting and Media",
+    "title": "Broadcast Project Management",
+    "duration": "3–4 Days",
+    "slg": "broadcast-project-management",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Broadcast Project Management Course | SkillHub International",
+      "seoDescription": "Broadcast Project Management training programme offered by SkillHub International.",
+      "seoKeywords": "broadcast project management, media production planning, broadcasting budgeting, risk management, skillhub",
+      "seoHeading": "Broadcast Project Management"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–4 day intensive programme equipping broadcasting professionals with practical project management skills to plan, manage, and deliver broadcasting projects on time, on budget, and at quality.",
+    "overview": "Broadcasting projects — whether live productions, content launches, or digital platform rollouts — require precise planning, coordination, and execution. Managing these projects effectively is critical to ensuring timely delivery, cost control, and high-quality output. This programme equips participants with the practical skills needed to plan, manage, and deliver broadcasting projects successfully. It covers project planning, resource management, scheduling, budgeting, risk management, and team coordination within a broadcasting environment. Participants will learn how to apply project management principles specifically to media and broadcasting projects, ensuring efficient execution and improved operational outcomes.",
+    "audience": [
+      "Broadcast and Production Managers",
+      "Project Managers and Coordinators",
+      "Media and Communications Officers",
+      "Content Producers and Directors",
+      "Technical and Operations Teams",
+      "Event Production Teams"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand project management principles in broadcasting",
+        "Plan and structure broadcasting projects effectively",
+        "Develop project schedules and timelines",
+        "Manage budgets and resources efficiently",
+        "Identify and mitigate project risks",
+        "Coordinate teams and stakeholders",
+        "Monitor project progress and performance",
+        "Deliver projects on time and within scope"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Broadcast Project Management",
+        "lessons": [
+          "Overview of project management principles",
+          "Characteristics of broadcasting projects",
+          "Project lifecycle (initiation, planning, execution, closure)",
+          "Roles and responsibilities in project teams"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Project Planning & Scope Definition",
+        "lessons": [
+          "Defining project objectives and deliverables",
+          "Scope management and requirements gathering",
+          "Developing project plans",
+          "Aligning projects with organizational goals"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Scheduling & Time Management",
+        "lessons": [
+          "Developing project timelines and schedules",
+          "Task sequencing and dependencies",
+          "Tools and techniques for scheduling",
+          "Managing deadlines in broadcasting environments"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Resource & Budget Management",
+        "lessons": [
+          "Allocating human and technical resources",
+          "Budget planning and cost control",
+          "Managing equipment and production resources",
+          "Optimizing resource utilization"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Risk Management in Broadcasting Projects",
+        "lessons": [
+          "Identifying project risks",
+          "Assessing impact and likelihood",
+          "Developing mitigation strategies",
+          "Managing uncertainties during production"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Team Coordination & Communication",
+        "lessons": [
+          "Managing cross-functional teams",
+          "Communication strategies for project success",
+          "Stakeholder engagement and management",
+          "Conflict resolution and team dynamics"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Execution & Monitoring",
+        "lessons": [
+          "Managing project execution",
+          "Tracking progress and performance",
+          "Adjusting plans and handling changes",
+          "Ensuring quality and compliance"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Tools & Techniques for Project Management",
+        "lessons": [
+          "Project management tools and software",
+          "Workflow management systems",
+          "Reporting and documentation",
+          "Performance tracking tools"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Closing & Evaluating Projects",
+        "lessons": [
+          "Project closure processes",
+          "Evaluating project outcomes",
+          "Lessons learned and continuous improvement",
+          "Reporting and documentation"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Practical Exercises & Case Studies",
+        "lessons": [
+          "Develop a broadcast project plan",
+          "Create a project schedule and budget",
+          "Identify and manage project risks"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Final Assessment",
+        "lessons": [
+          "Present a complete broadcast project plan",
+          "Group evaluation and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "Broadcasting-and-Media",
+    "title": "Content Creation & Media Strategy for Broadcasters",
+    "duration": "3–4 Days",
+    "slg": "content-creation-and-media-strategy-for-broadcasters",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Content Creation & Media Strategy for Broadcasters Course | SkillHub International",
+      "seoDescription": "Content Creation & Media Strategy for Broadcasters training programme offered by SkillHub International.",
+      "seoKeywords": "content creation, media strategy, broadcasting content, multi-platform, content calendar, skillhub",
+      "seoHeading": "Content Creation & Media Strategy for Broadcasters"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–4 day intensive programme equipping broadcasters and media teams with skills to develop data-driven content strategies, create engaging multi-platform media content, and align content with revenue objectives.",
+    "overview": "In today's competitive media landscape, content is the key driver of audience growth, engagement, and revenue. Broadcasters must go beyond traditional programming to develop strategic, high-quality content that performs across multiple platforms including TV, radio, social media, and digital streaming services. This programme equips participants with the skills to plan, create, and distribute impactful content while aligning with organizational goals and audience needs. It focuses on content strategy, storytelling, branding, and multi-platform distribution. Participants will learn how to develop data-driven content strategies, create engaging media content, and optimize performance across broadcasting and digital channels, ensuring maximum audience reach and impact.",
+    "audience": [
+      "Content Creators and Producers",
+      "Broadcasting and Media Managers",
+      "Marketing and Communications Teams",
+      "Digital Media Managers",
+      "Social Media Teams",
+      "Brand and Strategy Managers",
+      "Media Entrepreneurs"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Develop effective content strategies for broadcasting and digital platforms",
+        "Create engaging and audience-focused media content",
+        "Apply storytelling techniques across multiple formats",
+        "Plan and manage content calendars and programming",
+        "Distribute content across TV, radio, and digital platforms",
+        "Use data and analytics to improve content performance",
+        "Build strong media brands and audience engagement",
+        "Align content with business and revenue objectives"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Content Strategy",
+        "lessons": [
+          "Role of content in modern broadcasting",
+          "Content strategy vs content creation",
+          "Understanding the media ecosystem",
+          "Aligning content with organizational goals"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Audience Analysis & Targeting",
+        "lessons": [
+          "Identifying and segmenting audiences",
+          "Understanding audience behavior and preferences",
+          "Developing audience personas",
+          "Tailoring content for different demographics"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Content Planning & Programming",
+        "lessons": [
+          "Developing content calendars",
+          "Planning weekly and monthly programming",
+          "Balancing content types (news, entertainment, education)",
+          "Integrating advertising and sponsored content"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Storytelling for Broadcast & Digital Media",
+        "lessons": [
+          "Principles of storytelling in media",
+          "Structuring compelling narratives",
+          "Adapting stories for TV, radio, and digital platforms",
+          "Emotional engagement and audience connection"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Multi-Platform Content Creation",
+        "lessons": [
+          "Creating content for TV, radio, and social media",
+          "Short-form vs long-form content",
+          "Repurposing content across platforms",
+          "Video, audio, and visual content creation basics"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Branding & Positioning",
+        "lessons": [
+          "Building a strong media brand",
+          "Developing a unique voice and identity",
+          "Consistency across platforms",
+          "Positioning content in competitive markets"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Content Distribution Strategies",
+        "lessons": [
+          "Channels for content distribution",
+          "Digital platforms and streaming services",
+          "Social media strategies for broadcasters",
+          "Maximizing reach and visibility"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Data Analytics & Performance Measurement",
+        "lessons": [
+          "Key performance indicators (KPIs) for content",
+          "Measuring engagement and audience growth",
+          "Using analytics tools to refine content",
+          "Data-driven decision making"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Monetization & Revenue Alignment",
+        "lessons": [
+          "Linking content to revenue generation",
+          "Advertising, sponsorships, and partnerships",
+          "Content monetization strategies",
+          "Maximizing ROI on content investments"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Content Governance & Compliance",
+        "lessons": [
+          "Editorial guidelines and content standards",
+          "Managing risks in content production",
+          "Legal and ethical considerations",
+          "Compliance with broadcasting regulations"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Practical Exercises & Strategy Development",
+        "lessons": [
+          "Develop a content strategy for a broadcaster",
+          "Create a weekly content calendar",
+          "Design a multi-platform content plan"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Final Assessment",
+        "lessons": [
+          "Present a complete content strategy and media plan",
+          "Group evaluation and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "Broadcasting-and-Media",
+    "title": "Digital Broadcasting & OTT Monetization",
+    "duration": "3–5 Days",
+    "slg": "digital-broadcasting-and-ott-monetization",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Digital Broadcasting & OTT Monetization Course | SkillHub International",
+      "seoDescription": "Digital Broadcasting & OTT Monetization training programme offered by SkillHub International.",
+      "seoKeywords": "OTT monetization, digital broadcasting, SVOD, AVOD, streaming platforms, skillhub",
+      "seoHeading": "Digital Broadcasting & OTT Monetization"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–5 day intensive programme equipping media professionals with the knowledge and skills to design, manage, and monetize digital broadcasting and OTT platforms using subscription, advertising, and hybrid models.",
+    "overview": "As the media industry shifts rapidly toward digital platforms, broadcasters must evolve beyond traditional transmission models to remain competitive and financially sustainable. Over-The-Top (OTT) platforms and digital broadcasting technologies have created new opportunities for content distribution, audience engagement, and revenue generation. This programme equips participants with the knowledge and practical skills to design, manage, and monetize digital broadcasting platforms. It covers OTT architecture, streaming technologies, content distribution strategies, and multiple monetization models including subscription, advertising, and hybrid approaches. Participants will also explore audience analytics, content optimization, and digital compliance to ensure sustainable growth in a competitive media environment.",
+    "audience": [
+      "Broadcasting and Media Executives",
+      "Digital Platform Managers",
+      "Content Strategists and Producers",
+      "Marketing and Revenue Teams",
+      "IT and Streaming Engineers",
+      "Media Entrepreneurs and Startups",
+      "OTT Platform Operators"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand digital broadcasting ecosystems and OTT platforms",
+        "Design and manage streaming and content delivery systems",
+        "Apply OTT monetization strategies (SVOD, AVOD, TVOD)",
+        "Optimize content for digital audiences",
+        "Use data analytics to improve engagement and revenue",
+        "Ensure compliance with digital content regulations",
+        "Develop scalable digital broadcasting strategies",
+        "Integrate traditional broadcasting with digital platforms"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Digital Broadcasting & OTT",
+        "lessons": [
+          "Evolution from traditional to digital broadcasting",
+          "Understanding OTT (Over-The-Top) platforms",
+          "Differences between OTT, IPTV, and traditional broadcasting",
+          "Overview of the digital media ecosystem"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "OTT Architecture & Streaming Technologies",
+        "lessons": [
+          "Components of OTT platforms (CMS, CDN, players)",
+          "Video encoding, compression, and streaming protocols",
+          "Content Delivery Networks (CDNs)",
+          "Live streaming vs on-demand delivery"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Content Strategy for Digital Platforms",
+        "lessons": [
+          "Content planning and programming for OTT",
+          "Audience segmentation and targeting",
+          "Short-form vs long-form content strategies",
+          "Multi-platform content distribution"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "OTT Monetization Models",
+        "lessons": [
+          "Subscription Video on Demand (SVOD)",
+          "Advertising Video on Demand (AVOD)",
+          "Transactional Video on Demand (TVOD)",
+          "Hybrid monetization strategies",
+          "Pricing strategies and revenue optimization"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Advertising & Revenue Optimization",
+        "lessons": [
+          "Digital advertising models (pre-roll, mid-roll, display ads)",
+          "Programmatic advertising basics",
+          "Sponsorships and branded content",
+          "Maximizing ad revenue through audience insights"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Data Analytics & Audience Insights",
+        "lessons": [
+          "Understanding viewer behaviour and engagement metrics",
+          "Key performance indicators (KPIs) for OTT",
+          "Using analytics tools to optimize content",
+          "Personalization and recommendation systems"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "OTT Platform Operations",
+        "lessons": [
+          "Content management systems (CMS)",
+          "Uploading, managing, and scheduling content",
+          "User experience and interface design basics",
+          "Managing subscriptions and users"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Digital Compliance & Content Regulation",
+        "lessons": [
+          "Content licensing and rights management",
+          "Data privacy and protection laws",
+          "Platform compliance requirements",
+          "Regional regulatory considerations"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Integration with Traditional Broadcasting",
+        "lessons": [
+          "Simulcasting and cross-platform distribution",
+          "Transition strategies from traditional to digital",
+          "Leveraging existing broadcasting assets",
+          "Hybrid broadcasting models"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Technology Trends in Digital Broadcasting",
+        "lessons": [
+          "AI and automation in content delivery",
+          "Cloud-based broadcasting systems",
+          "5G and mobile streaming",
+          "Future of OTT and digital media"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Business Strategy & Scaling OTT Platforms",
+        "lessons": [
+          "Building a digital broadcasting business model",
+          "Market entry strategies",
+          "Partnerships and distribution channels",
+          "Scaling platforms and expanding reach"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Practical Exercises & Final Assessment",
+        "lessons": [
+          "Designing an OTT platform strategy",
+          "Developing a monetization model",
+          "Creating a content distribution plan",
+          "Group presentations and evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "Broadcasting-and-Media",
+    "title": "Mastering Broadcasting Operations",
+    "duration": "5 Days",
+    "slg": "mastering-broadcasting-operations",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Mastering Broadcasting Operations Course | SkillHub International",
+      "seoDescription": "Mastering Broadcasting Operations advanced training programme offered by SkillHub International.",
+      "seoKeywords": "broadcasting operations, quality control, audio compliance, broadcast scheduling, OTT, skillhub",
+      "seoHeading": "Mastering Broadcasting Operations"
+    },
+    "brochure": "",
+    "shortDesc": "A comprehensive 5-day advanced programme equipping broadcasting operations professionals with skills in QC, audio compliance, editing, scheduling, OTT compliance, risk management, and operational efficiency.",
+    "overview": "In today's rapidly evolving media landscape, broadcasting organizations must operate with high levels of technical precision, content quality, and regulatory compliance. As the industry shifts toward digital platforms and OTT services, the need for skilled professionals who can manage both traditional and modern broadcasting systems has become critical. This programme equips participants with the knowledge and practical skills required to manage broadcasting operations effectively — from studio production and quality control to audio compliance, editing, scheduling, and digital broadcasting standards. Participants will gain hands-on experience in applying broadcasting QC processes, ensuring loudness compliance, crafting effective weekly schedules, and meeting OTT and regulatory requirements. The course also emphasizes operational efficiency, risk management, and future trends in broadcasting.",
+    "audience": [
+      "Broadcasting Operations Managers",
+      "Studio and Production Managers",
+      "Technical Engineers and QC Specialists",
+      "Audio Engineers and Editors",
+      "Media and Communications Officers",
+      "Compliance and Regulatory Officers",
+      "Digital and OTT Platform Managers",
+      "IT Personnel supporting broadcasting systems"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand the full broadcasting operations workflow",
+        "Apply broadcasting quality control (QC) and technical standards",
+        "Ensure audio compliance and loudness consistency",
+        "Perform basic audio and video editing tasks",
+        "Develop and manage weekly broadcast schedules",
+        "Ensure compliance with OTT and digital broadcasting requirements",
+        "Optimize broadcasting systems and operational performance",
+        "Manage risks and respond to broadcasting disruptions",
+        "Improve content quality and audience experience"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Broadcasting Operations",
+        "lessons": [
+          "Overview of broadcasting industry (Radio, TV, Digital)",
+          "Broadcasting value chain and workflow",
+          "Roles and responsibilities in broadcasting operations",
+          "Introduction to studio and control room environments"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Studio Operations and Production Workflow",
+        "lessons": [
+          "Studio setup and key broadcasting equipment",
+          "Control room coordination and signal flow",
+          "Live vs recorded broadcasting processes",
+          "Managing production teams and workflows"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Broadcasting Quality Control (QC) Fundamentals",
+        "lessons": [
+          "Introduction to broadcast QC principles",
+          "Importance of quality assurance in broadcasting",
+          "Identifying common QC issues (audio, video, timing, formatting)",
+          "QC workflows and checklists"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Broadcasting Technical Standards",
+        "lessons": [
+          "Video standards (resolution, frame rates, formats)",
+          "Audio standards (bitrate, channels, encoding)",
+          "File formats and delivery specifications",
+          "Overview of international broadcasting standards (EBU, ITU, SMPTE)"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Advanced QC and Compliance in Broadcasting",
+        "lessons": [
+          "Manual vs automated QC processes",
+          "Content validation and approval workflows",
+          "Metadata management and file integrity",
+          "Ensuring compliance with broadcasting regulations"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Audio Compliance and Loudness Standards",
+        "lessons": [
+          "Understanding audio levels, dynamics, and mixing",
+          "Loudness standards and measurement techniques",
+          "Managing peak levels and avoiding distortion",
+          "Ensuring consistent audio quality across broadcasts"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Basic Audio and Video Editing Skills",
+        "lessons": [
+          "Introduction to editing tools and software",
+          "Cutting, trimming, and sequencing content",
+          "Audio correction and leveling techniques",
+          "Exporting broadcast-ready content"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Crafting Weekly Broadcast Schedules",
+        "lessons": [
+          "Principles of programming and scheduling",
+          "Audience targeting and content planning",
+          "Balancing programming, advertising, and compliance",
+          "Developing and managing weekly broadcast schedules"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "OTT and Digital Broadcasting Compliance",
+        "lessons": [
+          "Introduction to OTT and digital broadcasting platforms",
+          "Differences between traditional and digital broadcasting",
+          "Content licensing and rights management",
+          "Digital compliance and platform-specific requirements"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Broadcasting Transmission and Operational Efficiency",
+        "lessons": [
+          "Overview of transmission systems (terrestrial, satellite, IPTV)",
+          "Ensuring signal quality and coverage",
+          "Minimizing downtime and operational disruptions",
+          "Improving workflow efficiency"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Risk Management and Business Continuity",
+        "lessons": [
+          "Identifying operational and technical risks",
+          "Developing mitigation strategies",
+          "Disaster recovery and backup systems",
+          "Managing broadcast outages and emergencies"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Final Assessment and Practical Application",
+        "lessons": [
+          "Conducting a broadcast QC review",
+          "Performing basic editing corrections",
+          "Developing a weekly broadcast schedule",
+          "Ensuring compliance with technical and OTT standards",
+          "Group presentations and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "Broadcasting-and-Media",
+    "title": "Media Sales & Advertising Revenue Optimization",
+    "duration": "3 Days",
+    "slg": "media-sales-and-advertising-revenue-optimization",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Media Sales & Advertising Revenue Optimization Course | SkillHub International",
+      "seoDescription": "Media Sales & Advertising Revenue Optimization training programme offered by SkillHub International.",
+      "seoKeywords": "media sales, advertising revenue, broadcast revenue, sponsorship, programmatic advertising, skillhub",
+      "seoHeading": "Media Sales & Advertising Revenue Optimization"
+    },
+    "brochure": "",
+    "shortDesc": "A 3-day intensive programme equipping media sales professionals with practical skills to drive advertising revenue, price packages competitively, manage client relationships, and optimize revenue across traditional and digital platforms.",
+    "overview": "In an increasingly competitive media environment, broadcasters must adopt strategic approaches to maximize advertising revenue and build sustainable income streams. Media sales is no longer just about selling airtime — it involves understanding audiences, creating value for advertisers, and leveraging data to optimize revenue. This programme equips participants with the practical skills required to drive media sales performance and optimize advertising revenue. It covers pricing strategies, client relationship management, advertising models, and revenue optimization techniques across traditional and digital platforms. Participants will learn how to sell effectively, structure high-value deals, and maximize return on media assets, ensuring improved financial performance for broadcasting organizations.",
+    "audience": [
+      "Media Sales Executives and Managers",
+      "Marketing and Revenue Teams",
+      "Broadcasting and Station Managers",
+      "Account Managers and Client Service Teams",
+      "Advertising and Sponsorship Coordinators",
+      "Media Entrepreneurs"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand media sales principles and revenue models",
+        "Develop effective advertising sales strategies",
+        "Price advertising slots and packages competitively",
+        "Build and manage strong client relationships",
+        "Structure sponsorship and partnership deals",
+        "Use audience data to drive sales decisions",
+        "Optimize revenue across traditional and digital platforms",
+        "Measure and improve advertising performance"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Media Sales",
+        "lessons": [
+          "Overview of media sales in broadcasting",
+          "Revenue streams in radio, TV, and digital platforms",
+          "Role of sales in organizational growth",
+          "Understanding the advertising ecosystem"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Understanding the Audience",
+        "lessons": [
+          "Audience measurement and segmentation",
+          "Ratings, reach, and engagement metrics",
+          "Using audience insights to attract advertisers",
+          "Aligning content with advertiser needs"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Advertising Products & Pricing Strategies",
+        "lessons": [
+          "Types of advertising (spots, sponsorships, branded content)",
+          "Pricing airtime and advertising packages",
+          "Rate cards and discount strategies",
+          "Maximizing value through bundling"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Sales Techniques & Client Management",
+        "lessons": [
+          "Building strong client relationships",
+          "Prospecting and lead generation",
+          "Negotiation and closing deals",
+          "Managing key accounts"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Sponsorships & Partnerships",
+        "lessons": [
+          "Structuring sponsorship deals",
+          "Creating value for sponsors",
+          "Long-term partnership strategies",
+          "Integrating brands into content"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Digital Advertising & Revenue Streams",
+        "lessons": [
+          "Digital advertising models (display, video, programmatic)",
+          "Monetization through streaming and OTT platforms",
+          "Cross-platform advertising strategies",
+          "Leveraging social media for revenue"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Revenue Optimization Strategies",
+        "lessons": [
+          "Maximizing yield from advertising inventory",
+          "Inventory management and scheduling",
+          "Upselling and cross-selling techniques",
+          "Improving sales performance"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Data-Driven Sales & Performance Measurement",
+        "lessons": [
+          "Key performance indicators (KPIs) for media sales",
+          "Tracking and analyzing sales performance",
+          "Using data to refine sales strategies",
+          "Reporting and forecasting revenue"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Sales Planning & Strategy Development",
+        "lessons": [
+          "Developing sales plans and targets",
+          "Aligning sales with business objectives",
+          "Budgeting and forecasting",
+          "Continuous improvement in sales performance"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Practical Exercises & Case Studies",
+        "lessons": [
+          "Develop a media sales pitch",
+          "Create an advertising package and pricing model",
+          "Role-play client negotiations"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Final Assessment",
+        "lessons": [
+          "Present a media sales strategy and revenue plan",
+          "Group evaluation and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "Broadcasting-and-Media",
+    "title": "Podcasting & Digital Audio Production",
+    "duration": "3 Days",
+    "slg": "podcasting-and-digital-audio-production",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Podcasting & Digital Audio Production Course | SkillHub International",
+      "seoDescription": "Podcasting & Digital Audio Production training programme offered by SkillHub International.",
+      "seoKeywords": "podcasting, digital audio production, podcast editing, podcast monetization, audio branding, skillhub",
+      "seoHeading": "Podcasting & Digital Audio Production"
+    },
+    "brochure": "",
+    "shortDesc": "A 3-day intensive programme equipping content creators and media professionals with hands-on skills to plan, record, edit, distribute, and monetize professional podcast content.",
+    "overview": "Podcasting has emerged as one of the fastest-growing digital media channels, offering individuals and organizations a powerful platform to share content, build audiences, and generate revenue. With relatively low production costs and high engagement potential, podcasts are transforming how audio content is created and consumed. This programme equips participants with the practical skills required to plan, produce, and distribute high-quality podcasts. It covers podcast strategy, recording techniques, editing, branding, distribution, and monetization. Participants will gain hands-on experience in creating, editing, and launching a podcast, ensuring they can confidently produce professional digital audio content.",
+    "audience": [
+      "Content Creators and Media Professionals",
+      "Broadcasters and Radio Personnel",
+      "Marketing and Communications Teams",
+      "Entrepreneurs and Influencers",
+      "Corporate and Government Communication Units",
+      "Anyone interested in starting a podcast"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand the podcasting ecosystem and opportunities",
+        "Plan and develop podcast concepts and content",
+        "Record high-quality audio using proper techniques",
+        "Edit and produce professional podcast episodes",
+        "Distribute podcasts across major platforms",
+        "Build and grow a podcast audience",
+        "Apply branding and marketing strategies",
+        "Monetize podcast content effectively"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Podcasting",
+        "lessons": [
+          "Overview of the podcasting industry",
+          "Types of podcasts (interview, storytelling, educational, news)",
+          "Podcast formats and styles",
+          "Opportunities in digital audio"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Podcast Planning & Content Development",
+        "lessons": [
+          "Developing podcast concepts and themes",
+          "Identifying target audiences",
+          "Structuring episodes and series",
+          "Script writing and storytelling techniques"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Recording & Audio Production Basics",
+        "lessons": [
+          "Setting up a recording environment",
+          "Microphones and recording equipment",
+          "Audio recording techniques",
+          "Managing sound quality and clarity"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Audio Editing & Post-Production",
+        "lessons": [
+          "Editing tools and software",
+          "Cutting, trimming, and mixing audio",
+          "Noise reduction and sound enhancement",
+          "Adding music, intros, and outros"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Podcast Branding & Identity",
+        "lessons": [
+          "Naming and positioning your podcast",
+          "Designing cover art and branding elements",
+          "Creating a consistent podcast style",
+          "Building a recognizable audio identity"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Distribution & Publishing",
+        "lessons": [
+          "Podcast hosting platforms",
+          "Publishing to major platforms",
+          "Managing podcast feeds and episodes",
+          "Scheduling and consistency"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Marketing & Audience Growth",
+        "lessons": [
+          "Promoting podcasts through social media",
+          "Building and engaging an audience",
+          "Collaborations and partnerships",
+          "Audience feedback and engagement"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Monetization Strategies",
+        "lessons": [
+          "Sponsorships and advertising",
+          "Subscription and premium content models",
+          "Affiliate marketing and partnerships",
+          "Monetizing through brand collaborations"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Podcast Analytics & Performance Measurement",
+        "lessons": [
+          "Understanding podcast metrics",
+          "Tracking downloads and engagement",
+          "Using analytics tools to improve content",
+          "Continuous improvement strategies"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Legal & Ethical Considerations",
+        "lessons": [
+          "Copyright and licensing of music and content",
+          "Content ownership and rights",
+          "Ethical considerations in podcasting",
+          "Compliance with platform policies"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Practical Podcast Production",
+        "lessons": [
+          "Develop a podcast concept and episode plan",
+          "Record a podcast segment",
+          "Edit and produce a final episode"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Final Assessment",
+        "lessons": [
+          "Present a complete podcast episode or concept",
+          "Group feedback and evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "Broadcasting-and-Media",
+    "title": "Radio Production & On-Air Excellence",
+    "duration": "3 Days",
+    "slg": "radio-production-and-on-air-excellence",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Radio Production & On-Air Excellence Course | SkillHub International",
+      "seoDescription": "Radio Production & On-Air Excellence training programme offered by SkillHub International.",
+      "seoKeywords": "radio production, on-air presentation, voice training, radio broadcasting, audio editing, skillhub",
+      "seoHeading": "Radio Production & On-Air Excellence"
+    },
+    "brochure": "",
+    "shortDesc": "A 3-day intensive programme equipping radio presenters, producers, and broadcasters with practical skills in studio operations, voice techniques, show planning, live broadcasting, and audio production.",
+    "overview": "Radio remains one of the most powerful and accessible media platforms, particularly across Africa, where it plays a critical role in information dissemination, entertainment, and community engagement. Delivering high-quality radio content requires a combination of strong production skills, engaging on-air presence, and effective audience interaction. This programme equips participants with the practical skills required to produce compelling radio content and deliver professional on-air performances. It covers studio operations, voice techniques, show planning, live broadcasting, audience engagement, and audio production. Participants will gain hands-on experience in live broadcasting, content creation, and audio editing, enabling them to confidently manage both production and on-air delivery in professional radio environments.",
+    "audience": [
+      "Radio Presenters and DJs",
+      "Producers and Content Creators",
+      "Media and Communications Officers",
+      "Community Radio Staff",
+      "Aspiring Broadcasters",
+      "Marketing and PR Professionals"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand radio production workflows and studio operations",
+        "Deliver confident and engaging on-air presentations",
+        "Apply voice control, tone, and storytelling techniques",
+        "Plan and structure professional radio shows",
+        "Engage and retain audiences effectively",
+        "Operate studio and audio equipment",
+        "Produce and edit high-quality audio content",
+        "Maintain broadcasting standards and professionalism"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Radio Broadcasting",
+        "lessons": [
+          "Role of radio in modern media",
+          "Types of radio formats (music, talk, news, community)",
+          "Radio production workflow",
+          "Roles within a radio station"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Studio Operations & Equipment",
+        "lessons": [
+          "Radio studio setup and components",
+          "Microphones, mixers, and audio interfaces",
+          "Basic sound engineering principles",
+          "Operating studio equipment effectively"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Voice Training & On-Air Presentation",
+        "lessons": [
+          "Voice control, tone, and clarity",
+          "Breathing techniques and projection",
+          "Developing a unique on-air style",
+          "Managing nerves and building confidence"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Show Planning & Content Development",
+        "lessons": [
+          "Structuring a radio show",
+          "Segment planning and timing",
+          "Script writing and improvisation",
+          "Music selection and playlist creation"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Live Broadcasting Techniques",
+        "lessons": [
+          "Running a live radio show",
+          "Managing transitions and timing",
+          "Handling interviews and guest segments",
+          "Managing mistakes and maintaining professionalism"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Audience Engagement & Interaction",
+        "lessons": [
+          "Understanding listener behavior",
+          "Engaging audiences through calls, SMS, and social media",
+          "Building a loyal listener base",
+          "Creating interactive content"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Audio Production & Editing",
+        "lessons": [
+          "Recording high-quality audio",
+          "Editing techniques (cutting, trimming, mixing)",
+          "Improving sound quality and clarity",
+          "Producing jingles, promos, and segments"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Radio Branding & Station Identity",
+        "lessons": [
+          "Developing a station sound and identity",
+          "Creating jingles and signature elements",
+          "Positioning shows and presenters",
+          "Maintaining consistency in style and tone"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Broadcasting Standards & Professionalism",
+        "lessons": [
+          "Ethical broadcasting practices",
+          "Content guidelines and compliance",
+          "Time management and discipline",
+          "Professional conduct on-air and off-air"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Practical Exercises & Final Assessment",
+        "lessons": [
+          "Deliver a live on-air presentation",
+          "Record and edit a radio segment",
+          "Develop a complete show plan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "Broadcasting-and-Media",
+    "title": "Sports Broadcasting & Live Event Production",
+    "duration": "3–5 Days",
+    "slg": "sports-broadcasting-and-live-event-production",
+    "popular": false,
+    "seo": {
+      "seoTitle": "Sports Broadcasting & Live Event Production Course | SkillHub International",
+      "seoDescription": "Sports Broadcasting & Live Event Production training programme offered by SkillHub International.",
+      "seoKeywords": "sports broadcasting, live event production, multi-camera, sports commentary, live directing, skillhub",
+      "seoHeading": "Sports Broadcasting & Live Event Production"
+    },
+    "brochure": "",
+    "shortDesc": "A 3–5 day intensive programme equipping production teams, commentators, and broadcasters with skills in multi-camera coverage, live directing, sports commentary, graphics integration, and real-time event coordination.",
+    "overview": "Sports broadcasting and live event production require precision, speed, and seamless coordination to deliver engaging, real-time content to audiences. From camera coverage and commentary to production control and audience engagement, every element must work together flawlessly. This programme equips participants with the practical skills needed to plan, produce, and deliver high-quality sports broadcasts and live events. It covers multi-camera setups, live directing, commentary techniques, graphics integration, and real-time production workflows. Participants will gain hands-on experience in live event coordination, sports coverage techniques, and broadcast production, ensuring they can confidently manage high-pressure live broadcasting environments.",
+    "audience": [
+      "Sports Broadcasters and Commentators",
+      "TV Producers and Directors",
+      "Camera Operators and Technical Teams",
+      "Event Production Teams",
+      "Media and Communications Officers",
+      "Content Creators and Broadcasters"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand sports broadcasting workflows and live production environments",
+        "Plan and execute live sports broadcasts and events",
+        "Apply multi-camera coverage techniques for sports",
+        "Coordinate production teams effectively during live events",
+        "Deliver engaging commentary and on-air presentations",
+        "Manage real-time production challenges and disruptions",
+        "Integrate graphics, replays, and highlights into broadcasts",
+        "Enhance audience engagement during live events"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to Sports Broadcasting",
+        "lessons": [
+          "Overview of sports broadcasting industry",
+          "Types of sports broadcasts (live, recorded, highlights)",
+          "Roles and responsibilities in sports production",
+          "Understanding audience expectations in sports media"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Planning & Pre-Production for Live Events",
+        "lessons": [
+          "Event planning and coordination",
+          "Scheduling and logistics for sports events",
+          "Developing production plans and run sheets",
+          "Risk assessment and contingency planning"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Multi-Camera Coverage for Sports",
+        "lessons": [
+          "Camera placement and coverage strategies",
+          "Tracking fast-moving action",
+          "Shot selection for different sports",
+          "Coordination between camera operators"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Live Directing & Production Control",
+        "lessons": [
+          "Role of the director in sports broadcasting",
+          "Using vision mixers and switchers",
+          "Calling shots and managing live feeds",
+          "Timing and coordination during live broadcasts"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Commentary & On-Air Presentation",
+        "lessons": [
+          "Techniques for live sports commentary",
+          "Voice control and delivery under pressure",
+          "Working with co-commentators and analysts",
+          "Engaging audiences through storytelling"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Graphics, Replays & Highlights",
+        "lessons": [
+          "Integrating graphics into live broadcasts",
+          "Replay systems and slow-motion analysis",
+          "Creating highlight packages",
+          "Enhancing viewer experience with visuals"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Audio & Technical Production",
+        "lessons": [
+          "Managing audio in live sports environments",
+          "Microphone setup and crowd sound management",
+          "Balancing commentary and ambient sound",
+          "Ensuring technical quality and clarity"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Live Event Workflow & Team Coordination",
+        "lessons": [
+          "Managing production teams in real time",
+          "Communication protocols during live events",
+          "Coordinating technical and creative teams",
+          "Handling high-pressure situations"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Broadcasting Standards & Compliance",
+        "lessons": [
+          "Technical standards for sports broadcasting",
+          "Ensuring broadcast quality and consistency",
+          "Compliance with regulations and rights management",
+          "Managing licensing and content usage"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Audience Engagement & Digital Integration",
+        "lessons": [
+          "Engaging audiences during live broadcasts",
+          "Social media integration and interaction",
+          "Multi-platform broadcasting (TV, mobile, streaming)",
+          "Enhancing fan experience"
+        ]
+      },
+      {
+        "module": 11,
+        "title": "Practical Live Event Simulation",
+        "lessons": [
+          "Plan and set up a live sports broadcast",
+          "Assign production roles (director, camera, audio, presenter)",
+          "Execute a simulated live sports event"
+        ]
+      },
+      {
+        "module": 12,
+        "title": "Final Assessment",
+        "lessons": [
+          "Produce and present a live or recorded sports broadcast segment",
+          "Group evaluation and feedback"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "type": "Broadcasting-and-Media",
+    "title": "TV Production & Multi-Camera Directing",
+    "duration": "4–5 Days",
+    "slg": "tv-production-and-multi-camera-directing",
+    "popular": false,
+    "seo": {
+      "seoTitle": "TV Production & Multi-Camera Directing Course | SkillHub International",
+      "seoDescription": "TV Production & Multi-Camera Directing training programme offered by SkillHub International.",
+      "seoKeywords": "TV production, multi-camera directing, live television, camera operations, studio production, skillhub",
+      "seoHeading": "TV Production & Multi-Camera Directing"
+    },
+    "brochure": "",
+    "shortDesc": "A 4–5 day intensive programme equipping TV producers, directors, and camera operators with practical skills in multi-camera setup, live directing, lighting, audio, post-production basics, and quality control.",
+    "overview": "Television production requires a high level of coordination, creativity, and technical expertise to deliver professional, engaging content. Multi-camera production, in particular, is essential for live broadcasts, events, news, and studio programmes, where seamless coordination between cameras, directors, and production teams is critical. This programme equips participants with the practical skills needed to plan, produce, and direct multi-camera television productions. It covers camera operations, shot composition, lighting, directing techniques, live production workflows, and team coordination. Participants will gain hands-on experience in multi-camera setup, live directing, and production management, ensuring they can confidently execute professional TV productions.",
+    "audience": [
+      "TV Producers and Directors",
+      "Camera Operators and Technicians",
+      "Studio and Production Managers",
+      "Media and Communications Officers",
+      "Content Creators and Broadcasters",
+      "Event Production Teams"
+    ],
+    "objectives": {
+      "title": "Upon completion of this training, participants will be able to:",
+      "data": [
+        "Understand TV production workflows and multi-camera setups",
+        "Operate cameras and apply shot composition techniques",
+        "Plan and direct live and recorded productions",
+        "Coordinate production teams effectively",
+        "Apply lighting and audio techniques for television",
+        "Manage live production environments and timing",
+        "Execute professional switching and directing decisions",
+        "Deliver high-quality television content"
+      ]
+    },
+    "content": [
+      {
+        "module": 1,
+        "title": "Introduction to TV Production",
+        "lessons": [
+          "Overview of television production",
+          "Types of TV formats (news, talk shows, live events, documentaries)",
+          "Roles and responsibilities in a production team",
+          "Production workflow (pre-production, production, post-production)"
+        ]
+      },
+      {
+        "module": 2,
+        "title": "Camera Operations & Shot Composition",
+        "lessons": [
+          "Types of cameras and equipment",
+          "Camera setup and configuration",
+          "Shot types (wide, medium, close-up)",
+          "Camera movements (pan, tilt, zoom, tracking)",
+          "Framing and composition techniques"
+        ]
+      },
+      {
+        "module": 3,
+        "title": "Multi-Camera Production Setup",
+        "lessons": [
+          "Designing a multi-camera setup",
+          "Camera placement and coverage planning",
+          "Synchronization and communication between cameras",
+          "Studio vs field production setups"
+        ]
+      },
+      {
+        "module": 4,
+        "title": "Lighting & Audio for Television",
+        "lessons": [
+          "Lighting techniques for studio and outdoor shoots",
+          "Three-point lighting setup",
+          "Managing shadows, color, and exposure",
+          "Audio capture and microphone placement"
+        ]
+      },
+      {
+        "module": 5,
+        "title": "Directing Multi-Camera Productions",
+        "lessons": [
+          "Role of the director in TV production",
+          "Using vision mixers and switchers",
+          "Calling shots and coordinating camera operators",
+          "Timing and decision-making in live production"
+        ]
+      },
+      {
+        "module": 6,
+        "title": "Live Production Workflow",
+        "lessons": [
+          "Running live broadcasts and events",
+          "Managing transitions and timing",
+          "Handling unexpected issues during live production",
+          "Coordination between technical and creative teams"
+        ]
+      },
+      {
+        "module": 7,
+        "title": "Production Planning & Team Coordination",
+        "lessons": [
+          "Pre-production planning and scripting",
+          "Scheduling and resource allocation",
+          "Managing production teams and roles",
+          "Communication protocols in production environments"
+        ]
+      },
+      {
+        "module": 8,
+        "title": "Post-Production Basics",
+        "lessons": [
+          "Introduction to video editing workflows",
+          "Reviewing and selecting footage",
+          "Adding graphics, sound, and transitions",
+          "Preparing final broadcast-ready content"
+        ]
+      },
+      {
+        "module": 9,
+        "title": "Technical Standards & Quality Control",
+        "lessons": [
+          "Video and audio quality standards",
+          "Broadcast compliance requirements",
+          "Ensuring consistency and quality in production",
+          "Final output checks"
+        ]
+      },
+      {
+        "module": 10,
+        "title": "Practical Multi-Camera Production Exercise",
+        "lessons": [
+          "Setting up a multi-camera studio environment",
+          "Assigning roles (director, camera operators, audio, producer)",
+          "Directing a live or recorded TV segment",
+          "Group presentation and feedback session"
+        ]
+      }
+    ]
   }
+]
 ];
 
