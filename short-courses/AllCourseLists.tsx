@@ -1,4 +1,4 @@
-export const AllCourseLists = [
+﻿export const AllCourseLists = [
   {
     id: 0,
     type: "Inventory-Warehouse",
@@ -240,7 +240,7 @@ export const AllCourseLists = [
     popular: true,
     shortDesc:
       "Master the principles and practices of modern warehouse management to achieve operational excellence, cost efficiency, and customer satisfaction.",
-    overview: `This hands-on training course is designed to help professionals master the principles and practices of modern warehouse management to achieve operational excellence, cost efficiency, and customer satisfaction. Participants will explore best-in-class strategies, technologies, and performance metrics that elevate warehouse operations to a competitive advantage within the supply chain. The course addresses key areas such as inventory control, layout optimization, process improvement, automation, labour productivity, and safety — all within the framework of lean and agile warehousing.`,
+    overview: `This hands-on training course is designed to help professionals master the principles and practices of modern warehouse management to achieve operational excellence, cost efficiency, and customer satisfaction. Participants will explore best-in-class strategies, technologies, and performance metrics that elevate warehouse operations to a competitive advantage within the supply chain. The course addresses key areas such as inventory control, layout optimization, process improvement, automation, labour productivity, and safety � all within the framework of lean and agile warehousing.`,
     audience: [
       "Warehouse Managers",
       "Supervisors",
@@ -1016,7 +1016,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1he_cfToFmeTwv5oph50Iih8RmIeoe-5E/view?usp=drive_link",
     shortDesc:
       "Understand the fundamental principles and importance of international trade.",
-    overview: `This Import and Export Management training program is a specialised course aimed at equipping learners with the essential knowledge and hands-on skills needed to navigate and manage the complexities of international trade. It covers core areas of global commerce such as import/export documentation, customs regulations, logistics, international marketing, and trade finance—making it an excellent choice for those aspiring to build a career in global business or international trade.`,
+    overview: `This Import and Export Management training program is a specialised course aimed at equipping learners with the essential knowledge and hands-on skills needed to navigate and manage the complexities of international trade. It covers core areas of global commerce such as import/export documentation, customs regulations, logistics, international marketing, and trade finance�making it an excellent choice for those aspiring to build a career in global business or international trade.`,
     audience: [
       "Export/Import Managers and Executives",
       "International Trade Specialists",
@@ -1049,7 +1049,7 @@ export const AllCourseLists = [
           "Assessing company readiness for international trade",
           "Balance of trade, trade surplus/deficit",
           "Tariffs, quotas, non-tariff barriers",
-          "Foreign exchange rates and Incoterms® 2020",
+          "Foreign exchange rates and Incoterms� 2020",
         ],
       },
       {
@@ -1320,7 +1320,7 @@ export const AllCourseLists = [
         module: 3,
         lessons: [
           "The international trade cycle and the role of shipping",
-          "Incoterms® and their implications for maritime transport",
+          "Incoterms� and their implications for maritime transport",
           "Export and import procedures and documentation",
           "Customs regulations and clearance processes",
         ],
@@ -2239,7 +2239,7 @@ export const AllCourseLists = [
           "Learning to recognize behavioral, documentary, and systemic red flags that may indicate fraudulent or corrupt activities.",
           "Case studies and examples of real-world procurement fraud scenarios.",
           "Legal and Regulatory Frameworks",
-          "Overview of relevant anti-bribery and anti-corruption laws (local, national, international – e.g., FCPA, UK Bribery Act).",
+          "Overview of relevant anti-bribery and anti-corruption laws (local, national, international � e.g., FCPA, UK Bribery Act).",
           "Organizational policies and procedures related to ethics and anti-corruption.",
           "Understanding the legal consequences of procurement fraud and corruption for individuals and organizations.",
         ],
@@ -2675,7 +2675,7 @@ export const AllCourseLists = [
         module: 9,
         lessons: [
           "ESG trends and future outlook for supply chains",
-          "Case studies from leading companies (e.g., Nestlé, Apple, H&M, Walmart)",
+          "Case studies from leading companies (e.g., Nestl�, Apple, H&M, Walmart)",
           "ESG lessons from emerging markets and high-risk sectors",
           "Best practices and benchmark analysis",
         ],
@@ -2952,7 +2952,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1X9XpNPdcE40IIsNCcFcQv8tIhfXKaWr0/view?usp=drive_link",
     shortDesc:
       "Gain the expertise to enhance procurement practices in any organisation or industry.",
-    overview: `Gain the expertise to enhance procurement practices in any organisation or industry. With this short course, you’ll learn techniques to successfully source products/services, negotiate and ensure quality management protocols are met. Get to know the ins and outs of procurement in the supply chain, such as purchasing, strategic sourcing, supplier selection, negotiations, quality management and sourcing from both local and global suppliers. Plus, gain insight into the vital role of ethical conduct in the procurement process.`,
+    overview: `Gain the expertise to enhance procurement practices in any organisation or industry. With this short course, you�ll learn techniques to successfully source products/services, negotiate and ensure quality management protocols are met. Get to know the ins and outs of procurement in the supply chain, such as purchasing, strategic sourcing, supplier selection, negotiations, quality management and sourcing from both local and global suppliers. Plus, gain insight into the vital role of ethical conduct in the procurement process.`,
 
     audience: [
       "Junior staff involved in supply chain management",
@@ -3010,7 +3010,7 @@ export const AllCourseLists = [
       },
       {
         module: 5,
-        lessons: ["FACE to FACE Mnemonic", "Cater’s 10 Cs"],
+        lessons: ["FACE to FACE Mnemonic", "Cater�s 10 Cs"],
       },
       {
         module: 6,
@@ -3353,7 +3353,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1idG8mVcT3DFfG3Bx_I9XtTjq5XjFOeWu/view?usp=drive_link",
     shortDesc:
       "This course provides a practical and comprehensive introduction to the principles and tools of effective project management.",
-    overview: `This course provides a practical and comprehensive introduction to the principles and tools of effective project management. Designed for professionals managing or supporting projects across diverse industries, it offers participants the skills needed to deliver successful projects—on time, within budget, and to specification. The training covers all stages of the project lifecycle, from initiation and planning to execution, monitoring, and closure. Participants will learn how to manage scope, timelines, budgets, and stakeholders while mitigating risks and ensuring quality. The course is aligned with globally recognized frameworks such as the PMBOK® Guide (Project Management Institute) and incorporates elements of Agile project delivery where appropriate.`,
+    overview: `This course provides a practical and comprehensive introduction to the principles and tools of effective project management. Designed for professionals managing or supporting projects across diverse industries, it offers participants the skills needed to deliver successful projects�on time, within budget, and to specification. The training covers all stages of the project lifecycle, from initiation and planning to execution, monitoring, and closure. Participants will learn how to manage scope, timelines, budgets, and stakeholders while mitigating risks and ensuring quality. The course is aligned with globally recognized frameworks such as the PMBOK� Guide (Project Management Institute) and incorporates elements of Agile project delivery where appropriate.`,
 
     audience: [
       "Project Managers",
@@ -3489,7 +3489,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1aZjpw02kHOtoJU76L6OUZAk_S2c3nSfh/view?usp=drive_link",
     shortDesc:
       "This course provides participants with the knowledge and tools needed to proactively identify, assess, mitigate, and monitor risks across the supply chain and procurement function.",
-    overview: `In today’s dynamic global environment, supply chains and procurement operations face increasing levels of uncertainty and disruption—from geopolitical instability and supplier failures to pandemics, cyber threats, and regulatory shifts. This course provides participants with the knowledge and tools needed to proactively identify, assess, mitigate, and monitor risks across the supply chain and procurement function.`,
+    overview: `In today�s dynamic global environment, supply chains and procurement operations face increasing levels of uncertainty and disruption�from geopolitical instability and supplier failures to pandemics, cyber threats, and regulatory shifts. This course provides participants with the knowledge and tools needed to proactively identify, assess, mitigate, and monitor risks across the supply chain and procurement function.`,
 
     audience: [
       "Procurement professionals",
@@ -3860,7 +3860,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1Sko5YmyuUV1DP3Jue7AftIlP9M0S1KNe/view?usp=drive_link",
     shortDesc:
       "Demarcate between supervisory and operational roles, understanding the unique responsibilities of each.",
-    overview: `Did you know that 75% of employee turnover can be prevented through effective direct supervision? This powerful insight highlights the vital role that strong supervisory leadership plays in today’s competitive business environment. Our Advanced Supervisory Management Skills Training Course is designed to empower professionals with the essential tools and strategies to manage teams effectively, tackle workplace challenges, and deliver impactful results in a fast-evolving landscape.`,
+    overview: `Did you know that 75% of employee turnover can be prevented through effective direct supervision? This powerful insight highlights the vital role that strong supervisory leadership plays in today�s competitive business environment. Our Advanced Supervisory Management Skills Training Course is designed to empower professionals with the essential tools and strategies to manage teams effectively, tackle workplace challenges, and deliver impactful results in a fast-evolving landscape.`,
     audience: [
       "Senior team leaders",
       "Senior project supervisors",
@@ -3932,7 +3932,7 @@ export const AllCourseLists = [
       {
         module: 5,
         lessons: [
-          "Herzberg’s Motivational Theory",
+          "Herzberg�s Motivational Theory",
           "Tailoring motivation ideas to individual team members",
           "How to manage conflict?",
           "Working with different types of personalities",
@@ -3993,7 +3993,7 @@ export const AllCourseLists = [
         lessons: [
           "Sources of personal power",
           "Developing your mind and attitude",
-          "Mind – think – power",
+          "Mind � think � power",
           "Know the impact of teleological thinking",
           "The replacement principle",
           "Building your power",
@@ -4025,8 +4025,8 @@ export const AllCourseLists = [
     brochure:
       "https://drive.google.com/file/d/1a0YPQ2cqSfV6zP2wdHcXOQQrDI0uZJgr/view?usp=drive_link",
     shortDesc:
-      " As global supply chains grow increasingly complex, integrating artificial intelligence is no longer optional—it's essential.",
-    overview: `Elevate learners’ expertise with our in-depth course tailored for professionals ready to embrace next-generation technologies in supply chain operations. As global supply chains grow increasingly complex, integrating artificial intelligence is no longer optional—it's essential. This course focuses on leveraging Artificial Intelligence (AI) and Data Analytics to improve supply chain visibility, resilience, efficiency, and decision-making. Learners will explore tools and techniques such as machine learning, predictive analytics, natural language processing, and optimization, with real-world supply chain applications.`,
+      " As global supply chains grow increasingly complex, integrating artificial intelligence is no longer optional�it's essential.",
+    overview: `Elevate learners� expertise with our in-depth course tailored for professionals ready to embrace next-generation technologies in supply chain operations. As global supply chains grow increasingly complex, integrating artificial intelligence is no longer optional�it's essential. This course focuses on leveraging Artificial Intelligence (AI) and Data Analytics to improve supply chain visibility, resilience, efficiency, and decision-making. Learners will explore tools and techniques such as machine learning, predictive analytics, natural language processing, and optimization, with real-world supply chain applications.`,
 
     audience: [
       "Supply chain managers",
@@ -4154,7 +4154,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/179NrEpI6IqtmiT3jqU1voM-76x8AJ7uf/view?usp=drive_link",
     shortDesc:
       "Participants will learn how to identify defects, reduce variability, and ensure that products and services consistently meet or exceed customer expectations.",
-    overview: `In today’s fast-paced and quality-driven market, maintaining high standards is not just a competitive advantage—it’s a necessity. The Quality Control Management course is designed to equip professionals with the knowledge, tools, and techniques necessary to implement, monitor, and improve quality control processes across various industries. This comprehensive course delves into the principles of quality assurance, statistical process control, compliance standards, and continuous improvement methodologies such as Six Sigma and Lean. Participants will learn how to identify defects, reduce variability, and ensure that products and services consistently meet or exceed customer expectations.`,
+    overview: `In today�s fast-paced and quality-driven market, maintaining high standards is not just a competitive advantage�it�s a necessity. The Quality Control Management course is designed to equip professionals with the knowledge, tools, and techniques necessary to implement, monitor, and improve quality control processes across various industries. This comprehensive course delves into the principles of quality assurance, statistical process control, compliance standards, and continuous improvement methodologies such as Six Sigma and Lean. Participants will learn how to identify defects, reduce variability, and ensure that products and services consistently meet or exceed customer expectations.`,
 
     audience: [
       "Senior Management members responsible for product, service, and personnel quality control",
@@ -4424,7 +4424,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1bbxVbalLwXSsmn1z2uKyXdRoYP5gwGRF/view?usp=drive_link",
     shortDesc:
       "Provide professionals with a deep understanding of how human behaviour affects traffic systems, road safety, and transportation efficiency.",
-    overview: `The Traffic Behaviour Analyst course is designed to provide professionals with a deep understanding of how human behaviour affects traffic systems, road safety, and transportation efficiency. Bridging the fields of traffic engineering, behavioural science, and data analytics, this course equips participants with the skills needed to analyse, interpret, and influence driver behaviour in various transportation contexts. Through a combination of theoretical foundations and hands-on data analysis, participants will learn to identify patterns in traffic incidents, assess behavioural risks, and design targeted interventions that promote safer and more efficient roads. The course also explores the integration of modern technologies—such as telematics, machine learning, and simulation tools—to enhance the predictive power and practical application of behaviour-focused traffic analysis.`,
+    overview: `The Traffic Behaviour Analyst course is designed to provide professionals with a deep understanding of how human behaviour affects traffic systems, road safety, and transportation efficiency. Bridging the fields of traffic engineering, behavioural science, and data analytics, this course equips participants with the skills needed to analyse, interpret, and influence driver behaviour in various transportation contexts. Through a combination of theoretical foundations and hands-on data analysis, participants will learn to identify patterns in traffic incidents, assess behavioural risks, and design targeted interventions that promote safer and more efficient roads. The course also explores the integration of modern technologies�such as telematics, machine learning, and simulation tools�to enhance the predictive power and practical application of behaviour-focused traffic analysis.`,
     audience: [
       "Transportation Planners and Traffic Engineers",
       "Road Safety Officers and Policy Makers",
@@ -4745,10 +4745,10 @@ export const AllCourseLists = [
       {
         module: 2,
         lessons: [
-          "Lewin’s Change Management Model",
-          "Kotter’s 8-Step Change Model",
+          "Lewin�s Change Management Model",
+          "Kotter�s 8-Step Change Model",
           "ADKAR Model (Awareness, Desire, Knowledge, Ability, Reinforcement)",
-          "Bridges’ Transition Model",
+          "Bridges� Transition Model",
           "McKinsey 7-S Framework",
         ],
       },
@@ -5333,7 +5333,7 @@ export const AllCourseLists = [
           "History and Evolution of Airports",
           "Types of Airports (Commercial, Cargo, Military, Private)",
           "Airport Stakeholders (Airlines, Ground Handlers, Regulators)",
-          "The airport–airline relationship",
+          "The airport�airline relationship",
           "Role of Airport Management in Aviation Industry",
         ],
       },
@@ -5439,9 +5439,9 @@ export const AllCourseLists = [
     brochure:
       "https://drive.google.com/file/d/1Tj70B1lvKp5EWekf7XQU60WpUeHo04zL/view?usp=drive_link",
     shortDesc:
-      "This course introduces learners to the core elements of rail systems—such as track layouts, rolling stock, signaling, and communications—while emphasizing essential safety practices and regulatory compliance.",
+      "This course introduces learners to the core elements of rail systems�such as track layouts, rolling stock, signaling, and communications�while emphasizing essential safety practices and regulatory compliance.",
     overview: `The Rail Training Fundamentals course is an entry-level program designed to provide participants with a foundational understanding of the rail industry, including its infrastructure, operations, safety standards, and workplace expectations. It serves as the ideal starting point for new employees, support staff, contractors, and anyone entering a rail environment for the first time.
-      This course introduces learners to the core elements of rail systems—such as track layouts, rolling stock, signaling, and communications—while emphasizing essential safety practices and regulatory compliance. Participants will also become familiar with industry terminology, site access protocols, and emergency response basics.`,
+      This course introduces learners to the core elements of rail systems�such as track layouts, rolling stock, signaling, and communications�while emphasizing essential safety practices and regulatory compliance. Participants will also become familiar with industry terminology, site access protocols, and emergency response basics.`,
 
     audience: [
       "Newly Hired Rail Industry Personnel",
@@ -5546,7 +5546,7 @@ export const AllCourseLists = [
       seoTitle:
         "Procurement Training for Non-Procurement Professionals | SkillHub International",
       seoDescription:
-        "Gain essential procurement knowledge and skills as a non-procurement professional with SkillHub International’s 5-day course. Learn procurement principles, collaborate with teams, and manage vendor interactions effectively.",
+        "Gain essential procurement knowledge and skills as a non-procurement professional with SkillHub International�s 5-day course. Learn procurement principles, collaborate with teams, and manage vendor interactions effectively.",
       seoKeywords:
         "procurement training South Africa, procurement for non-procurement staff, basic procurement course, vendor management training, purchasing process training, procurement best practices, SkillHub International training",
       seoHeading:
@@ -5556,7 +5556,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/1CDMY5SwCZBOxf1KsA1Y8VsVUfgDF0REt/view?usp=drive_link",
     shortDesc:
       "A practical course for non-procurement staff to understand procurement principles, processes, and best practices.",
-    overview: `This course is designed to equip non-procurement staff with a practical understanding of procurement principles, processes, and best practices. Participants will explore the full procurement cycle—from identifying needs to managing supplier relationships—while learning how to align procurement activities with organizational goals, ensure compliance, and uphold ethical standards. Through real-world examples and interactive activities, attendees will gain the confidence and skills to navigate procurement in their roles more effectively.`,
+    overview: `This course is designed to equip non-procurement staff with a practical understanding of procurement principles, processes, and best practices. Participants will explore the full procurement cycle�from identifying needs to managing supplier relationships�while learning how to align procurement activities with organizational goals, ensure compliance, and uphold ethical standards. Through real-world examples and interactive activities, attendees will gain the confidence and skills to navigate procurement in their roles more effectively.`,
     audience: [
       "Project Managers",
       "Auditors",
@@ -5654,7 +5654,7 @@ export const AllCourseLists = [
       seoTitle:
         "Dry Port Management Training | Inland Port Operations | SkillHub International",
       seoDescription:
-        "Master dry port operations and logistics with SkillHub International’s 5-day training. Learn infrastructure planning, multimodal integration, customs compliance, and sustainability practices.",
+        "Master dry port operations and logistics with SkillHub International�s 5-day training. Learn infrastructure planning, multimodal integration, customs compliance, and sustainability practices.",
       seoKeywords:
         "dry port management course, inland container depot training, ICD logistics course, port operations training, dry port infrastructure planning, multimodal transport training, customs clearance training, SkillHub International logistics training",
       seoHeading:
@@ -5786,7 +5786,7 @@ export const AllCourseLists = [
       "https://drive.google.com/file/d/17vrACiFPvPezoz5i6ya42fwAOD-lZJgX/view?usp=drive_link",
     shortDesc:
       "Build expertise in managing temperature-sensitive supply chains for food, pharmaceuticals, and biotechnology with global standards and smart technology.",
-    overview: `This Cold Chain Logistics course provides a comprehensive understanding of managing temperature-sensitive supply chains for perishable and high-value goods such as pharmaceuticals, food, and biotech products. It covers the full cold chain—from storage and transport to monitoring and risk management—while incorporating global best practices, technologies like IoT and telematics, and sustainable strategies to ensure product integrity and compliance.`,
+    overview: `This Cold Chain Logistics course provides a comprehensive understanding of managing temperature-sensitive supply chains for perishable and high-value goods such as pharmaceuticals, food, and biotech products. It covers the full cold chain�from storage and transport to monitoring and risk management�while incorporating global best practices, technologies like IoT and telematics, and sustainable strategies to ensure product integrity and compliance.`,
     audience: [
       "Supply chain and logistics professionals",
       "Cold storage and warehouse operators",
@@ -6282,7 +6282,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "shortDesc": "",
-    "overview": "The Municipal Finance Management Act (MFMA), Act No. 56 of 2003, governs financial management in South Africa’s municipalities and municipal entities. This course equips participants with practical knowledge and tools to implement the MFMA effectively and to support sound financial governance, service delivery, and accountability at the local government level. The training covers planning and budgeting, expenditure control, revenue management, supply chain management, reporting, internal controls, and oversight responsibilities. The course also highlights the roles of various stakeholders, including the municipal manager, CFO, council, and external oversight bodies. ",
+    "overview": "The Municipal Finance Management Act (MFMA), Act No. 56 of 2003, governs financial management in South Africa�s municipalities and municipal entities. This course equips participants with practical knowledge and tools to implement the MFMA effectively and to support sound financial governance, service delivery, and accountability at the local government level. The training covers planning and budgeting, expenditure control, revenue management, supply chain management, reporting, internal controls, and oversight responsibilities. The course also highlights the roles of various stakeholders, including the municipal manager, CFO, council, and external oversight bodies. ",
     "audience": [
       "Municipal managers and CFOs",
       "Municipal finance and budget officers",
@@ -8644,7 +8644,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "popular": false,
-    "shortDesc": "Equip yourself with practical intermediate-to-advanced Excel skills — from formulas and Power Query to Pivot Tables and data visualization — to analyse data efficiently and improve reporting accuracy in any business environment.",
+    "shortDesc": "Equip yourself with practical intermediate-to-advanced Excel skills � from formulas and Power Query to Pivot Tables and data visualization � to analyse data efficiently and improve reporting accuracy in any business environment.",
     "overview": "This practical training programme equips professionals with the essential Excel skills required to clean, analyse, and visualize data efficiently in modern business environments. Participants will learn how to build and apply formulas, clean and structure datasets, perform logical calculations, create dynamic charts, and analyse large datasets using Pivot Tables. The programme also introduces modern Excel tools such as Power Query, conditional formatting, and data validation, enabling participants to automate calculations and improve reporting accuracy. The course combines Excel demonstrations, guided exercises, real-world datasets, and hands-on practice, ensuring participants develop practical spreadsheet skills that can immediately be applied in their workplace.",
     "audience": [
       "Business professionals who work with data",
@@ -8762,7 +8762,7 @@ export const AllCourseLists = [
     "brochure": "",
     "popular": false,
     "shortDesc": "Learn how to harness the power of ChatGPT and AI tools within Microsoft Excel to clean data, generate formulas, automate workflows with VBA, and perform faster, smarter data analysis across the full data lifecycle.",
-    "overview": "Artificial Intelligence tools such as ChatGPT are transforming the way professionals analyze data, automate tasks, and generate insights. When combined with Microsoft Excel, ChatGPT becomes a powerful productivity tool that can assist with data cleaning, analysis, visualization, and automation. This practical training programme equips participants with the knowledge and hands-on skills required to use ChatGPT and AI tools effectively within Excel for real-world data analysis tasks. Participants will learn how to perform exploratory data analysis, clean and transform datasets, generate Excel formulas using AI, and automate processes using macros and VBA. The programme bridges the gap between basic prompting and practical implementation, demonstrating how ChatGPT can be used throughout the entire data analysis lifecycle — from preparing datasets to interpreting results.",
+    "overview": "Artificial Intelligence tools such as ChatGPT are transforming the way professionals analyze data, automate tasks, and generate insights. When combined with Microsoft Excel, ChatGPT becomes a powerful productivity tool that can assist with data cleaning, analysis, visualization, and automation. This practical training programme equips participants with the knowledge and hands-on skills required to use ChatGPT and AI tools effectively within Excel for real-world data analysis tasks. Participants will learn how to perform exploratory data analysis, clean and transform datasets, generate Excel formulas using AI, and automate processes using macros and VBA. The programme bridges the gap between basic prompting and practical implementation, demonstrating how ChatGPT can be used throughout the entire data analysis lifecycle � from preparing datasets to interpreting results.",
     "audience": [
       "Aspiring data analysts and financial analysts",
       "Business analysts and reporting professionals",
@@ -8874,7 +8874,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "popular": false,
-    "shortDesc": "Master the skills to design, build, and deliver professional interactive Excel dashboards — combining Pivot Tables, dynamic charts, form controls, and macros — that transform large datasets into clear, decision-ready visual reports.",
+    "shortDesc": "Master the skills to design, build, and deliver professional interactive Excel dashboards � combining Pivot Tables, dynamic charts, form controls, and macros � that transform large datasets into clear, decision-ready visual reports.",
     "overview": "Modern organizations rely on accurate and visually compelling reports to support operational and strategic decision-making. Excel dashboards provide a powerful way to transform large datasets into clear, interactive reports that allow managers to monitor performance, identify trends, and make informed business decisions. This Masterclass Series on Advanced Microsoft Excel Applications equips accountants, managers, and reporting professionals with the practical skills required to design professional dashboards that support effective decision-making. Participants will learn how to structure analytical reports, design interactive dashboard interfaces, analyse large datasets using Pivot Tables, and create dynamic charts and visualizations. The programme combines best-practice dashboard design principles, Excel visualization techniques, and hands-on exercises, ensuring participants develop dashboards that are analytical, interactive, and visually effective.",
     "audience": [
       "Office administrators responsible for reporting",
@@ -9015,7 +9015,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "popular": false,
-    "shortDesc": "Discover how Microsoft Copilot integrates AI into Excel, Word, PowerPoint, Outlook, and Teams — empowering you to automate tasks, generate content, analyse data, and collaborate more effectively across the Microsoft 365 ecosystem.",
+    "shortDesc": "Discover how Microsoft Copilot integrates AI into Excel, Word, PowerPoint, Outlook, and Teams � empowering you to automate tasks, generate content, analyse data, and collaborate more effectively across the Microsoft 365 ecosystem.",
     "overview": "Microsoft Copilot is transforming the way professionals work by integrating artificial intelligence directly into Microsoft 365 applications. Unlike standalone AI tools, Copilot works inside familiar applications such as Excel, Word, PowerPoint, Outlook, and Teams, enabling users to automate tasks, analyze data, generate content, and collaborate more efficiently. This practical training programme introduces participants to Microsoft Copilot and demonstrates how it can enhance productivity across Microsoft 365 applications. Participants will learn how to use Copilot to analyze data in Excel, generate presentations in PowerPoint, draft documents in Word, manage emails in Outlook, and collaborate more effectively in Teams. Through guided demonstrations and hands-on exercises, participants will learn how to write effective prompts, leverage AI capabilities within Microsoft applications, and apply responsible and secure AI practices in the workplace.",
     "audience": [
       "Professionals using Microsoft 365 applications",
@@ -9141,7 +9141,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "popular": false,
-    "shortDesc": "Develop expert-level Pivot Table skills — from data preparation and advanced aggregation to interactive dashboards with slicers and timelines — enabling you to transform large datasets into powerful, decision-ready insights.",
+    "shortDesc": "Develop expert-level Pivot Table skills � from data preparation and advanced aggregation to interactive dashboards with slicers and timelines � enabling you to transform large datasets into powerful, decision-ready insights.",
     "overview": "In today's data-driven business environment, professionals are required to analyse large volumes of data quickly and convert information into actionable insights. Microsoft Excel Pivot Tables are one of the most powerful tools available for summarizing, analysing, and visualizing complex datasets. This practical training programme equips participants with the knowledge and hands-on skills required to prepare datasets, build Pivot Tables, perform advanced calculations, and create dynamic Pivot Charts for business reporting and decision-making. Participants will learn how to transform raw data into meaningful insights using Pivot Tables, apply advanced filtering and aggregation techniques, and develop interactive dashboards using slicers and timelines. The programme combines guided demonstrations, practical exercises, and real-world business datasets, ensuring participants develop practical Excel data analysis skills that can be immediately applied in the workplace.",
     "audience": [
       "Data analysts and reporting professionals",
@@ -9285,7 +9285,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "popular": false,
-    "shortDesc": "Gain the foundational Excel skills you need to confidently manage spreadsheets, apply formulas and functions, format data, create charts, and prepare professional reports — ideal for beginners and those new to Excel in the workplace.",
+    "shortDesc": "Gain the foundational Excel skills you need to confidently manage spreadsheets, apply formulas and functions, format data, create charts, and prepare professional reports � ideal for beginners and those new to Excel in the workplace.",
     "overview": "Microsoft Excel is one of the most widely used tools for managing, analysing, and presenting data in modern organizations. Professionals across finance, administration, operations, and management rely on Excel to perform calculations, organize data, create reports, and visualize information. This practical training programme equips participants with the fundamental skills required to confidently use Microsoft Excel for everyday business tasks. Participants will learn how to create and manage spreadsheets, apply formulas and functions, format worksheets, create charts, and prepare documents for printing and reporting. The programme combines guided demonstrations, practical exercises, and real-world examples, ensuring participants develop practical Excel skills that can be immediately applied in the workplace.",
     "audience": [
       "Administrative professionals",
@@ -9408,7 +9408,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "popular": false,
-    "shortDesc": "Gain practical Power BI skills to connect data sources, transform and model data, write DAX calculations, and design interactive dashboards — empowering you to deliver data-driven business intelligence across your organisation.",
+    "shortDesc": "Gain practical Power BI skills to connect data sources, transform and model data, write DAX calculations, and design interactive dashboards � empowering you to deliver data-driven business intelligence across your organisation.",
     "overview": "Microsoft Power BI is one of the world's most powerful self-service business intelligence platforms, enabling organizations to transform raw data into meaningful insights and interactive dashboards. This practical training programme equips participants with the knowledge and hands-on skills required to connect to multiple data sources, transform and model data, perform advanced calculations using DAX, and build professional interactive dashboards that support data-driven decision-making. Participants will learn how to use Power BI Desktop, Query Editor (ETL processes), data modelling techniques, and interactive visualizations to create powerful analytical reports. The course combines theory, demonstrations, real-world datasets, and practical exercises, ensuring participants develop practical business intelligence skills that can immediately be applied in their organizations.",
     "audience": [
       "Data analysts and business analysts",
@@ -9516,7 +9516,7 @@ export const AllCourseLists = [
     "slg": "auto-electrical-technician-programme",
     "popular": false,
     "deliveryMode": "Blended (Theory + Practical + Workshop + Diagnostics)",
-    "certification": "SkillHub International + International Alignment (Training Express UK – Electrical & Safety Modules; pathway to QCTO/SETA alignment)",
+    "certification": "SkillHub International + International Alignment (Training Express UK � Electrical & Safety Modules; pathway to QCTO/SETA alignment)",
     "seo": {
       "seoTitle": "Auto Electrical Technician Programme | SkillHub International",
       "seoDescription": "Auto Electrical Technician Programme training course offered by SkillHub International.",
@@ -9551,7 +9551,7 @@ export const AllCourseLists = [
       {
         "module": 1,
         "title": "Introduction & Workshop Safety",
-        "weeks": "Weeks 1–2",
+        "weeks": "Weeks 1�2",
         "lessons": [
           "Overview of automotive electrical systems",
           "Workshop safety and PPE",
@@ -9562,7 +9562,7 @@ export const AllCourseLists = [
       {
         "module": 2,
         "title": "Electrical Fundamentals",
-        "weeks": "Weeks 3–5",
+        "weeks": "Weeks 3�5",
         "lessons": [
           "Voltage, current, resistance, and power",
           "Ohm's Law and circuit basics",
@@ -9574,7 +9574,7 @@ export const AllCourseLists = [
       {
         "module": 3,
         "title": "Vehicle Electrical Systems",
-        "weeks": "Weeks 6–9",
+        "weeks": "Weeks 6�9",
         "lessons": [
           "Wiring systems and harnesses",
           "Fuses, relays, and switches",
@@ -9586,7 +9586,7 @@ export const AllCourseLists = [
       {
         "module": 4,
         "title": "Starting & Charging Systems",
-        "weeks": "Weeks 10–13",
+        "weeks": "Weeks 10�13",
         "lessons": [
           "Batteries: types, testing, and maintenance",
           "Starter motors: operation and faults",
@@ -9598,7 +9598,7 @@ export const AllCourseLists = [
       {
         "module": 5,
         "title": "Engine Electrical & Electronic Systems",
-        "weeks": "Weeks 14–17",
+        "weeks": "Weeks 14�17",
         "lessons": [
           "Sensors (temperature, oxygen, position sensors)",
           "Actuators (injectors, coils)",
@@ -9610,7 +9610,7 @@ export const AllCourseLists = [
       {
         "module": 6,
         "title": "Diagnostics & Fault Finding",
-        "weeks": "Weeks 18–20",
+        "weeks": "Weeks 18�20",
         "lessons": [
           "Systematic fault diagnosis",
           "Use of OBD-II scanners",
@@ -9633,7 +9633,7 @@ export const AllCourseLists = [
       {
         "module": 8,
         "title": "Practical Workshop",
-        "weeks": "Weeks 22–23",
+        "weeks": "Weeks 22�23",
         "lessons": [
           "Real vehicle diagnostics",
           "Fault simulation exercises",
@@ -9723,7 +9723,7 @@ export const AllCourseLists = [
       {
         "module": 2,
         "title": "Basic Electronics Fundamentals",
-        "weeks": "Weeks 2–3",
+        "weeks": "Weeks 2�3",
         "lessons": [
           "Basic electrical concepts (voltage, current, resistance)",
           "Understanding circuit boards",
@@ -9734,7 +9734,7 @@ export const AllCourseLists = [
       {
         "module": 3,
         "title": "Phone Hardware & Components",
-        "weeks": "Weeks 4–5",
+        "weeks": "Weeks 4�5",
         "lessons": [
           "Smartphone architecture",
           "Key components: Screen (LCD/OLED), Battery, Charging system, Motherboard",
@@ -9744,7 +9744,7 @@ export const AllCourseLists = [
       {
         "module": 4,
         "title": "Common Repairs",
-        "weeks": "Weeks 6–8",
+        "weeks": "Weeks 6�8",
         "lessons": [
           "Screen replacement",
           "Battery replacement",
@@ -9757,7 +9757,7 @@ export const AllCourseLists = [
       {
         "module": 5,
         "title": "Software Troubleshooting",
-        "weeks": "Weeks 9–10",
+        "weeks": "Weeks 9�10",
         "lessons": [
           "Operating systems (Android & iOS basics)",
           "Software flashing and updates",
@@ -9808,11 +9808,11 @@ export const AllCourseLists = [
     "id": 80,
     "type": "Technical-and-Repair",
     "title": "Desktop & Laptop Computer Repair Technician Programme",
-    "duration": "3–4 Months (14 Weeks)",
+    "duration": "3�4 Months (14 Weeks)",
     "slg": "desktop-and-laptop-computer-repair-technician-programme",
     "popular": false,
     "deliveryMode": "Blended (Theory + Practical + Workshop)",
-    "certification": "SkillHub International + International Alignment (Training Express UK – IT & Digital Skills)",
+    "certification": "SkillHub International + International Alignment (Training Express UK � IT & Digital Skills)",
     "seo": {
       "seoTitle": "Desktop & Laptop Computer Repair Technician Programme | SkillHub International",
       "seoDescription": "Desktop & Laptop Computer Repair Technician Programme training course offered by SkillHub International.",
@@ -9858,7 +9858,7 @@ export const AllCourseLists = [
       {
         "module": 2,
         "title": "Computer Hardware Fundamentals",
-        "weeks": "Weeks 2–4",
+        "weeks": "Weeks 2�4",
         "lessons": [
           "Key components: Motherboard, CPU, RAM, Power supply, Storage (HDD, SSD)",
           "Desktop vs laptop architecture",
@@ -9869,7 +9869,7 @@ export const AllCourseLists = [
       {
         "module": 3,
         "title": "Operating Systems & Software",
-        "weeks": "Weeks 5–6",
+        "weeks": "Weeks 5�6",
         "lessons": [
           "Installing operating systems (Windows / Linux basics)",
           "Drivers and updates",
@@ -9881,7 +9881,7 @@ export const AllCourseLists = [
       {
         "module": 4,
         "title": "Diagnostics & Troubleshooting",
-        "weeks": "Weeks 7–9",
+        "weeks": "Weeks 7�9",
         "lessons": [
           "Fault identification techniques",
           "Boot failures and system errors",
@@ -9893,7 +9893,7 @@ export const AllCourseLists = [
       {
         "module": 5,
         "title": "Repair & Maintenance",
-        "weeks": "Weeks 10–11",
+        "weeks": "Weeks 10�11",
         "lessons": [
           "Replacing hardware components",
           "Laptop repairs (screens, keyboards, batteries)",
@@ -9955,11 +9955,11 @@ export const AllCourseLists = [
     "id": 81,
     "type": "Technical-and-Repair",
     "title": "Domestic Appliance Repair & Maintenance Technician Programme",
-    "duration": "3–4 Months (14 Weeks)",
+    "duration": "3�4 Months (14 Weeks)",
     "slg": "domestic-appliance-repair-and-maintenance-technician-programme",
     "popular": false,
     "deliveryMode": "Blended (Theory + Practical + Workshop)",
-    "certification": "SkillHub International + International Alignment (Training Express UK – Technical & Safety Modules)",
+    "certification": "SkillHub International + International Alignment (Training Express UK � Technical & Safety Modules)",
     "seo": {
       "seoTitle": "Domestic Appliance Repair & Maintenance Technician Programme | SkillHub International",
       "seoDescription": "Domestic Appliance Repair & Maintenance Technician Programme training course offered by SkillHub International.",
@@ -10005,7 +10005,7 @@ export const AllCourseLists = [
       {
         "module": 2,
         "title": "Electrical Fundamentals",
-        "weeks": "Weeks 2–3",
+        "weeks": "Weeks 2�3",
         "lessons": [
           "Basic electrical principles (voltage, current, resistance)",
           "Use of multimeter and testing tools",
@@ -10027,7 +10027,7 @@ export const AllCourseLists = [
       {
         "module": 4,
         "title": "Washing Machine Systems",
-        "weeks": "Weeks 5–6",
+        "weeks": "Weeks 5�6",
         "lessons": [
           "Types of washing machines",
           "Water systems and drainage",
@@ -10051,7 +10051,7 @@ export const AllCourseLists = [
       {
         "module": 6,
         "title": "Kitchen Appliance Repairs",
-        "weeks": "Weeks 8–9",
+        "weeks": "Weeks 8�9",
         "lessons": [
           "Electric stoves and ovens",
           "Kettles and small appliances",
@@ -10073,7 +10073,7 @@ export const AllCourseLists = [
       {
         "module": 8,
         "title": "Fault Diagnosis & Troubleshooting",
-        "weeks": "Weeks 11–12",
+        "weeks": "Weeks 11�12",
         "lessons": [
           "Systematic troubleshooting methods",
           "Electrical vs mechanical faults",
@@ -10123,11 +10123,11 @@ export const AllCourseLists = [
     "id": 82,
     "type": "Technical-and-Repair",
     "title": "Photocopier & Printer Repair Technician Programme",
-    "duration": "3–4 Months (14 Weeks)",
+    "duration": "3�4 Months (14 Weeks)",
     "slg": "photocopier-and-printer-repair-technician-programme",
     "popular": false,
     "deliveryMode": "Blended (Theory + Practical + Workshop)",
-    "certification": "SkillHub International + International Alignment (Training Express UK – IT & Technical Modules)",
+    "certification": "SkillHub International + International Alignment (Training Express UK � IT & Technical Modules)",
     "seo": {
       "seoTitle": "Photocopier & Printer Repair Technician Programme | SkillHub International",
       "seoDescription": "Photocopier & Printer Repair Technician Programme training course offered by SkillHub International.",
@@ -10173,7 +10173,7 @@ export const AllCourseLists = [
       {
         "module": 2,
         "title": "Printer & Copier Fundamentals",
-        "weeks": "Weeks 2–4",
+        "weeks": "Weeks 2�4",
         "lessons": [
           "Key components: Power supply, Control boards, Print heads, Fuser units, Drums and rollers",
           "Inkjet vs laser technology",
@@ -10184,7 +10184,7 @@ export const AllCourseLists = [
       {
         "module": 3,
         "title": "Mechanical & Electrical Systems",
-        "weeks": "Weeks 5–6",
+        "weeks": "Weeks 5�6",
         "lessons": [
           "Motors and gears",
           "Sensors and switches",
@@ -10207,7 +10207,7 @@ export const AllCourseLists = [
       {
         "module": 5,
         "title": "Fault Diagnosis & Troubleshooting",
-        "weeks": "Weeks 8–10",
+        "weeks": "Weeks 8�10",
         "lessons": [
           "Common printer faults: paper jams, print quality issues (lines, fading, smudging), connectivity issues",
           "Diagnostic tools and techniques",
@@ -10217,7 +10217,7 @@ export const AllCourseLists = [
       {
         "module": 6,
         "title": "Repair & Maintenance",
-        "weeks": "Weeks 11–12",
+        "weeks": "Weeks 11�12",
         "lessons": [
           "Replacing components (drums, fusers, rollers)",
           "Cleaning and servicing machines",
@@ -10306,7 +10306,7 @@ export const AllCourseLists = [
       {
         "module": 1,
         "title": "Introduction to HVAC & Safety",
-        "weeks": "Weeks 1–2",
+        "weeks": "Weeks 1�2",
         "lessons": [
           "Introduction to refrigeration and air conditioning systems",
           "HVAC industry overview",
@@ -10319,7 +10319,7 @@ export const AllCourseLists = [
       {
         "module": 2,
         "title": "Basic Electrical & Mechanical Principles",
-        "weeks": "Weeks 3–5",
+        "weeks": "Weeks 3�5",
         "lessons": [
           "Electrical fundamentals (voltage, current, resistance)",
           "Ohm's Law and circuit analysis",
@@ -10331,7 +10331,7 @@ export const AllCourseLists = [
       {
         "module": 3,
         "title": "Refrigeration Cycle & Components",
-        "weeks": "Weeks 6–9",
+        "weeks": "Weeks 6�9",
         "lessons": [
           "Refrigeration cycle principles",
           "Key components: Compressor, Condenser, Expansion device, Evaporator",
@@ -10343,7 +10343,7 @@ export const AllCourseLists = [
       {
         "module": 4,
         "title": "Installation of HVAC Systems",
-        "weeks": "Weeks 10–13",
+        "weeks": "Weeks 10�13",
         "lessons": [
           "Installation procedures for AC systems",
           "Pipe installation and brazing techniques",
@@ -10355,7 +10355,7 @@ export const AllCourseLists = [
       {
         "module": 5,
         "title": "Maintenance & Servicing",
-        "weeks": "Weeks 14–17",
+        "weeks": "Weeks 14�17",
         "lessons": [
           "Preventive maintenance techniques",
           "Cleaning and servicing components",
@@ -10367,7 +10367,7 @@ export const AllCourseLists = [
       {
         "module": 6,
         "title": "Fault Diagnosis & Repairs",
-        "weeks": "Weeks 18–20",
+        "weeks": "Weeks 18�20",
         "lessons": [
           "Fault identification techniques",
           "Electrical fault diagnosis",
@@ -10390,7 +10390,7 @@ export const AllCourseLists = [
       {
         "module": 8,
         "title": "Workplace Practice / Simulation",
-        "weeks": "Weeks 22–23",
+        "weeks": "Weeks 22�23",
         "lessons": [
           "Real-world repair scenarios",
           "Installation simulations",
@@ -10425,12 +10425,11 @@ export const AllCourseLists = [
       "Self-employed HVAC contractor"
     ]
   },
-  [
   {
     "id": 84,
     "type": "Broadcasting-and-Media",
     "title": "Advanced Broadcast Engineering & Transmission",
-    "duration": "3–5 Days",
+    "duration": "3�5 Days",
     "slg": "advanced-broadcast-engineering-and-transmission",
     "popular": false,
     "seo": {
@@ -10440,7 +10439,7 @@ export const AllCourseLists = [
       "seoHeading": "Advanced Broadcast Engineering & Transmission"
     },
     "brochure": "",
-    "shortDesc": "A 3–5 day intensive programme equipping broadcast engineers and technicians with advanced technical knowledge in transmission systems, RF fundamentals, signal flow, diagnostics, and system reliability.",
+    "shortDesc": "A 3�5 day intensive programme equipping broadcast engineers and technicians with advanced technical knowledge in transmission systems, RF fundamentals, signal flow, diagnostics, and system reliability.",
     "overview": "In modern broadcasting environments, reliable transmission systems and robust engineering infrastructure are critical to delivering high-quality content to audiences. As broadcasters transition from analogue to digital and integrate IP-based systems, the demand for skilled broadcast engineers continues to grow. This programme equips participants with advanced technical knowledge and practical skills in broadcast engineering and transmission systems. It covers signal flow, RF fundamentals, digital broadcasting technologies, network architecture, and system reliability. Participants will also learn how to troubleshoot faults, optimize performance, and ensure continuous service delivery. The course integrates real-world case studies and practical exercises to ensure participants can confidently manage and maintain broadcasting systems in both traditional and digital environments.",
     "audience": [
       "Broadcast Engineers and Technicians",
@@ -10590,7 +10589,7 @@ export const AllCourseLists = [
     "id": 85,
     "type": "Broadcasting-and-Media",
     "title": "AI & Automation in Broadcasting",
-    "duration": "3–5 Days",
+    "duration": "3�5 Days",
     "slg": "ai-and-automation-in-broadcasting",
     "popular": false,
     "seo": {
@@ -10600,7 +10599,7 @@ export const AllCourseLists = [
       "seoHeading": "AI & Automation in Broadcasting"
     },
     "brochure": "",
-    "shortDesc": "A 3–5 day intensive programme equipping broadcasting professionals with practical knowledge of AI tools, automated workflows, audience analytics, and intelligent scheduling to future-proof their operations.",
+    "shortDesc": "A 3�5 day intensive programme equipping broadcasting professionals with practical knowledge of AI tools, automated workflows, audience analytics, and intelligent scheduling to future-proof their operations.",
     "overview": "The broadcasting industry is undergoing a major transformation driven by Artificial Intelligence (AI) and automation technologies. From content creation and editing to scheduling, distribution, and audience analytics, AI is enabling broadcasters to operate more efficiently, reduce costs, and deliver highly personalized content. This programme equips participants with practical knowledge of how AI and automation can be applied across broadcasting operations. It covers AI-driven content production, automated workflows, data analytics, audience personalization, and intelligent scheduling systems. Participants will gain insight into how to leverage AI tools, automate processes, and build future-ready broadcasting systems that enhance productivity and competitiveness.",
     "audience": [
       "Broadcasting and Media Executives",
@@ -10894,7 +10893,7 @@ export const AllCourseLists = [
     "id": 87,
     "type": "Broadcasting-and-Media",
     "title": "Broadcast Journalism & Newsroom Management",
-    "duration": "3–5 Days",
+    "duration": "3�5 Days",
     "slg": "broadcast-journalism-and-newsroom-management",
     "popular": false,
     "seo": {
@@ -10904,7 +10903,7 @@ export const AllCourseLists = [
       "seoHeading": "Broadcast Journalism & Newsroom Management"
     },
     "brochure": "",
-    "shortDesc": "A 3–5 day intensive programme equipping journalists and newsroom professionals with practical skills to gather, produce, and deliver high-quality broadcast news while managing editorial workflows effectively.",
+    "shortDesc": "A 3�5 day intensive programme equipping journalists and newsroom professionals with practical skills to gather, produce, and deliver high-quality broadcast news while managing editorial workflows effectively.",
     "overview": "In today's fast-paced media environment, the demand for accurate, timely, and credible news has never been greater. Broadcast journalism plays a critical role in informing the public, shaping opinions, and maintaining accountability. At the same time, effective newsroom management is essential to ensure efficiency, coordination, and editorial integrity. This programme equips participants with the practical skills required to gather, produce, and deliver high-quality broadcast news while managing newsroom operations effectively. It covers news gathering, writing, editing, ethical journalism, live reporting, and newsroom workflows. Participants will gain hands-on experience in developing news stories, managing editorial processes, and delivering professional broadcasts.",
     "audience": [
       "Journalists and Reporters",
@@ -11051,9 +11050,9 @@ export const AllCourseLists = [
   },
   {
     "id": 88,
-    "type": "Broadcasting and Media",
+    "type": "Broadcasting-and-Media",
     "title": "Broadcast Project Management",
-    "duration": "3–4 Days",
+    "duration": "3�4 Days",
     "slg": "broadcast-project-management",
     "popular": false,
     "seo": {
@@ -11063,8 +11062,8 @@ export const AllCourseLists = [
       "seoHeading": "Broadcast Project Management"
     },
     "brochure": "",
-    "shortDesc": "A 3–4 day intensive programme equipping broadcasting professionals with practical project management skills to plan, manage, and deliver broadcasting projects on time, on budget, and at quality.",
-    "overview": "Broadcasting projects — whether live productions, content launches, or digital platform rollouts — require precise planning, coordination, and execution. Managing these projects effectively is critical to ensuring timely delivery, cost control, and high-quality output. This programme equips participants with the practical skills needed to plan, manage, and deliver broadcasting projects successfully. It covers project planning, resource management, scheduling, budgeting, risk management, and team coordination within a broadcasting environment. Participants will learn how to apply project management principles specifically to media and broadcasting projects, ensuring efficient execution and improved operational outcomes.",
+    "shortDesc": "A 3�4 day intensive programme equipping broadcasting professionals with practical project management skills to plan, manage, and deliver broadcasting projects on time, on budget, and at quality.",
+    "overview": "Broadcasting projects � whether live productions, content launches, or digital platform rollouts � require precise planning, coordination, and execution. Managing these projects effectively is critical to ensuring timely delivery, cost control, and high-quality output. This programme equips participants with the practical skills needed to plan, manage, and deliver broadcasting projects successfully. It covers project planning, resource management, scheduling, budgeting, risk management, and team coordination within a broadcasting environment. Participants will learn how to apply project management principles specifically to media and broadcasting projects, ensuring efficient execution and improved operational outcomes.",
     "audience": [
       "Broadcast and Production Managers",
       "Project Managers and Coordinators",
@@ -11200,7 +11199,7 @@ export const AllCourseLists = [
     "id": 89,
     "type": "Broadcasting-and-Media",
     "title": "Content Creation & Media Strategy for Broadcasters",
-    "duration": "3–4 Days",
+    "duration": "3�4 Days",
     "slg": "content-creation-and-media-strategy-for-broadcasters",
     "popular": false,
     "seo": {
@@ -11210,7 +11209,7 @@ export const AllCourseLists = [
       "seoHeading": "Content Creation & Media Strategy for Broadcasters"
     },
     "brochure": "",
-    "shortDesc": "A 3–4 day intensive programme equipping broadcasters and media teams with skills to develop data-driven content strategies, create engaging multi-platform media content, and align content with revenue objectives.",
+    "shortDesc": "A 3�4 day intensive programme equipping broadcasters and media teams with skills to develop data-driven content strategies, create engaging multi-platform media content, and align content with revenue objectives.",
     "overview": "In today's competitive media landscape, content is the key driver of audience growth, engagement, and revenue. Broadcasters must go beyond traditional programming to develop strategic, high-quality content that performs across multiple platforms including TV, radio, social media, and digital streaming services. This programme equips participants with the skills to plan, create, and distribute impactful content while aligning with organizational goals and audience needs. It focuses on content strategy, storytelling, branding, and multi-platform distribution. Participants will learn how to develop data-driven content strategies, create engaging media content, and optimize performance across broadcasting and digital channels, ensuring maximum audience reach and impact.",
     "audience": [
       "Content Creators and Producers",
@@ -11358,7 +11357,7 @@ export const AllCourseLists = [
     "id": 90,
     "type": "Broadcasting-and-Media",
     "title": "Digital Broadcasting & OTT Monetization",
-    "duration": "3–5 Days",
+    "duration": "3�5 Days",
     "slg": "digital-broadcasting-and-ott-monetization",
     "popular": false,
     "seo": {
@@ -11368,7 +11367,7 @@ export const AllCourseLists = [
       "seoHeading": "Digital Broadcasting & OTT Monetization"
     },
     "brochure": "",
-    "shortDesc": "A 3–5 day intensive programme equipping media professionals with the knowledge and skills to design, manage, and monetize digital broadcasting and OTT platforms using subscription, advertising, and hybrid models.",
+    "shortDesc": "A 3�5 day intensive programme equipping media professionals with the knowledge and skills to design, manage, and monetize digital broadcasting and OTT platforms using subscription, advertising, and hybrid models.",
     "overview": "As the media industry shifts rapidly toward digital platforms, broadcasters must evolve beyond traditional transmission models to remain competitive and financially sustainable. Over-The-Top (OTT) platforms and digital broadcasting technologies have created new opportunities for content distribution, audience engagement, and revenue generation. This programme equips participants with the knowledge and practical skills to design, manage, and monetize digital broadcasting platforms. It covers OTT architecture, streaming technologies, content distribution strategies, and multiple monetization models including subscription, advertising, and hybrid approaches. Participants will also explore audience analytics, content optimization, and digital compliance to ensure sustainable growth in a competitive media environment.",
     "audience": [
       "Broadcasting and Media Executives",
@@ -11531,7 +11530,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "shortDesc": "A comprehensive 5-day advanced programme equipping broadcasting operations professionals with skills in QC, audio compliance, editing, scheduling, OTT compliance, risk management, and operational efficiency.",
-    "overview": "In today's rapidly evolving media landscape, broadcasting organizations must operate with high levels of technical precision, content quality, and regulatory compliance. As the industry shifts toward digital platforms and OTT services, the need for skilled professionals who can manage both traditional and modern broadcasting systems has become critical. This programme equips participants with the knowledge and practical skills required to manage broadcasting operations effectively — from studio production and quality control to audio compliance, editing, scheduling, and digital broadcasting standards. Participants will gain hands-on experience in applying broadcasting QC processes, ensuring loudness compliance, crafting effective weekly schedules, and meeting OTT and regulatory requirements. The course also emphasizes operational efficiency, risk management, and future trends in broadcasting.",
+    "overview": "In today's rapidly evolving media landscape, broadcasting organizations must operate with high levels of technical precision, content quality, and regulatory compliance. As the industry shifts toward digital platforms and OTT services, the need for skilled professionals who can manage both traditional and modern broadcasting systems has become critical. This programme equips participants with the knowledge and practical skills required to manage broadcasting operations effectively � from studio production and quality control to audio compliance, editing, scheduling, and digital broadcasting standards. Participants will gain hands-on experience in applying broadcasting QC processes, ensuring loudness compliance, crafting effective weekly schedules, and meeting OTT and regulatory requirements. The course also emphasizes operational efficiency, risk management, and future trends in broadcasting.",
     "audience": [
       "Broadcasting Operations Managers",
       "Studio and Production Managers",
@@ -11695,7 +11694,7 @@ export const AllCourseLists = [
     },
     "brochure": "",
     "shortDesc": "A 3-day intensive programme equipping media sales professionals with practical skills to drive advertising revenue, price packages competitively, manage client relationships, and optimize revenue across traditional and digital platforms.",
-    "overview": "In an increasingly competitive media environment, broadcasters must adopt strategic approaches to maximize advertising revenue and build sustainable income streams. Media sales is no longer just about selling airtime — it involves understanding audiences, creating value for advertisers, and leveraging data to optimize revenue. This programme equips participants with the practical skills required to drive media sales performance and optimize advertising revenue. It covers pricing strategies, client relationship management, advertising models, and revenue optimization techniques across traditional and digital platforms. Participants will learn how to sell effectively, structure high-value deals, and maximize return on media assets, ensuring improved financial performance for broadcasting organizations.",
+    "overview": "In an increasingly competitive media environment, broadcasters must adopt strategic approaches to maximize advertising revenue and build sustainable income streams. Media sales is no longer just about selling airtime � it involves understanding audiences, creating value for advertisers, and leveraging data to optimize revenue. This programme equips participants with the practical skills required to drive media sales performance and optimize advertising revenue. It covers pricing strategies, client relationship management, advertising models, and revenue optimization techniques across traditional and digital platforms. Participants will learn how to sell effectively, structure high-value deals, and maximize return on media assets, ensuring improved financial performance for broadcasting organizations.",
     "audience": [
       "Media Sales Executives and Managers",
       "Marketing and Revenue Teams",
@@ -12127,7 +12126,7 @@ export const AllCourseLists = [
     "id": 95,
     "type": "Broadcasting-and-Media",
     "title": "Sports Broadcasting & Live Event Production",
-    "duration": "3–5 Days",
+    "duration": "3�5 Days",
     "slg": "sports-broadcasting-and-live-event-production",
     "popular": false,
     "seo": {
@@ -12137,7 +12136,7 @@ export const AllCourseLists = [
       "seoHeading": "Sports Broadcasting & Live Event Production"
     },
     "brochure": "",
-    "shortDesc": "A 3–5 day intensive programme equipping production teams, commentators, and broadcasters with skills in multi-camera coverage, live directing, sports commentary, graphics integration, and real-time event coordination.",
+    "shortDesc": "A 3�5 day intensive programme equipping production teams, commentators, and broadcasters with skills in multi-camera coverage, live directing, sports commentary, graphics integration, and real-time event coordination.",
     "overview": "Sports broadcasting and live event production require precision, speed, and seamless coordination to deliver engaging, real-time content to audiences. From camera coverage and commentary to production control and audience engagement, every element must work together flawlessly. This programme equips participants with the practical skills needed to plan, produce, and deliver high-quality sports broadcasts and live events. It covers multi-camera setups, live directing, commentary techniques, graphics integration, and real-time production workflows. Participants will gain hands-on experience in live event coordination, sports coverage techniques, and broadcast production, ensuring they can confidently manage high-pressure live broadcasting environments.",
     "audience": [
       "Sports Broadcasters and Commentators",
@@ -12284,7 +12283,7 @@ export const AllCourseLists = [
     "id": 96,
     "type": "Broadcasting-and-Media",
     "title": "TV Production & Multi-Camera Directing",
-    "duration": "4–5 Days",
+    "duration": "4�5 Days",
     "slg": "tv-production-and-multi-camera-directing",
     "popular": false,
     "seo": {
@@ -12294,7 +12293,7 @@ export const AllCourseLists = [
       "seoHeading": "TV Production & Multi-Camera Directing"
     },
     "brochure": "",
-    "shortDesc": "A 4–5 day intensive programme equipping TV producers, directors, and camera operators with practical skills in multi-camera setup, live directing, lighting, audio, post-production basics, and quality control.",
+    "shortDesc": "A 4�5 day intensive programme equipping TV producers, directors, and camera operators with practical skills in multi-camera setup, live directing, lighting, audio, post-production basics, and quality control.",
     "overview": "Television production requires a high level of coordination, creativity, and technical expertise to deliver professional, engaging content. Multi-camera production, in particular, is essential for live broadcasts, events, news, and studio programmes, where seamless coordination between cameras, directors, and production teams is critical. This programme equips participants with the practical skills needed to plan, produce, and direct multi-camera television productions. It covers camera operations, shot composition, lighting, directing techniques, live production workflows, and team coordination. Participants will gain hands-on experience in multi-camera setup, live directing, and production management, ensuring they can confidently execute professional TV productions.",
     "audience": [
       "TV Producers and Directors",
@@ -12421,6 +12420,5 @@ export const AllCourseLists = [
       }
     ]
   }
-]
 ];
 
