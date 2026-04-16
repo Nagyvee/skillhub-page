@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "About | SkillHub International",
   description:
     "Learn about SkillHub International's four decades of academic excellence, our mission, values, and the impact we create worldwide.",
+  alternates: { canonical: "https://www.skillhub.africa/about" },
 }
 
 export default function AboutPage() {

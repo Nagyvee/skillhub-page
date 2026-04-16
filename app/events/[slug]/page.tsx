@@ -43,6 +43,7 @@ export async function generateMetadata({
             type: "website",
             siteName: "SkillHub",
         },
+        alternates: { canonical: `https://www.skillhub.africa/events/${slug}` },
     }
 }
 
@@ -78,8 +79,14 @@ export default async function EventPage({ params }: EventPageProps) {
                         "@type": "Event",
                         name: event.title,
                         description: event.seo.seoDescription,
-                        startDate: event.dayDate + " " + event.monthYear, // Needs proper ISO formatting realistically, but using string for now
-                        endDate: event.endTime,
+                        startDate: (() => {
+                            const d = new Date(`${event.dayDate} ${event.monthYear}`)
+                            return isNaN(d.getTime()) ? event.dayDate : d.toISOString()
+                        })(),
+                        endDate: (() => {
+                            const d = new Date(event.endTime)
+                            return isNaN(d.getTime()) ? event.endTime : d.toISOString()
+                        })(),
                         eventStatus: "https://schema.org/EventScheduled",
                         eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
                         location: {
@@ -93,7 +100,7 @@ export default async function EventPage({ params }: EventPageProps) {
                         organizer: {
                             "@type": "Organization",
                             name: "SkillHub International",
-                            url: "https://skillhubinternational.com"
+                            url: "https://www.skillhub.africa"
                         }
                     })
                 }}

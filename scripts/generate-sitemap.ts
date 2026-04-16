@@ -93,6 +93,14 @@ async function resolveParamSets(routes: RouteTemplate[]) {
   routes.sort((a, b) => a.template.split("/").length - b.template.split("/").length);
 
   for (const route of routes) {
+    if (
+      route.template === "/courses/[slug]/enroll" ||
+      route.template === "/events/[slug]/register"
+    ) {
+      route.paramSets = []
+      map.set(route.template, [])
+      continue
+    }
     const params = extractParamNames(route.template);
     route.params = params;
     if (params.length === 0) {

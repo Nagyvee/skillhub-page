@@ -28,6 +28,10 @@ export async function generateMetadata({
     return {
         title: `Register for ${event.title} | SkillHub International`,
         description: `Register for our ${event.title} event at SkillHub International.`,
+        robots: {
+            index: false,
+            follow: false,
+        },
     }
 }
 

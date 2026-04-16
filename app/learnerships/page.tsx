@@ -8,7 +8,8 @@ import { Footer } from "@/components/footer"
 
 export const metadata = {
     title: "QCTO Learnerships | SkillHub International",
-    description: "QCTO-accredited learnership programmes in supply chain, procurement, transport, and logistics. NQF Levels 5–7."
+    description: "QCTO-accredited learnership programmes in supply chain, procurement, transport, and logistics. NQF Levels 5–7.",
+    alternates: { canonical: "https://www.skillhub.africa/learnerships" },
 }
 
 export default function LearnershipsPage() {

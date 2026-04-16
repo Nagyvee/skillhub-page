@@ -7,9 +7,19 @@ import { getPaginatedEvents } from "@/lib/events-data"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-    title: "Events | SkillHub",
-    description:
-        "Explore our upcoming events, workshops, and training programs designed to help professionals unlock business operations excellence.",
+  title: "Training Events & Workshops South Africa",
+  description: "Browse upcoming professional training events, workshops and programmes in supply chain, logistics, ports, and operations management across South Africa.",
+  keywords: "training events South Africa, professional workshops, logistics events, supply chain workshops, operations management training",
+  alternates: { canonical: "https://www.skillhub.africa/events" },
+  openGraph: {
+    title: "Training Events & Workshops | SkillHub International",
+    description: "Upcoming professional training events in supply chain, logistics, ports and operations management.",
+    type: "website",
+    siteName: "SkillHub International",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
 }
 
 export default function EventsPage() {

@@ -8,6 +8,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
     title: "Gallery | SkillHub International",
     description: "Explore our campus life, workshops, and milestones through our premium editorial gallery.",
+    alternates: { canonical: "https://www.skillhub.africa/gallery" },
 }
 
 export default function GalleryPage() {

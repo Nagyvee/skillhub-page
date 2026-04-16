@@ -7,9 +7,21 @@ import { getPaginatedCourses } from "@/lib/courses-data"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Courses | SkillHub International",
-  description:
-    "Explore world-class programs in leadership, technology, finance, and business management at SkillHub International.",
+  title: "Professional Short Courses South Africa",
+  description: "Browse 100+ QCTO-accredited short courses in supply chain, logistics, procurement, finance, HR and leadership. Classroom and online training available across South Africa.",
+  keywords: "short courses South Africa, professional development courses, supply chain training, logistics courses, procurement training, QCTO courses",
+  alternates: { canonical: "https://www.skillhub.africa/courses" },
+  openGraph: {
+    title: "Professional Short Courses | SkillHub International",
+    description: "100+ accredited courses across supply chain, logistics, finance, HR and more.",
+    type: "website",
+    siteName: "SkillHub International",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Professional Short Courses | SkillHub International",
+    description: "100+ accredited courses across supply chain, logistics, finance, HR and more.",
+  },
 }
 
 export default function CoursesPage() {

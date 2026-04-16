@@ -13,22 +13,18 @@ interface EnrollPageProps {
     }>
 }
 
-export async function generateMetadata({
-    params,
-}: EnrollPageProps): Promise<Metadata> {
-    const { slug } = await params
-    const course = getCourseBySlug(slug)
-
-    if (!course) {
-        return {
-            title: "Course Not Found",
-        }
-    }
-
-    return {
-        title: `Enroll in ${course.title} | SkillHub International`,
-        description: `Enroll in our ${course.title} course at SkillHub International.`,
-    }
+export async function generateMetadata({ params }: EnrollPageProps): Promise<Metadata> {
+  const { slug } = await params
+  const course = getCourseBySlug(slug)
+  if (!course) return { title: "Course Not Found" }
+  return {
+    title: `Enroll in ${course.title}`,
+    description: `Enroll in our ${course.title} course at SkillHub International.`,
+    robots: {
+      index: false,
+      follow: false,
+    },
+  }
 }
 
 export default async function EnrollPage({ params }: EnrollPageProps) {

@@ -48,6 +48,7 @@ export async function generateMetadata({
             type: "website",
             siteName: "SkillHub",
         },
+        alternates: { canonical: `https://www.skillhub.africa/events/category/${encodeURIComponent(category)}` },
     }
 }
 

@@ -9,6 +9,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
     title: "Contact Us | SkillHub International",
     description: "Get in touch with SkillHub International. We are here to help you with your inquiries about courses, corporate training, and partnerships.",
+    alternates: { canonical: "https://www.skillhub.africa/contact" },
 }
 
 export default function ContactPage() {
