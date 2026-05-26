@@ -8,7 +8,16 @@ import Link from "next/link"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
 
-const navLinks = [
+type NavLink = {
+  label: string
+  href: string
+  dropdown?: {
+    label: string
+    href: string
+  }[]
+}
+
+const navLinks: NavLink[] = [
   { label: "Home", href: "/" },
   {
     label: "Courses",
@@ -20,10 +29,20 @@ const navLinks = [
       { label: "Ports & Shipping", href: "/courses/category/Ports-Shipping" },
     ],
   },
-  { label: "Learnerships", href: "/learnerships" },
+  {
+    label: "Learnerships",
+    href: "/learnerships",
+    dropdown: [
+      { label: "All Learnerships", href: "/learnerships" },
+      { label: "Accredited", href: "/learnerships/accredited" },
+      { label: "Bootcamps", href: "/learnerships/bootcamps" },
+    ],
+  },
   { label: "Events", href: "/events" },
   { label: "Gallery", href: "/gallery" },
 ]
+
+
 
 export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
@@ -88,7 +107,8 @@ export function Navbar() {
                   onMouseEnter={() => setIsDropdownOpen(true)}
                   onMouseLeave={() => setIsDropdownOpen(false)}
                 >
-                  <button
+                  <Link
+                    href={link.href}
                     className={`relative flex items-center gap-1 px-3.5 py-2 text-[13px] font-medium tracking-wide transition-colors duration-300 rounded-md ${isActive
                       ? showTransparent
                         ? "text-white"
@@ -108,7 +128,7 @@ export function Navbar() {
                         transition={{ type: "spring", stiffness: 380, damping: 30 }}
                       />
                     )}
-                  </button>
+                  </Link>
 
                   <AnimatePresence>
                     {isDropdownOpen && (
@@ -133,6 +153,7 @@ export function Navbar() {
                       </motion.div>
                     )}
                   </AnimatePresence>
+
                 </li>
               )
             }

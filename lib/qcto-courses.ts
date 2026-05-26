@@ -4,7 +4,7 @@ export interface QctoCourse {
     title: string
     saqaId: number
     entryRequirements: string
-    duration: number        // months
+    duration: number
     credits: number
     learnershipCode: string | null
 }
@@ -58,6 +58,6 @@ const QctoCourses: QctoCourse[] = [
         duration: 12, credits: 180,
         learnershipCode: null,
     },
-];
+]
 
-export default QctoCourses;
+export default QctoCourses
