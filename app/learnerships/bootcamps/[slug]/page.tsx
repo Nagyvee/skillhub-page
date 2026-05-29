@@ -253,15 +253,15 @@ export default async function BootcampDetailPage({ params }: PageProps) {
                                     </div>
                                 </div>
 
-                                {/* CTA Button */}
+                                {/* Enquire Now CTA */}
                                 <Button
                                     asChild
                                     size="lg"
                                     className="w-full bg-accent hover:bg-accent/90 text-accent-foreground font-bold py-6 text-base rounded-xl transition-all"
                                 >
-                                    <a href={bootcamp.url} target="_blank" rel="noopener noreferrer">
-                                        Apply Now
-                                    </a>
+                                    <Link href={`/learnerships/bootcamps/${bootcamp.slug}/apply`}>
+                                        Enquire Now
+                                    </Link>
                                 </Button>
 
                                 {/* Financing Note */}
@@ -291,27 +291,6 @@ export default async function BootcampDetailPage({ params }: PageProps) {
                         </div>
                     </div>
                 </div>
-            </div>
-
-            {/* Mobile Fixed bottom CTA bar */}
-            <div className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-xl border-t border-border p-4 flex items-center justify-between shadow-2xl">
-                <div>
-                    <span className="text-[10px] uppercase tracking-wider text-muted-foreground block">
-                        Course price
-                    </span>
-                    <span className="text-lg font-bold text-foreground">
-                        {shared.pricing.display}
-                    </span>
-                </div>
-                <Button
-                    asChild
-                    size="sm"
-                    className="bg-accent hover:bg-accent/90 text-accent-foreground font-bold rounded-lg px-5 py-2.5 text-xs"
-                >
-                    <a href={bootcamp.url} target="_blank" rel="noopener noreferrer">
-                        Apply Now
-                    </a>
-                </Button>
             </div>
 
             <Footer />
