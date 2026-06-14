@@ -30,6 +30,22 @@ const navLinks: NavLink[] = [
     ],
   },
   {
+    label: "Digital Agency",
+    href: "/digital-agency",
+    dropdown: [
+      { label: "Overview", href: "/digital-agency" },
+      { label: "Website Design & Development", href: "/digital-agency#website-design-development" },
+      { label: "Software & Application Development", href: "/digital-agency#software-application-development" },
+      { label: "LMS & E-Learning Solutions", href: "/digital-agency#lms-elearning-solutions" },
+      { label: "Cybersecurity Solutions", href: "/digital-agency#cybersecurity-solutions" },
+      { label: "Cloud Services & Infrastructure", href: "/digital-agency#cloud-services-infrastructure" },
+      { label: "Data Analytics & Business Intelligence", href: "/digital-agency#data-analytics-business-intelligence" },
+      { label: "Digital Transformation Consulting", href: "/digital-agency#digital-transformation-consulting" },
+      { label: "Digital Marketing & Social Media", href: "/digital-agency#digital-marketing-social-media" },
+      { label: "Creative Design & Branding", href: "/digital-agency#creative-design-branding" },
+    ],
+  },
+  {
     label: "Learnerships",
     href: "/learnerships",
     dropdown: [
@@ -137,9 +153,11 @@ export function Navbar() {
                         animate={{ opacity: 1, y: 0, scale: 1 }}
                         exit={{ opacity: 0, y: 10, scale: 0.95 }}
                         transition={{ duration: 0.2 }}
-                        className="absolute left-0 top-full w-56 pt-2"
+                        className={`absolute left-0 top-full pt-2 ${link.dropdown.length > 5 ? "w-72" : "w-56"}`}
                       >
-                        <div className="overflow-hidden rounded-xl border border-border/50 bg-background/95 p-1 backdrop-blur-xl shadow-xl">
+                        <div
+                          className={`overflow-y-auto rounded-xl border border-border/50 bg-background/95 p-1 backdrop-blur-xl shadow-xl ${link.dropdown.length > 5 ? "max-h-[24rem]" : ""}`}
+                        >
                           {link.dropdown.map((sub) => (
                             <Link
                               key={sub.href}
@@ -183,7 +201,8 @@ export function Navbar() {
                 </Link>
               </li>
             )
-          })}
+          })
+          }
         </ul>
 
         <div className="hidden lg:flex items-center gap-3">
