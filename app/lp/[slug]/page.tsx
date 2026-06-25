@@ -7,10 +7,6 @@ interface Props {
   params: { slug: string };
 }
 
-export async function generateStaticParams() {
-  return Object.keys(landingPages).map((slug) => ({ slug }));
-}
-
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const data = landingPages[params.slug];
   if (!data) return {};
@@ -24,5 +20,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default function LandingPage({ params }: Props) {
   const data = landingPages[params.slug];
   if (!data) notFound();
-  return <CourseLandingTemplate data={data} />;
+  return <CourseLandingTemplate data={data!} />;
 }
