@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { landingPages } from "../../../lib/landing-pages-data";
-import { CourseLandingTemplate } from "@/components/landing/CourseLandingTemplate";
+import { CourseLandingTemplate } from "../../../components/landing/CourseLandingTemplate";
 import type { Metadata } from "next";
 
 interface Props {
