@@ -84,8 +84,6 @@ export function PageHeader({ title, description, breadcrumbs }: PageHeaderProps)
         </motion.p>
       </div>
 
-      {/* Bottom fade into page background */}
-      <div className="absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-t from-background to-transparent" />
     </section>
   )
 }
