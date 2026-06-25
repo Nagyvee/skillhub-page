@@ -4,11 +4,12 @@ import { CourseLandingTemplate } from "../../../components/landing/CourseLanding
 import type { Metadata } from "next";
 
 interface Props {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const data = landingPages[params.slug];
+  const { slug } = await params;
+  const data = landingPages[slug];
   if (!data) return {};
   return {
     title: `${data.title} | SkillHub International`,
@@ -17,8 +18,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default function LandingPage({ params }: Props) {
-  const data = landingPages[params.slug];
+export default async function LandingPage({ params }: Props) {
+  const { slug } = await params;
+  const data = landingPages[slug];
   if (!data) notFound();
   return <CourseLandingTemplate data={data!} />;
 }
