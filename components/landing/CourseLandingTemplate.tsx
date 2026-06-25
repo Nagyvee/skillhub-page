@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { LandingPageData } from "@/lib/landing-pages-data";
+import type { LandingPageData } from "../../lib/landing-pages-data";
 
 interface Props {
   data: LandingPageData;
