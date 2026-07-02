@@ -17,9 +17,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     robots: "noindex, nofollow",
   };
 }
-
 export default async function LandingPage({ params }: Props) {
   const { slug } = await params;
+  console.log("SLUG:", slug);
+  console.log("AVAILABLE:", Object.keys(landingPages));
   const data = landingPages[slug];
   if (!data) notFound();
   return <CourseLandingTemplate data={data!} />;
