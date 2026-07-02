@@ -365,7 +365,7 @@ export const landingPages: Record<string, LandingPageData> = {
     price: "Contact us for pricing",
     ctaLabel: "Reserve Your Seat",
     ctaUrl: "mailto:hello@skillhub.africa?subject=Ports Management and Transshipment Operations – Enquiry",
-    heroImage: "/assets/lp/lp-ports-transshipment.png",
+    heroImage: "/asset/lp/lp-ports-transshipment.png",
     stats: [
       { value: "QCTO", label: "Accredited Provider" },
       { value: "5 Days", label: "Intensive Programme" },
@@ -474,7 +474,7 @@ export const landingPages: Record<string, LandingPageData> = {
     price: "Contact us for pricing",
     ctaLabel: "Reserve Your Seat",
     ctaUrl: "mailto:hello@skillhub.africa?subject=PPP Projects and Infrastructure Management – Enquiry",
-    heroImage: "/assets/lp/lp-ppp-infrastructure.png",
+    heroImage: "/asset/lp/lp-ppp-infrastructure.png",
     stats: [
       { value: "QCTO", label: "Accredited Provider" },
       { value: "5 Days", label: "Executive Programme" },
@@ -583,7 +583,7 @@ export const landingPages: Record<string, LandingPageData> = {
     price: "Contact us for pricing",
     ctaLabel: "Reserve Your Seat",
     ctaUrl: "mailto:hello@skillhub.africa?subject=Transport and Fleet Management – Enquiry",
-    heroImage: "/assets/lp/lp-fleet-management.png",
+    heroImage: "/asset/lp/lp-fleet-management.png",
     stats: [
       { value: "QCTO", label: "Accredited Provider" },
       { value: "5 Days", label: "Practical Programme" },
@@ -692,7 +692,7 @@ export const landingPages: Record<string, LandingPageData> = {
     price: "Contact us for pricing",
     ctaLabel: "Reserve Your Seat",
     ctaUrl: "mailto:hello@skillhub.africa?subject=Procurement Management for World Bank Funded Projects – Enquiry",
-    heroImage: "/assets/lp/lp-procurement-worldbank.png",
+    heroImage: "/asset/lp/lp-procurement-worldbank.png",
     stats: [
       { value: "QCTO", label: "Accredited Provider" },
       { value: "5 Days", label: "Specialist Programme" },
@@ -801,7 +801,7 @@ export const landingPages: Record<string, LandingPageData> = {
     price: "Contact us for pricing",
     ctaLabel: "Reserve Your Seat",
     ctaUrl: "mailto:hello@skillhub.africa?subject=AI and Data Analytics in Supply Chain – Enquiry",
-    heroImage: "/assets/lp/lp-supply-chain.png",
+    heroImage: "/asset/lp/lp-supply-chain.png",
     stats: [
       { value: "QCTO", label: "Accredited Provider" },
       { value: "5 Days", label: "Forward-Looking Programme" },

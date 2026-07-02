@@ -15,6 +15,11 @@ export function CourseLandingTemplate({ data }: Props) {
 
       {/* HERO */}
       <section className="lp-hero">
+        {data.heroImage && (
+          <div className="lp-hero-img">
+            <img src={data.heroImage} alt={data.title} />
+          </div>
+        )}
         <div className="lp-hero-inner">
           <div className="lp-wordmark">
             <span className="lp-wordmark-sh">SkillHub</span>
@@ -203,8 +208,10 @@ export function CourseLandingTemplate({ data }: Props) {
         .lp-section--navy { background: #0d1526; }
 
         .lp-hero { background: linear-gradient(160deg, #0f1a2e 0%, #162038 60%, #1a2844 100%); padding: 4.5rem 0 5rem; position: relative; overflow: hidden; }
-        .lp-hero::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse at 70% 50%, rgba(212,162,78,0.08) 0%, transparent 60%); pointer-events: none; }
-        .lp-hero-inner { max-width: 860px; margin: 0 auto; padding: 0 1.5rem; position: relative; }
+        .lp-hero::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse at 70% 50%, rgba(212,162,78,0.08) 0%, transparent 60%); pointer-events: none; z-index: 0; }
+        .lp-hero-img { position: absolute; inset: 0; z-index: 0; overflow: hidden; }
+        .lp-hero-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.15; }
+        .lp-hero-inner { max-width: 860px; margin: 0 auto; padding: 0 1.5rem; position: relative; z-index: 1; }
 
         .lp-wordmark { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 2.5rem; flex-wrap: wrap; }
         .lp-wordmark-sh { font-family: "Fraunces", Georgia, serif; font-size: 1.1rem; font-weight: 700; color: #fff; letter-spacing: 0.02em; }
