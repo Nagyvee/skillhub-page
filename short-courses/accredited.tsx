@@ -397,6 +397,449 @@ export const accredited = {
             "accreditation": {
                 "international_equivalent": "Ontario Certificate (Canada)"
             }
+        },
+        {
+            "id": "chief-information-officer-cybersecurity",
+            "slug": "chief-information-officer-cybersecurity",
+            "url": "",
+            "image": "",
+            "title": "Advanced Occupational Diploma: Chief Information Officer: Cybersecurity",
+            "tagline": "A QCTO occupational qualification developed by BANKSETA to prepare senior ICT leaders who can drive enterprise cybersecurity strategy, governance, resilience, and risk management across an organisation.",
+            "meta": {
+                "lessons": 12,
+                "duration": "12–18 Months",
+                "students": 45,
+                "level": "Executive",
+                "credits": 120,
+                "nqf_level": 7,
+                "saqa_id": "121968",
+                "occupational_certificate": "Advanced Occupational Diploma: Chief Information Officer: Cybersecurity"
+            },
+            "program": {
+                "delivery": "Asynchronous modules and readings with synchronous mentorship, executive case studies, and governance simulations via an AI-powered LMS",
+                "intensity": "15–30 hours per week",
+                "credits_breakdown": {
+                    "total": 120,
+                    "knowledge": 40,
+                    "practical": 40,
+                    "work_experience": 40
+                }
+            },
+            "curriculum": [
+                {
+                    "phase": "Knowledge",
+                    "months": "1–6",
+                    "focus_area": "Cybersecurity Leadership & Governance",
+                    "highlights": [
+                        "Management, Leadership and Governance Principles within a Cybersecurity Context",
+                        "Concepts and Principles Underpinning the Provisioning of Secure ICT within an Enterprise",
+                        "Strategic CIO Leadership and Digital Business Strategy",
+                        "Cybersecurity Governance Frameworks and King IV Principles",
+                        "Enterprise Risk Management and Cyber Resilience",
+                        "Legal and Regulatory Compliance (POPIA, Cybercrimes Act, ECT Act)",
+                        "AI Governance and Emerging Technologies"
+                    ]
+                },
+                {
+                    "phase": "Practical",
+                    "months": "7–12",
+                    "focus_area": "Enterprise Cybersecurity Practice",
+                    "highlights": [
+                        "Provide legal and cybersecurity advisory services",
+                        "Deliver cybersecurity education and awareness programmes",
+                        "Develop cybersecurity strategies and organisational policies",
+                        "Lead enterprise cybersecurity functions and executive decision-making",
+                        "Information Security Management (ISO/IEC 27001 and security architecture)",
+                        "Cyber Threat Management (threat intelligence, SOC and incident response)"
+                    ]
+                },
+                {
+                    "phase": "Work Experience",
+                    "months": "13–18",
+                    "focus_area": "Executive Work-Integrated Learning",
+                    "highlights": [
+                        "Cybersecurity instruction and awareness processes",
+                        "Information systems and communications security management",
+                        "Cybersecurity workforce planning and development",
+                        "Develop an enterprise cybersecurity strategy and governance framework",
+                        "Prepare executive cybersecurity reports and a Portfolio of Evidence (PoE)"
+                    ]
+                }
+            ],
+            "skills": [
+                { "title": "Cybersecurity Strategy", "description": "Develop and lead enterprise-wide cybersecurity strategies aligned to business goals." },
+                { "title": "Governance & Compliance", "description": "Apply King IV, POPIA and the Cybercrimes Act to cybersecurity governance and board reporting." },
+                { "title": "Enterprise Risk Management", "description": "Assess cyber risk and build organisational resilience, continuity and incident response." },
+                { "title": "Information Security Management", "description": "Implement ISO/IEC 27001, security architecture, identity and cloud security." },
+                { "title": "Executive Leadership", "description": "Advise boards, build cybersecurity teams and drive a security-aware culture." },
+                { "title": "Threat & Incident Management", "description": "Oversee threat intelligence, SOC operations and digital forensics readiness." }
+            ],
+            "target_roles": [
+                "Chief Information Officer (Cybersecurity)",
+                "Chief Information Security Officer (CISO)",
+                "Head of Cybersecurity",
+                "Cybersecurity Governance & Risk Manager",
+                "IT Security Director"
+            ],
+            "accreditation": {
+                "development_quality_partner": "BANKSETA",
+                "assessment_quality_partner": "BANKSETA",
+                "registration_period": "30 January 2024 – 30 January 2029"
+            }
+        },
+        {
+            "id": "computer-technician",
+            "slug": "computer-technician",
+            "url": "",
+            "image": "",
+            "title": "Computer Technician",
+            "tagline": "An NQF Level 5 occupational qualification that prepares learners to provide technical support for computer hardware, software, networks, and end users in a business environment.",
+            "meta": {
+                "lessons": 10,
+                "duration": "18–24 Months",
+                "students": 60,
+                "level": "Intermediate",
+                "credits": 282,
+                "nqf_level": 5,
+                "saqa_id": "101408",
+                "occupational_certificate": "Occupational Certificate: Computer Technician"
+            },
+            "program": {
+                "delivery": "Asynchronous modules and readings with synchronous mentorship, hands-on labs, and workplace practice via an AI-powered LMS",
+                "intensity": "15–30 hours per week",
+                "credits_breakdown": {
+                    "total": 282,
+                    "knowledge": 109,
+                    "practical": 73,
+                    "work_experience": 100
+                }
+            },
+            "curriculum": [
+                {
+                    "phase": "Knowledge",
+                    "months": "1–8",
+                    "focus_area": "ICT Foundations & Hardware",
+                    "highlights": [
+                        "Introduction to Data Communication and Networking",
+                        "Basics of Computer Architecture: Hardware",
+                        "Basics of Computer Architecture: Software",
+                        "Sustainable Computer Environment and Green Technologies",
+                        "Social Media and Digital Literacy",
+                        "End User Computing",
+                        "Business Communication and Customer Service",
+                        "Ready for Work Standards"
+                    ]
+                },
+                {
+                    "phase": "Practical",
+                    "months": "9–16",
+                    "focus_area": "Technical Support Skills",
+                    "highlights": [
+                        "Troubleshooting computer and network faults",
+                        "Maintaining computer and network security",
+                        "Providing technical support to end users",
+                        "Installing computer hardware and software"
+                    ]
+                },
+                {
+                    "phase": "Work Experience",
+                    "months": "17–24",
+                    "focus_area": "Workplace Practice",
+                    "highlights": [
+                        "Responding to user support requests",
+                        "Setting up computers and peripheral devices",
+                        "Installing operating systems and software",
+                        "Maintaining computer systems and applying green IT practices",
+                        "Recording technical problems and performing routine maintenance",
+                        "Portfolio of Evidence (PoE) preparation"
+                    ]
+                }
+            ],
+            "skills": [
+                { "title": "Hardware Installation", "description": "Install and configure desktop and laptop computers and peripheral devices." },
+                { "title": "Operating Systems & Software", "description": "Install operating systems and application software, and manage drivers and user accounts." },
+                { "title": "Networking Support", "description": "Connect computers to organisational networks and troubleshoot connectivity." },
+                { "title": "Fault Diagnosis & Repair", "description": "Diagnose and repair hardware and software faults efficiently." },
+                { "title": "Customer Support", "description": "Provide professional help-desk support using ticketing systems and technical documentation." },
+                { "title": "Green Computing & Ethics", "description": "Apply green IT practices and professional workplace ethics to reduce e-waste." }
+            ],
+            "target_roles": [
+                "Computer Technician",
+                "IT Support Technician",
+                "Help Desk Support Analyst",
+                "Desktop Support Technician",
+                "Field Service Technician"
+            ],
+            "accreditation": {
+                "entry_requirement": "NQF Level 4 qualification",
+                "assessment": "QCTO External Integrated Summative Assessment (EISA)"
+            }
+        },
+        {
+            "id": "cloud-administrator",
+            "slug": "cloud-administrator",
+            "url": "",
+            "image": "",
+            "title": "Cloud Administrator",
+            "tagline": "A QCTO occupational qualification that prepares learners to administer, monitor, secure, and troubleshoot cloud computing environments across platforms such as AWS, Microsoft Azure, and Google Cloud.",
+            "meta": {
+                "lessons": 11,
+                "duration": "12–24 Months",
+                "students": 60,
+                "level": "Intermediate",
+                "credits": 149,
+                "nqf_level": 4,
+                "saqa_id": "118699",
+                "occupational_certificate": "Occupational Certificate: Cloud Administrator"
+            },
+            "program": {
+                "delivery": "Asynchronous modules and readings with synchronous mentorship, hands-on cloud labs, and workplace practice via an AI-powered LMS",
+                "intensity": "15–30 hours per week",
+                "credits_breakdown": {
+                    "total": 149,
+                    "knowledge": 53,
+                    "practical": 40,
+                    "work_experience": 56
+                }
+            },
+            "curriculum": [
+                {
+                    "phase": "Knowledge",
+                    "months": "1–6",
+                    "focus_area": "Cloud Fundamentals",
+                    "highlights": [
+                        "Introduction to Cloud Computing",
+                        "Cloud Computing Elements",
+                        "Containers, Cloud Native and Kubernetes",
+                        "Cloud Security, Risks, Vulnerabilities and Mitigation",
+                        "Cloud Platforms (AWS, Microsoft Azure, Google Cloud)",
+                        "Cloud Governance, Ethics and 4IR Concepts"
+                    ]
+                },
+                {
+                    "phase": "Practical",
+                    "months": "7–14",
+                    "focus_area": "Cloud Deployment & Administration",
+                    "highlights": [
+                        "Configure and deploy cloud infrastructure",
+                        "Implement cloud networking services",
+                        "Manage virtual machines and storage",
+                        "Configure cloud security controls",
+                        "Monitor cloud resources and performance",
+                        "Troubleshoot and document cloud environments"
+                    ]
+                },
+                {
+                    "phase": "Work Experience",
+                    "months": "15–24",
+                    "focus_area": "Workplace Practice",
+                    "highlights": [
+                        "Deploying and administering cloud services",
+                        "Monitoring cloud performance",
+                        "Managing users and permissions",
+                        "Implementing backup and recovery procedures",
+                        "Supporting cloud security and responding to incidents",
+                        "Portfolio of Evidence (PoE) preparation"
+                    ]
+                }
+            ],
+            "skills": [
+                { "title": "Cloud Deployment", "description": "Implement and deploy cloud solutions and services across major platforms." },
+                { "title": "Monitoring & Maintenance", "description": "Monitor and maintain cloud servers, networks and service availability." },
+                { "title": "Storage Management", "description": "Manage cloud data storage and storage capacity effectively." },
+                { "title": "Cloud Security & Compliance", "description": "Apply cloud security configurations and compliance controls." },
+                { "title": "Troubleshooting", "description": "Diagnose and resolve cloud infrastructure issues to ensure uptime." },
+                { "title": "Containers & Kubernetes", "description": "Use Docker and Kubernetes to run and scale containerised applications." }
+            ],
+            "target_roles": [
+                "Cloud Administrator",
+                "Cloud Support Engineer",
+                "Cloud Operations Technician",
+                "Junior Cloud Engineer",
+                "DevOps Support Technician"
+            ],
+            "accreditation": {
+                "entry_requirement": "NQF Level 3 qualification",
+                "assessment": "QCTO External Integrated Summative Assessment (EISA)"
+            }
+        },
+        {
+            "id": "rpa-developer",
+            "slug": "rpa-developer",
+            "url": "",
+            "image": "",
+            "title": "Robotics Process Automation (RPA) Developer",
+            "tagline": "A QCTO occupational qualification that prepares learners to analyse business processes and design, develop, test, deploy, and maintain Robotic Process Automation (RPA) solutions that automate repetitive business tasks.",
+            "meta": {
+                "lessons": 11,
+                "duration": "12–18 Months",
+                "students": 55,
+                "level": "Advanced",
+                "credits": 185,
+                "nqf_level": 5,
+                "saqa_id": "119242",
+                "occupational_certificate": "Occupational Certificate: Robotics (RPA) Developer"
+            },
+            "program": {
+                "delivery": "Asynchronous modules and readings with synchronous mentorship, hands-on automation labs, and workplace practice via an AI-powered LMS",
+                "intensity": "15–30 hours per week",
+                "credits_breakdown": {
+                    "total": 185,
+                    "knowledge": 65,
+                    "practical": 70,
+                    "work_experience": 50
+                }
+            },
+            "curriculum": [
+                {
+                    "phase": "Knowledge",
+                    "months": "1–5",
+                    "focus_area": "RPA & Programming Foundations",
+                    "highlights": [
+                        "Overview of Robotic Process Automation",
+                        "Basic Calculations and Logical Thinking",
+                        "Computers and Computing Systems",
+                        "Computing Theory",
+                        "Data, Databases and Data Scraping",
+                        "Business Process Analysis",
+                        "Programming Fundamentals",
+                        "RPA Development Principles",
+                        "Testing and Quality Assurance",
+                        "Ethics, Governance and Security in Automation"
+                    ]
+                },
+                {
+                    "phase": "Practical",
+                    "months": "6–10",
+                    "focus_area": "Building & Deploying Bots",
+                    "highlights": [
+                        "Analysing business processes for automation",
+                        "Designing RPA workflows",
+                        "Building software robots (bots)",
+                        "Creating reusable automation components",
+                        "Integrating bots with business applications",
+                        "Testing, debugging, deploying and monitoring bots"
+                    ]
+                },
+                {
+                    "phase": "Work Experience",
+                    "months": "11–18",
+                    "focus_area": "Workplace Automation Projects",
+                    "highlights": [
+                        "Process discovery and documentation",
+                        "Automation project implementation",
+                        "Bot deployment and monitoring",
+                        "Incident and exception handling",
+                        "Performance reporting and change management",
+                        "User support, maintenance and Portfolio of Evidence (PoE)"
+                    ]
+                }
+            ],
+            "skills": [
+                { "title": "Process Analysis", "description": "Analyse and map business processes that are suitable for automation." },
+                { "title": "Bot Development", "description": "Develop and configure RPA bots to automate repetitive business tasks." },
+                { "title": "Testing & Deployment", "description": "Test, debug and deploy automation solutions reliably." },
+                { "title": "Monitoring & Support", "description": "Monitor bot performance and resolve incidents and exceptions." },
+                { "title": "Integration", "description": "Integrate bots with business applications, APIs and data sources." },
+                { "title": "Governance & Security", "description": "Apply security, credential management and governance principles in RPA environments." }
+            ],
+            "target_roles": [
+                "RPA Developer",
+                "Automation Engineer",
+                "RPA Analyst",
+                "Process Automation Specialist",
+                "Intelligent Automation Developer"
+            ],
+            "accreditation": {
+                "entry_requirement": "NQF Level 4 qualification with basic computer literacy and logical thinking",
+                "assessment": "QCTO External Integrated Summative Assessment (EISA)"
+            }
+        },
+        {
+            "id": "ict-business-development-consultant",
+            "slug": "ict-business-development-consultant",
+            "url": "",
+            "image": "",
+            "title": "ICT Business Development Consultant",
+            "tagline": "A QCTO occupational qualification that prepares learners to identify ICT business opportunities, understand customer technology needs, market and sell ICT products and services, manage customer relationships, and perform ICT sales administration.",
+            "meta": {
+                "lessons": 10,
+                "duration": "12 Months",
+                "students": 50,
+                "level": "Intermediate",
+                "credits": 120,
+                "nqf_level": 5,
+                "saqa_id": "120749",
+                "occupational_certificate": "Higher Occupational Certificate: ICT Business Development Consultant"
+            },
+            "program": {
+                "delivery": "Asynchronous modules and readings with synchronous mentorship, sales simulations, and workplace practice via an AI-powered LMS",
+                "intensity": "15–30 hours per week",
+                "credits_breakdown": {
+                    "total": 120,
+                    "knowledge": 46,
+                    "practical": 40,
+                    "work_experience": 34
+                }
+            },
+            "curriculum": [
+                {
+                    "phase": "Knowledge",
+                    "months": "1–4",
+                    "focus_area": "ICT Industry & Sales Foundations",
+                    "highlights": [
+                        "The Role of ICT in the Economy",
+                        "Sales Research",
+                        "Stakeholder Relationships",
+                        "ICT Solution Marketing and Sales",
+                        "Sales Administration"
+                    ]
+                },
+                {
+                    "phase": "Practical",
+                    "months": "5–8",
+                    "focus_area": "Applying the ICT Sales Cycle",
+                    "highlights": [
+                        "Applying ICT knowledge across economic sectors",
+                        "Conducting ICT sales research",
+                        "Building stakeholder relationships",
+                        "Applying the ICT sales cycle",
+                        "Performing ICT sales administration"
+                    ]
+                },
+                {
+                    "phase": "Work Experience",
+                    "months": "9–12",
+                    "focus_area": "Workplace Practice",
+                    "highlights": [
+                        "Understanding the ICT market and regulatory environment",
+                        "Understanding organisational structures and business processes",
+                        "Participating in the ICT sales cycle",
+                        "Using organisational administration systems",
+                        "Compiling sales reports and Portfolio of Evidence (PoE)"
+                    ]
+                }
+            ],
+            "skills": [
+                { "title": "ICT Needs Analysis", "description": "Analyse and evaluate ICT needs within an economic sector." },
+                { "title": "Opportunity Identification", "description": "Identify ICT business opportunities using market trends, legislation and analysis tools." },
+                { "title": "Customer Relationships", "description": "Build and maintain professional customer relationships." },
+                { "title": "ICT Sales Process", "description": "Execute all phases of the ICT sales cycle from prospecting to closing." },
+                { "title": "Sales Reporting", "description": "Develop and present ICT sales reports and manage the pipeline." },
+                { "title": "Digital & Social Selling", "description": "Apply digital marketing and LinkedIn-based social selling to generate leads." }
+            ],
+            "target_roles": [
+                "ICT Business Development Consultant",
+                "ICT Sales Consultant",
+                "Account Manager (ICT)",
+                "Technology Sales Representative",
+                "Business Development Executive"
+            ],
+            "accreditation": {
+                "entry_requirement": "NQF Level 4 qualification",
+                "assessment_quality_partner": "MICT SETA",
+                "assessment": "QCTO External Integrated Summative Assessment (EISA)"
+            }
         }
     ]
 };
