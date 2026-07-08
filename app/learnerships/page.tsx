@@ -1,65 +1,76 @@
-import { MotionSection, MotionDiv, fadeInUp } from "@/components/motion"
-import QctoCourses from "@/lib/qcto-courses"
-import { LearnershipGrid } from "@/components/learnership-grid"
-import { Badge } from "@/components/ui/badge"
-import { GraduationCap, Clock, Users, BookOpen } from "lucide-react"
 import { Navbar } from "@/components/navbar"
+import { PageHeader } from "@/components/page-header"
+import { CtaSection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
+import { AllLearnershipsGrid, type LearnershipItem } from "@/components/all-learnerships-grid"
+import QctoCourses from "@/lib/qcto-courses"
+import { accredited } from "@/short-courses/accredited"
+import { business } from "@/short-courses/business"
+import { wholesaleRetail } from "@/short-courses/wholesale-retail"
+import type { Metadata } from "next"
 
-export const metadata = {
-    title: "QCTO Learnerships | SkillHub International",
-    description: "QCTO-accredited learnership programmes in supply chain, procurement, transport, and logistics. NQF Levels 5–7.",
+export const metadata: Metadata = {
+    title: "Learnerships | SkillHub International",
+    description:
+        "Browse all QCTO/SAQA accredited learnership qualifications at SkillHub International across Supply Chain, ICT, Business, and Wholesale & Retail. NQF Levels 3–8.",
     alternates: { canonical: "https://www.skillhub.africa/learnerships" },
 }
 
+// Aggregate every learnership qualification into a single, consistently-shaped list.
+function getAllLearnerships(): LearnershipItem[] {
+    const supplyChain: LearnershipItem[] = QctoCourses.map((c) => ({
+        id: `supply-chain-${c.id}`,
+        title: c.title,
+        section: "Supply Chain",
+        nqf: c.nqf,
+        credits: c.credits,
+        duration: `${c.duration} Months`,
+        description: `QCTO-accredited learnership. Entry: ${c.entryRequirements}.`,
+        href: `/contact?learnership=${encodeURIComponent(c.title)}`,
+        cta: "Enquire Now",
+    }))
+
+    const mapAccredited = (
+        courses: any[],
+        section: string,
+        basePath: string
+    ): LearnershipItem[] =>
+        courses.map((c) => ({
+            id: `${basePath}-${c.slug}`,
+            title: c.title,
+            section,
+            nqf: c.meta.nqf_level,
+            credits: c.meta.credits,
+            duration: c.meta.duration,
+            description: c.tagline,
+            href: `/learnerships/${basePath}/${c.slug}`,
+            cta: "View Course",
+        }))
+
+    return [
+        ...supplyChain,
+        ...mapAccredited(accredited.courses, "ICT", "ict"),
+        ...mapAccredited(business.courses, "Business", "business"),
+        ...mapAccredited(wholesaleRetail.courses, "Wholesale & Retail", "wholesale-retail"),
+    ]
+}
+
 export default function LearnershipsPage() {
+    const items = getAllLearnerships()
+
     return (
         <main>
             <Navbar />
-            <div className="pt-24 pb-16 lg:pt-32 bg-background">
-                <MotionSection className="mx-auto max-w-7xl px-6 lg:px-8">
-                    <MotionDiv variants={fadeInUp} className="relative overflow-hidden rounded-3xl border border-border/50 bg-card p-8 lg:p-12">
-                        <div className="absolute inset-0 bg-gradient-to-br from-accent/5 via-transparent to-primary/5 pointer-events-none" />
-                        <div className="relative z-10">
-                            <div className="flex flex-wrap items-center gap-3 mb-4">
-                                <Badge className="bg-accent/10 text-accent border-accent/20 text-xs">
-                                    QCTO Accredited
-                                </Badge>
-                                <Badge className="bg-primary/10 text-primary border-primary/20 text-xs">
-                                    NQF Levels 5–7
-                                </Badge>
-                            </div>
-                            <h1 className="text-3xl lg:text-5xl font-bold text-foreground mb-4">
-                                QCTO Learnership Programmes
-                            </h1>
-                            <p className="text-lg text-muted-foreground mb-6 max-w-3xl">
-                                Nationally recognised qualifications registered with the Quality
-                                Council for Trades and Occupations — designed for working professionals
-                                in supply chain, logistics, procurement, and transport.
-                            </p>
-                            <div className="flex flex-wrap items-center gap-6 text-sm text-muted-foreground">
-                                <span className="flex items-center gap-2">
-                                    <GraduationCap className="h-4 w-4" />
-                                    6 Qualifications
-                                </span>
-                                <span className="flex items-center gap-2">
-                                    <Clock className="h-4 w-4" />
-                                    12–18 Month Programmes
-                                </span>
-                                <span className="flex items-center gap-2">
-                                    <Users className="h-4 w-4" />
-                                    NQF Levels 5, 6 & 7
-                                </span>
-                                <span className="flex items-center gap-2">
-                                    <BookOpen className="h-4 w-4" />
-                                    120–205 Credits
-                                </span>
-                            </div>
-                        </div>
-                    </MotionDiv>
-                </MotionSection>
-            </div>
-            <LearnershipGrid courses={QctoCourses} />
+            <PageHeader
+                title="Learnerships"
+                description="Explore every QCTO/SAQA accredited learnership qualification at SkillHub International — nationally recognised programmes across Supply Chain, ICT, Business, and Wholesale & Retail, spanning NQF Levels 3 to 8."
+                breadcrumbs={[
+                    { label: "Home", href: "/" },
+                    { label: "Learnerships", href: "/learnerships" },
+                ]}
+            />
+            <AllLearnershipsGrid items={items} />
+            <CtaSection />
             <Footer />
         </main>
     )
