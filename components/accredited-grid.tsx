@@ -9,7 +9,6 @@ import {
     ArrowRight
 } from "lucide-react"
 import Link from "next/link"
-import Image from "next/image"
 
 export interface AccreditedCourse {
     id: string
@@ -33,38 +32,18 @@ export interface AccreditedCourse {
 interface AccreditedGridProps {
     courses: AccreditedCourse[]
     pricingDisplay: string
+    basePath?: string
 }
 
-export function AccreditedGrid({ courses }: AccreditedGridProps) {
+export function AccreditedGrid({ courses, basePath = "/learnerships/ict" }: AccreditedGridProps) {
     return (
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-2">
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {courses.map((course) => (
                 <Link
                     key={course.id}
-                    href={`/learnerships/accredited/${course.slug}`}
+                    href={`${basePath}/${course.slug}`}
                     className="group relative h-full overflow-hidden rounded-2xl border border-border/50 bg-card transition-all duration-500 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border flex flex-col"
                 >
-                    <div className="relative h-48 w-full overflow-hidden bg-muted shrink-0">
-                        {course.image ? (
-                            <Image
-                                src={course.image}
-                                alt={course.title}
-                                fill
-                                className="object-cover transition-transform duration-500 group-hover:scale-105"
-                            />
-                        ) : (
-                            <div className="flex h-full w-full items-center justify-center">
-                                <span className="text-xs text-muted-foreground">Image coming soon</span>
-                            </div>
-                        )}
-                        <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
-                            <span className="text-white text-xs font-semibold flex items-center gap-1">
-                                View course details
-                                <ArrowRight className="h-3 w-3" />
-                            </span>
-                        </div>
-                    </div>
-
                     <div className="p-6 lg:p-7 flex flex-col flex-grow">
                         <div className="flex items-start justify-between mb-4">
                             <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary/5 ring-1 ring-primary/10 group-hover:bg-accent/10 group-hover:ring-accent/20 transition-all duration-300">
