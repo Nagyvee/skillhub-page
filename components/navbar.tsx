@@ -1,3 +1,4 @@
+
 "use client"
 
 import { useState, useEffect } from "react"
@@ -34,7 +35,10 @@ const navLinks: NavLink[] = [
     href: "/learnerships",
     dropdown: [
       { label: "All Learnerships", href: "/learnerships" },
-      { label: "Accredited", href: "/learnerships/accredited" },
+      { label: "Supply Chain", href: "/learnerships/supply-chain" },
+      { label: "ICT", href: "/learnerships/ict" },
+      { label: "Business", href: "/learnerships/business" },
+      { label: "Wholesale & Retail", href: "/learnerships/wholesale-retail" },
       { label: "Bootcamps", href: "/learnerships/bootcamps" },
     ],
   },
