@@ -41,9 +41,9 @@ export default async function AccreditedApplyPage({ params }: PageProps) {
                         <span>/</span>
                         <Link href="/learnerships" className="hover:text-foreground transition-colors">Learnerships</Link>
                         <span>/</span>
-                        <Link href="/learnerships/accredited" className="hover:text-foreground transition-colors">Accredited</Link>
+                        <Link href="/learnerships/ict" className="hover:text-foreground transition-colors">ICT</Link>
                         <span>/</span>
-                        <Link href={`/learnerships/accredited/${slug}`} className="hover:text-foreground transition-colors truncate max-w-[120px]">{course.title}</Link>
+                        <Link href={`/learnerships/ict/${slug}`} className="hover:text-foreground transition-colors truncate max-w-[120px]">{course.title}</Link>
                         <span>/</span>
                         <span className="text-foreground">Apply</span>
                     </div>

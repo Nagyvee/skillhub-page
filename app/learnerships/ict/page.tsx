@@ -9,9 +9,9 @@ import { AccreditedGrid } from "@/components/accredited-grid"
 import Link from "next/link"
 
 export const metadata = {
-    title: "Accredited Courses | SkillHub International",
+    title: "ICT Courses | SkillHub International",
     description: "QCTO/SAQA accredited occupational certificates in AI, Cybersecurity, Data Science, and Design Thinking. NQF Levels 4–5.",
-    alternates: { canonical: "https://www.skillhub.africa/learnerships/accredited" },
+    alternates: { canonical: "https://www.skillhub.africa/learnerships/ict" },
 }
 
 export default function AccreditedPage() {
@@ -34,7 +34,7 @@ export default function AccreditedPage() {
                                 </Badge>
                             </div>
                             <h1 className="text-3xl lg:text-5xl font-bold text-foreground mb-4">
-                                Accredited Programmes
+                                ICT Programmes
                             </h1>
                             <p className="text-lg text-muted-foreground mb-6 max-w-3xl">
                                 Nationally recognised occupational certificates registered with

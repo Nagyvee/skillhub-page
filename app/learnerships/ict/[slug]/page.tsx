@@ -61,7 +61,7 @@ export default async function AccreditedDetailPage({ params }: PageProps) {
                         <span>/</span>
                         <Link href="/learnerships" className="hover:text-foreground transition-colors">Learnerships</Link>
                         <span>/</span>
-                        <Link href="/learnerships/accredited" className="hover:text-foreground transition-colors">Accredited</Link>
+                        <Link href="/learnerships/ict" className="hover:text-foreground transition-colors">ICT</Link>
                         <span>/</span>
                         <span className="text-foreground truncate">{course.title}</span>
                     </div>
@@ -270,7 +270,7 @@ export default async function AccreditedDetailPage({ params }: PageProps) {
                                     size="lg"
                                     className="w-full bg-accent hover:bg-accent/90 text-accent-foreground font-bold py-6 text-base rounded-xl transition-all"
                                 >
-                                    <Link href={`/learnerships/accredited/${course.slug}/apply`}>
+                                    <Link href={`/learnerships/ict/${course.slug}/apply`}>
                                         Enquire Now
                                     </Link>
                                 </Button>
