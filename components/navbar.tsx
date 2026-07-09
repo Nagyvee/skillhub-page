@@ -1,4 +1,3 @@
-
 "use client"
 
 import { useState, useEffect } from "react"
@@ -37,8 +36,8 @@ const navLinks: NavLink[] = [
       { label: "All Learnerships", href: "/learnerships" },
       { label: "Supply Chain", href: "/learnerships/supply-chain" },
       { label: "ICT", href: "/learnerships/ict" },
-      { label: "Business  Qualifications", href: "/learnerships/business" },
-      { label: "Wholesale & Retail Qualifications", href: "/learnerships/wholesale-retail" },
+      { label: "Business", href: "/learnerships/business" },
+      { label: "Wholesale & Retail", href: "/learnerships/wholesale-retail" },
       { label: "Bootcamps", href: "/learnerships/bootcamps" },
     ],
   },
@@ -51,6 +50,8 @@ const navLinks: NavLink[] = [
 export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
+  const [openDropdown, setOpenDropdown] = useState<string | null>(null)
+  const [openMobileSub, setOpenMobileSub] = useState<string | null>(null)
   const pathname = usePathname()
   const isHome = pathname === "/"
 
@@ -101,15 +102,15 @@ export function Navbar() {
         <ul className="hidden items-center gap-1 lg:flex">
           {navLinks.map((link) => {
             const isActive = pathname === link.href || (link.dropdown?.some(sub => pathname === sub.href))
-            const [isDropdownOpen, setIsDropdownOpen] = useState(false)
+            const isDropdownOpen = openDropdown === link.label
 
             if (link.dropdown) {
               return (
                 <li
                   key={link.label}
                   className="relative"
-                  onMouseEnter={() => setIsDropdownOpen(true)}
-                  onMouseLeave={() => setIsDropdownOpen(false)}
+                  onMouseEnter={() => setOpenDropdown(link.label)}
+                  onMouseLeave={() => setOpenDropdown(null)}
                 >
                   <Link
                     href={link.href}
@@ -228,7 +229,7 @@ export function Navbar() {
             <div className="mx-auto max-w-7xl px-6 py-6">
               <ul className="flex flex-col gap-1">
                 {navLinks.map((link, i) => {
-                  const [isMobileSubOpen, setIsMobileSubOpen] = useState(false)
+                  const isMobileSubOpen = openMobileSub === link.label
 
                   if (link.dropdown) {
                     return (
@@ -239,7 +240,7 @@ export function Navbar() {
                         transition={{ delay: i * 0.05 }}
                       >
                         <button
-                          onClick={() => setIsMobileSubOpen(!isMobileSubOpen)}
+                          onClick={() => setOpenMobileSub(isMobileSubOpen ? null : link.label)}
                           className={`flex w-full items-center justify-between rounded-lg px-4 py-3 text-sm font-medium transition-colors ${pathname === link.href || link.dropdown.some(sub => pathname === sub.href)
                             ? "bg-secondary text-foreground"
                             : "text-muted-foreground hover:bg-secondary hover:text-foreground"
