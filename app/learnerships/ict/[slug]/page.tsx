@@ -109,7 +109,7 @@ export default async function AccreditedDetailPage({ params }: PageProps) {
                                             Duration & Intensity
                                         </h3>
                                         <p className="text-sm text-muted-foreground leading-relaxed">
-                                            12 Months of self-paced learning.<br />
+                                            {course.meta.duration} of self-paced learning.<br />
                                             Required effort: {course.program.intensity}.
                                         </p>
                                     </div>
@@ -216,16 +216,8 @@ export default async function AccreditedDetailPage({ params }: PageProps) {
 
                         {/* Right Column (Sticky Sidebar) */}
                         <div className="lg:col-span-1 lg:sticky lg:top-24 space-y-6 z-20">
-                            {/* Price Card */}
+                            {/* Info Card */}
                             <div className="rounded-3xl border border-border bg-card p-6 space-y-6 shadow-md">
-                                <div>
-                                    <span className="text-xs uppercase tracking-wider text-muted-foreground block mb-1">
-                                        Course price
-                                    </span>
-                                    <span className="text-4xl font-extrabold text-foreground tracking-tight">
-                                        {shared.pricing.display}
-                                    </span>
-                                </div>
 
                                 <div className="bg-secondary rounded-xl p-3 border border-border flex items-center justify-between text-xs">
                                     <span className="text-muted-foreground">Applications close in:</span>
@@ -270,17 +262,10 @@ export default async function AccreditedDetailPage({ params }: PageProps) {
                                     size="lg"
                                     className="w-full bg-accent hover:bg-accent/90 text-accent-foreground font-bold py-6 text-base rounded-xl transition-all"
                                 >
-                                    <Link href={`/learnerships/ict/${course.slug}/apply`}>
+                                    <Link href={`/contact?learnership=${encodeURIComponent(course.title)}`}>
                                         Enquire Now
                                     </Link>
                                 </Button>
-
-                                {/* Financing Note */}
-                                {shared.pricing.financing.available && (
-                                    <p className="text-center text-[11px] text-muted-foreground">
-                                        Payment plans available · Financed by {shared.pricing.financing.partners.join(" & ")}
-                                    </p>
-                                )}
                             </div>
                         </div>
                     </div>
