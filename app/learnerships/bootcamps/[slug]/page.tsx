@@ -219,14 +219,6 @@ export default async function BootcampDetailPage({ params }: PageProps) {
                         <div className="lg:col-span-1 lg:sticky lg:top-24 space-y-6 z-20">
                             {/* Price Card */}
                             <div className="rounded-3xl border border-border bg-card p-6 space-y-6 shadow-md">
-                                <div>
-                                    <span className="text-xs uppercase tracking-wider text-muted-foreground block mb-1">
-                                        Course price
-                                    </span>
-                                    <span className="text-4xl font-extrabold text-foreground tracking-tight">
-                                        {shared.pricing.display}
-                                    </span>
-                                </div>
 
                                 <div className="bg-secondary rounded-xl p-3 border border-border flex items-center justify-between text-xs">
                                     <span className="text-muted-foreground">Applications close in:</span>
