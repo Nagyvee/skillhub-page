@@ -54,10 +54,6 @@ export default function BootcampsPage() {
                                     <Users className="h-4 w-4" />
                                     {bootcamps.shared.enrollment.seats_per_cohort} seats per cohort
                                 </span>
-                                <span className="flex items-center gap-2">
-                                    <BookOpen className="h-4 w-4" />
-                                    {bootcamps.shared.pricing.display} · Payment plans available
-                                </span>
                             </div>
                         </div>
                     </MotionDiv>

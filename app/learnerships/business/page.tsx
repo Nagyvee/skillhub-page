@@ -51,10 +51,6 @@ export default function BusinessPage() {
                                     <Clock className="h-4 w-4" />
                                     Flexible Programmes
                                 </span>
-                                <span className="flex items-center gap-2">
-                                    <BookOpen className="h-4 w-4" />
-                                    {business.shared.pricing.display} · Payment plans available
-                                </span>
                             </div>
                         </div>
                     </MotionDiv>
