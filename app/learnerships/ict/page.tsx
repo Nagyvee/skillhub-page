@@ -39,7 +39,7 @@ export default function AccreditedPage() {
                             <p className="text-lg text-muted-foreground mb-6 max-w-3xl">
                                 Nationally recognised occupational certificates registered with
                                 QCTO and SAQA. Gain a formal qualification in AI, Cybersecurity,
-                                Data Science, or Design Thinking — 100% online over 12 months.
+                                Data Science, or Design Thinking.
                             </p>
                             <div className="flex flex-wrap items-center gap-6 text-sm text-muted-foreground">
                                 <span className="flex items-center gap-2">
