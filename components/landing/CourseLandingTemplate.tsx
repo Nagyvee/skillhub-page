@@ -9,6 +9,46 @@ interface Props {
 
 export function CourseLandingTemplate({ data }: Props) {
   const [openFaq, setOpenFaq] = useState<number | null>(null);
+  const [formState, setFormState] = useState({
+    name: "",
+    email: "",
+    number: "",
+    companyName: "",
+    country: "South Africa",
+    message: "",
+  });
+  const [submitting, setSubmitting] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+  const [error, setError] = useState("");
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    setFormState({ ...formState, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setSubmitting(true);
+    setError("");
+
+    try {
+      const res = await fetch("/api/enrol", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          ...formState,
+          type: "proc-landing",
+          courseOrEventName: data.title,
+        }),
+      });
+
+      if (!res.ok) throw new Error("Submission failed");
+      setSubmitted(true);
+    } catch {
+      setError("Something went wrong. Please email us directly at hello@skillhub.africa");
+    } finally {
+      setSubmitting(false);
+    }
+  };
 
   return (
     <div className="lp-root">
@@ -37,7 +77,7 @@ export function CourseLandingTemplate({ data }: Props) {
               </div>
             ))}
           </div>
-          <a href={data.ctaUrl} className="lp-cta-btn">{data.ctaLabel}</a>
+          <a href="#enquire" className="lp-cta-btn">{data.ctaLabel}</a>
           <p className="lp-hero-meta">{data.duration} · {data.location} · {data.date}</p>
         </div>
       </section>
@@ -63,7 +103,7 @@ export function CourseLandingTemplate({ data }: Props) {
               </li>
             ))}
           </ul>
-          <a href={data.ctaUrl} className="lp-cta-btn lp-cta-btn--outline">{data.ctaLabel}</a>
+          <a href="#enquire" className="lp-cta-btn lp-cta-btn--outline">{data.ctaLabel}</a>
         </div>
       </section>
 
@@ -86,7 +126,7 @@ export function CourseLandingTemplate({ data }: Props) {
               </div>
             ))}
           </div>
-          <a href={data.ctaUrl} className="lp-cta-btn">{data.ctaLabel}</a>
+          <a href="#enquire" className="lp-cta-btn">{data.ctaLabel}</a>
         </div>
       </section>
 
@@ -132,7 +172,97 @@ export function CourseLandingTemplate({ data }: Props) {
             <p className="lp-price-label">Investment</p>
             <p className="lp-price-value">{data.price}</p>
           </div>
-          <a href={data.ctaUrl} className="lp-cta-btn">{data.ctaLabel}</a>
+          <a href="#enquire" className="lp-cta-btn">{data.ctaLabel}</a>
+        </div>
+      </section>
+
+      {/* ENQUIRY FORM */}
+      <section className="lp-section lp-section--dark" id="enquire">
+        <div className="lp-container lp-container--narrow">
+          <p className="lp-eyebrow lp-eyebrow--gold">Enquire Now</p>
+          <h2 className="lp-h2 lp-h2--white">Reserve Your Seat on {data.title}.</h2>
+          <p className="lp-form-sub">Fill in your details and our team will contact you within one business day.</p>
+
+          {submitted ? (
+            <div className="lp-form-success">
+              <span className="lp-form-success-icon">✓</span>
+              <h3>Enquiry Received!</h3>
+              <p>Thank you for your interest in <strong>{data.title}</strong>. Our team will be in touch within one business day.</p>
+            </div>
+          ) : (
+            <form onSubmit={handleSubmit} className="lp-form">
+              <div className="lp-form-row">
+                <div className="lp-form-group">
+                  <label className="lp-form-label">Full Name *</label>
+                  <input
+                    className="lp-form-input"
+                    type="text"
+                    name="name"
+                    placeholder="Your full name"
+                    value={formState.name}
+                    onChange={handleChange}
+                    required
+                  />
+                </div>
+                <div className="lp-form-group">
+                  <label className="lp-form-label">Email Address *</label>
+                  <input
+                    className="lp-form-input"
+                    type="email"
+                    name="email"
+                    placeholder="your@email.com"
+                    value={formState.email}
+                    onChange={handleChange}
+                    required
+                  />
+                </div>
+              </div>
+
+              <div className="lp-form-row">
+                <div className="lp-form-group">
+                  <label className="lp-form-label">Phone Number *</label>
+                  <input
+                    className="lp-form-input"
+                    type="tel"
+                    name="number"
+                    placeholder="+27 XX XXX XXXX"
+                    value={formState.number}
+                    onChange={handleChange}
+                    required
+                  />
+                </div>
+                <div className="lp-form-group">
+                  <label className="lp-form-label">Organisation</label>
+                  <input
+                    className="lp-form-input"
+                    type="text"
+                    name="companyName"
+                    placeholder="Your company or organisation"
+                    value={formState.companyName}
+                    onChange={handleChange}
+                  />
+                </div>
+              </div>
+
+              <div className="lp-form-group">
+                <label className="lp-form-label">Message (optional)</label>
+                <textarea
+                  className="lp-form-input lp-form-textarea"
+                  name="message"
+                  placeholder="Any specific questions or requirements?"
+                  value={formState.message}
+                  onChange={handleChange}
+                  rows={4}
+                />
+              </div>
+
+              {error && <p className="lp-form-error">{error}</p>}
+
+              <button type="submit" className="lp-cta-btn lp-cta-btn--gold" disabled={submitting}>
+                {submitting ? "Sending..." : "Submit Enquiry"}
+              </button>
+            </form>
+          )}
         </div>
       </section>
 
@@ -176,7 +306,7 @@ export function CourseLandingTemplate({ data }: Props) {
               </div>
             ))}
           </div>
-          <a href={data.ctaUrl} className="lp-cta-btn lp-cta-btn--gold">{data.ctaLabel}</a>
+          <a href="#enquire" className="lp-cta-btn lp-cta-btn--gold">{data.ctaLabel}</a>
           <p className="lp-final-contact">
             Questions? Email{" "}
             <a href="mailto:hello@skillhub.africa" className="lp-link">hello@skillhub.africa</a>
@@ -232,6 +362,7 @@ export function CourseLandingTemplate({ data }: Props) {
         .lp-cta-btn--outline { background: transparent; color: #d4a24e; border: 2px solid #d4a24e; }
         .lp-cta-btn--outline:hover { background: rgba(212,162,78,0.1); }
         .lp-cta-btn--gold { font-size: 1.05rem; padding: 1rem 2.5rem; }
+        .lp-cta-btn:disabled { opacity: 0.7; cursor: not-allowed; transform: none; }
 
         .lp-hero-meta { margin-top: 1rem; font-size: 0.85rem; color: rgba(255,255,255,0.45); letter-spacing: 0.03em; }
 
@@ -271,6 +402,22 @@ export function CourseLandingTemplate({ data }: Props) {
         .lp-price-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: #d4a24e; margin: 0; }
         .lp-price-value { font-family: "Fraunces", Georgia, serif; font-size: 1.4rem; font-weight: 700; color: white; margin: 0; }
 
+        .lp-form-sub { color: rgba(255,255,255,0.6); font-size: 1rem; margin: 0 0 2rem; }
+        .lp-form { display: flex; flex-direction: column; gap: 1.25rem; }
+        .lp-form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+        .lp-form-group { display: flex; flex-direction: column; gap: 0.4rem; }
+        .lp-form-label { font-size: 0.8rem; font-weight: 600; color: rgba(255,255,255,0.7); text-transform: uppercase; letter-spacing: 0.06em; }
+        .lp-form-input { background: rgba(255,255,255,0.07); border: 1px solid rgba(255,255,255,0.15); border-radius: 4px; padding: 0.8rem 1rem; font-size: 0.95rem; color: #fff; font-family: inherit; transition: border-color 0.2s; outline: none; width: 100%; box-sizing: border-box; }
+        .lp-form-input::placeholder { color: rgba(255,255,255,0.3); }
+        .lp-form-input:focus { border-color: #d4a24e; background: rgba(255,255,255,0.1); }
+        .lp-form-textarea { resize: vertical; min-height: 100px; }
+        .lp-form-error { color: #f87171; font-size: 0.9rem; padding: 0.75rem 1rem; background: rgba(248,113,113,0.1); border-radius: 4px; border: 1px solid rgba(248,113,113,0.3); }
+        .lp-form-success { background: rgba(212,162,78,0.1); border: 1px solid rgba(212,162,78,0.3); border-radius: 8px; padding: 2.5rem; text-align: center; }
+        .lp-form-success-icon { font-size: 2.5rem; color: #d4a24e; display: block; margin-bottom: 1rem; }
+        .lp-form-success h3 { font-family: "Fraunces", Georgia, serif; font-size: 1.5rem; color: #fff; margin: 0 0 0.75rem; }
+        .lp-form-success p { color: rgba(255,255,255,0.7); margin: 0; }
+        .lp-form-success strong { color: #d4a24e; }
+
         .lp-faq { display: flex; flex-direction: column; border-top: 1px solid #cdd2db; margin-top: 1rem; }
         .lp-faq-item { border-bottom: 1px solid #cdd2db; }
         .lp-faq-q { width: 100%; background: none; border: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; padding: 1.25rem 0; font-size: 1rem; font-weight: 600; color: #0f1a2e; text-align: left; gap: 1rem; line-height: 1.4; font-family: inherit; }
@@ -296,6 +443,7 @@ export function CourseLandingTemplate({ data }: Props) {
           .lp-module { padding-left: 1.25rem; }
           .lp-transform-list { grid-template-columns: 1fr; }
           .lp-who-grid { grid-template-columns: 1fr; }
+          .lp-form-row { grid-template-columns: 1fr; }
         }
       `}</style>
     </div>
