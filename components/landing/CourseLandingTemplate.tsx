@@ -31,7 +31,7 @@ export function CourseLandingTemplate({ data }: Props) {
     setError("");
 
     try {
-      const res = await fetch("/api/enrol", {
+      const res = await fetch("/api/enroll", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
