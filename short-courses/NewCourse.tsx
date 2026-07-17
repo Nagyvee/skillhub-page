@@ -2631,7 +2631,6 @@ const assetFacilityManagement = [
             },
         ],
     },
-    ,
     {
         id: 265,
         type: "Asset-and-Facility-Management",
