@@ -12419,6 +12419,171 @@
         ]
       }
     ]
+  },
+  {
+    id: 264,
+    type: "Ports-Shipping",
+    title: "Coal Cargo and Bulk Carrier Operations Training",
+    slg: "coal-cargo-and-bulk-carrier-operations-training",
+    duration: "5 Days",
+    seo: {
+      seoTitle: "Coal Cargo & Bulk Carrier Operations Course | SkillHub International",
+      seoDescription:
+        "Master coal cargo handling, bulk carrier operations, cargo planning, IMSBC Code compliance and port operations in this practical 5-day maritime training. Enquire now!",
+      seoKeywords:
+        "coal cargo course South Africa, bulk carrier operations training, IMSBC Code, cargo loading and discharge, port and terminal operations, draft surveys, demurrage management, SkillHub International shipping",
+      seoHeading: "Coal Cargo and Bulk Carrier Operations Mastery",
+    },
+    shortDesc:
+      "Gain the knowledge and practical skills to safely, efficiently and compliantly manage coal cargo across the maritime supply chain, from bulk carrier operations and cargo planning to safety, regulations and port performance.",
+    overview: `The Coal Cargo and Bulk Carrier Operations Course is designed to provide professionals with the knowledge and practical skills required to safely, efficiently, and compliantly manage coal cargo throughout the maritime supply chain. As coal remains one of the world's most traded bulk commodities, effective cargo handling and vessel operations are critical to ensuring operational efficiency, environmental protection, and compliance with international maritime standards. This course combines theoretical knowledge with practical industry applications, covering coal cargo characteristics, bulk carrier operations, cargo planning, loading and discharge procedures, safety management, international regulations, environmental protection, and operational best practices. Participants will gain valuable insights into optimizing cargo operations while minimizing operational risks and improving vessel turnaround performance.`,
+    audience: [
+      "Port and terminal operators",
+      "Shipping and logistics professionals",
+      "Coal mining logistics personnel",
+      "Marine surveyors",
+      "Cargo superintendents",
+      "Vessel agents",
+      "Freight forwarders",
+      "Supply chain professionals",
+      "Operations managers",
+      "Marine and port authority personnel",
+    ],
+    objectives: {
+      title: "Upon completion of this training, participants will be able to:",
+      data: [
+        "Understand the global coal logistics and maritime supply chain.",
+        "Identify the different types and characteristics of coal cargo.",
+        "Apply international regulations governing coal transportation.",
+        "Plan and supervise bulk carrier loading and discharge operations.",
+        "Identify and mitigate operational and safety risks.",
+        "Interpret key shipping and cargo documentation.",
+        "Improve operational efficiency and vessel turnaround times.",
+        "Apply environmental and sustainability best practices in bulk cargo operations.",
+      ],
+    },
+    content: [
+      {
+        module: 1,
+        lessons: [
+          "Overview of the global coal industry",
+          "Types and classifications of coal",
+          "Coal production and export markets",
+          "Coal supply chain from mine to customer",
+          "Major coal exporting and importing countries",
+        ],
+      },
+      {
+        module: 2,
+        lessons: [
+          "Types and classifications of bulk carriers",
+          "Ship design and cargo hold arrangements",
+          "Vessel terminology and shipboard equipment",
+          "Bulk carrier loading and discharge systems",
+          "Ballast management fundamentals",
+        ],
+      },
+      {
+        module: 3,
+        lessons: [
+          "Physical and chemical properties of coal",
+          "Moisture content and cargo stability",
+          "Self-heating and spontaneous combustion",
+          "Methane emissions and gas hazards",
+          "IMSBC Code cargo classifications",
+        ],
+      },
+      {
+        module: 4,
+        lessons: [
+          "Stockpile management",
+          "Conveyor and ship loading systems",
+          "Cargo trimming techniques",
+          "Hold preparation requirements",
+          "Loading sequence planning",
+        ],
+      },
+      {
+        module: 5,
+        lessons: [
+          "Cargo distribution principles",
+          "Trim and stability calculations",
+          "Draft surveys",
+          "Stress and bending moments",
+          "Ballast planning during loading",
+        ],
+      },
+      {
+        module: 6,
+        lessons: [
+          "Bills of Lading",
+          "Mate's Receipts",
+          "Cargo manifests",
+          "Draft survey documentation",
+          "Quality and moisture certificates",
+        ],
+      },
+      {
+        module: 7,
+        lessons: [
+          "Occupational health and safety",
+          "Coal dust hazards",
+          "Fire prevention and emergency response",
+          "Gas monitoring procedures",
+          "Personal protective equipment (PPE)",
+        ],
+      },
+      {
+        module: 8,
+        lessons: [
+          "IMSBC Code requirements",
+          "SOLAS requirements",
+          "MARPOL environmental regulations",
+          "ISM Code",
+          "Port State Control inspections",
+        ],
+      },
+      {
+        module: 9,
+        lessons: [
+          "Operational risk assessment",
+          "Cargo contamination prevention",
+          "Weather-related operational risks",
+          "Pollution prevention measures",
+          "ESG considerations in coal logistics",
+        ],
+      },
+      {
+        module: 10,
+        lessons: [
+          "Berth planning and allocation",
+          "Vessel scheduling",
+          "Terminal coordination",
+          "Equipment utilization",
+          "Turnaround time optimization",
+        ],
+      },
+      {
+        module: 11,
+        lessons: [
+          "Key Performance Indicators (KPIs)",
+          "Loading and discharge productivity",
+          "Demurrage and despatch management",
+          "Cost optimization strategies",
+          "Continuous improvement initiatives",
+        ],
+      },
+      {
+        module: 12,
+        lessons: [
+          "Digitalization in bulk cargo operations",
+          "Automation in port terminals",
+          "Smart logistics technologies",
+          "Sustainable coal transportation practices",
+          "Future developments in bulk shipping",
+        ],
+      },
+    ],
   }
 ];
 
