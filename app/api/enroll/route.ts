@@ -62,7 +62,7 @@ export async function POST(req: Request) {
         // Construct email content
         const mailOptions = {
             from: process.env.SMTP_USER,
-            to: process.env.RECEIVER_EMAIL || "caleb19scott@gmail.com",
+            to: process.env.RECEIVER_EMAIL || "hello@skillhub.africa",
             replyTo: email,
             subject: `Enrollment Request: ${displayProduct}`,
             text: `
