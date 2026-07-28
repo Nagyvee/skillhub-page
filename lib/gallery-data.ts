@@ -98,5 +98,16 @@ export const galleryItems: GalleryItem[] = [
         category: "Workshops",
         span: "small"
     },
-
+    {
+        id: "18",
+        src: "/asset/workshop-session.jpeg",
+        category: "Workshops",
+        span: "medium"
+    },
+    {
+        id: "19",
+        src: "/asset/dhl-cohort-group.jpeg",
+        category: "Community",
+        span: "large"
+    },
 ]
