@@ -1,7 +1,7 @@
 import { Navbar } from "@/components/navbar"
 import { PageHeader } from "@/components/page-header"
 import { DigitalAgencyContent } from "@/components/digital-agency-content"
-import { CtaSection } from "@/components/cta-section"
+import { DigitalAgencyCtaSection } from "@/components/digital-agency-cta-section"
 import { Footer } from "@/components/footer"
 import type { Metadata } from "next"
 
@@ -25,7 +25,7 @@ export default function DigitalAgencyPage() {
                 ]}
             />
             <DigitalAgencyContent />
-            <CtaSection />
+            <DigitalAgencyCtaSection />
             <Footer />
         </main>
     )
