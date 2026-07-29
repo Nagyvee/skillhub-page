@@ -8,6 +8,7 @@ import { accredited } from "@/short-courses/accredited"
 import { business } from "@/short-courses/business"
 import { wholesaleRetail } from "@/short-courses/wholesale-retail"
 import type { Metadata } from "next"
+import { getAccreditedLearnerships } from "@/lib/accreditations-data"
 
 export const metadata: Metadata = {
     title: "Learnerships | SkillHub International",
@@ -52,6 +53,7 @@ function getAllLearnerships(): LearnershipItem[] {
         ...mapAccredited(accredited.courses, "ICT", "ict"),
         ...mapAccredited(business.courses, "Business", "business"),
         ...mapAccredited(wholesaleRetail.courses, "Wholesale & Retail", "wholesale-retail"),
+        ...getAccreditedLearnerships(),
     ]
 }
 
