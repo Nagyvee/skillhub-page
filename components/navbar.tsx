@@ -43,7 +43,22 @@ const navLinks: NavLink[] = [
   },
   { label: "Events", href: "/events" },
   { label: "Gallery", href: "/gallery" },
-  { label: "Digital Agency", href: "/digital-agency" },
+  {
+    label: "Digital Agency",
+    href: "/digital-agency",
+    dropdown: [
+      { label: "All Services", href: "/digital-agency" },
+      { label: "Website Design and Development", href: "/digital-agency/services/website-design-and-development" },
+      { label: "Software and Application Development", href: "/digital-agency/services/software-and-application-development" },
+      { label: "LMS & E-Learning Solutions", href: "/digital-agency/services/lms-and-e-learning-solutions" },
+      { label: "Cybersecurity Solutions", href: "/digital-agency/services/cybersecurity-solutions" },
+      { label: "Cloud Services and Infrastructure", href: "/digital-agency/services/cloud-services-and-infrastructure" },
+      { label: "Data Analytics and Business Intelligence", href: "/digital-agency/services/data-analytics-and-business-intelligence" },
+      { label: "Digital Transformation Consulting", href: "/digital-agency/services/digital-transformation-consulting" },
+      { label: "Digital Marketing and Social Media", href: "/digital-agency/services/digital-marketing-and-social-media" },
+      { label: "Creative Design and Branding", href: "/digital-agency/services/creative-design-and-branding" },
+    ],
+  },
 ]
 
 
