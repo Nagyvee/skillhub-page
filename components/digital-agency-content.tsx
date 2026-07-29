@@ -1,181 +1,10 @@
 "use client"
 
+import Link from "next/link"
 import { MotionSection, MotionDiv, fadeInUp } from "@/components/motion"
 import { Badge } from "@/components/ui/badge"
-import {
-    Globe,
-    Code2,
-    GraduationCap,
-    ShieldCheck,
-    Cloud,
-    BarChart3,
-    Rocket,
-    Megaphone,
-    Palette,
-    CheckCircle2,
-    Layers,
-    Lightbulb,
-    Users,
-    LockKeyhole,
-} from "lucide-react"
-
-interface Service {
-    icon: typeof Globe
-    title: string
-    description: string
-    items: string[]
-}
-
-const services: Service[] = [
-    {
-        icon: Globe,
-        title: "Website Design and Development",
-        description:
-            "Modern, responsive, and user-friendly websites that enhance your brand, engage customers, and support your business objectives.",
-        items: [
-            "Corporate websites",
-            "E-commerce websites",
-            "Educational institution websites",
-            "Government and NGO websites",
-            "Landing pages and campaign websites",
-            "Website maintenance and support",
-            "Website hosting and management",
-        ],
-    },
-    {
-        icon: Code2,
-        title: "Software and Application Development",
-        description:
-            "Custom software solutions that streamline business processes, improve efficiency, and create exceptional user experiences.",
-        items: [
-            "Custom web applications",
-            "Mobile application development",
-            "Enterprise software solutions",
-            "Customer and employee portals",
-            "Workflow automation systems",
-            "Membership management platforms",
-            "Booking and reservation systems",
-            "Database development and integration",
-            "API development and systems integration",
-        ],
-    },
-    {
-        icon: GraduationCap,
-        title: "Learning Management Systems (LMS) & E-Learning",
-        description:
-            "As a trusted provider in the learning and development sector, we build digital learning environments that support education, training, and workforce development.",
-        items: [
-            "LMS design and development",
-            "LMS implementation and customisation",
-            "E-learning platform development",
-            "Online assessment systems",
-            "Certification and compliance management",
-            "Virtual classroom integration",
-            "Learner management and reporting",
-            "Digital content hosting solutions",
-        ],
-    },
-    {
-        icon: ShieldCheck,
-        title: "Cybersecurity Solutions",
-        description:
-            "Protect your organisation's digital assets with comprehensive cybersecurity services designed to reduce risks and strengthen resilience.",
-        items: [
-            "Cybersecurity risk assessments",
-            "Vulnerability assessments",
-            "Penetration testing",
-            "Security audits and compliance reviews",
-            "Data protection and privacy solutions",
-            "Network security solutions",
-            "Endpoint protection",
-            "Identity and access management",
-            "Security awareness training",
-            "Incident response planning",
-            "Business continuity and disaster recovery planning",
-        ],
-    },
-    {
-        icon: Cloud,
-        title: "Cloud Services and Infrastructure",
-        description:
-            "Leverage the power of cloud technology to improve scalability, accessibility, security, and operational efficiency.",
-        items: [
-            "Cloud strategy and consulting",
-            "Cloud migration services",
-            "Cloud infrastructure deployment",
-            "Cloud-hosted applications",
-            "Cloud-hosted LMS platforms",
-            "Data backup and recovery solutions",
-            "Managed cloud services",
-            "Cloud security implementation",
-            "Remote work and collaboration solutions",
-        ],
-    },
-    {
-        icon: BarChart3,
-        title: "Data Analytics and Business Intelligence",
-        description:
-            "Transform data into valuable insights that drive informed decision-making and business performance.",
-        items: [
-            "Business intelligence solutions",
-            "Interactive dashboards and reporting",
-            "Data visualisation",
-            "Performance monitoring systems",
-            "Predictive analytics",
-            "Market and customer insights",
-            "Operational analytics",
-            "Learning and training analytics",
-            "KPI development and reporting",
-            "Data management and governance",
-        ],
-    },
-    {
-        icon: Rocket,
-        title: "Digital Transformation Consulting",
-        description:
-            "We help organisations embrace innovation and adapt to changing business environments through technology-driven transformation.",
-        items: [
-            "Digital transformation strategies",
-            "Technology roadmaps",
-            "Business process optimisation",
-            "Workflow automation",
-            "Systems integration",
-            "Innovation advisory services",
-            "Change management support",
-            "Digital maturity assessments",
-        ],
-    },
-    {
-        icon: Megaphone,
-        title: "Digital Marketing and Social Media Management",
-        description:
-            "We help organisations increase visibility, engage audiences, generate leads, and grow their brands through effective digital marketing strategies.",
-        items: [
-            "Social media strategy, content, and advertising",
-            "Search Engine Optimisation (SEO)",
-            "Search Engine Marketing (SEM) & PPC",
-            "Content marketing and blogging",
-            "Email marketing and automation",
-            "Digital advertising (Facebook, Instagram, LinkedIn, YouTube)",
-        ],
-    },
-    {
-        icon: Palette,
-        title: "Creative Design and Branding",
-        description:
-            "We create memorable brands and digital experiences that connect organisations with their audiences.",
-        items: [
-            "Logo design",
-            "Corporate identity development",
-            "Brand strategy",
-            "Graphic design",
-            "UI/UX design",
-            "Marketing collateral design",
-            "Infographics and presentations",
-            "Digital media design",
-        ],
-    },
-]
+import { digitalAgencyServices } from "@/lib/digital-agency-services"
+import { Layers, Lightbulb, Users, LockKeyhole, ArrowRight } from "lucide-react"
 
 const industries = [
     "Corporate and Private Sector",
@@ -250,39 +79,37 @@ export function DigitalAgencyContent() {
                         </h2>
                         <p className="text-muted-foreground">
                             End-to-end digital services that empower organisations to thrive in
-                            the digital economy.
+                            the digital economy. Click a service to see the full scope.
                         </p>
                     </MotionDiv>
 
                     <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                        {services.map((service) => (
-                            <MotionDiv
-                                key={service.title}
-                                variants={fadeInUp}
-                                className="group relative h-full rounded-2xl border border-border/50 bg-card p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border flex flex-col"
-                            >
-                                <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary/5 ring-1 ring-primary/10 group-hover:bg-accent/10 group-hover:ring-accent/20 transition-all duration-300">
-                                    <service.icon className="h-5 w-5 text-primary group-hover:text-accent transition-colors duration-300" />
-                                </div>
+                        {digitalAgencyServices.map((service) => (
+                            <MotionDiv key={service.slug} variants={fadeInUp} className="h-full">
+                                <Link
+                                    href={`/digital-agency/services/${service.slug}`}
+                                    className="group relative flex h-full flex-col rounded-2xl border border-border/50 bg-card p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
+                                >
+                                    <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary/5 ring-1 ring-primary/10 group-hover:bg-accent/10 group-hover:ring-accent/20 transition-all duration-300">
+                                        <service.icon className="h-5 w-5 text-primary group-hover:text-accent transition-colors duration-300" />
+                                    </div>
 
-                                <h3 className="mt-5 text-lg font-semibold text-foreground">
-                                    {service.title}
-                                </h3>
-                                <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-                                    {service.description}
-                                </p>
+                                    <h3 className="mt-5 text-lg font-semibold text-foreground">
+                                        {service.title}
+                                    </h3>
+                                    <p className="mt-2 text-sm leading-relaxed text-muted-foreground flex-grow">
+                                        {service.description}
+                                    </p>
 
-                                <ul className="mt-4 space-y-2 flex-grow">
-                                    {service.items.map((item) => (
-                                        <li
-                                            key={item}
-                                            className="flex items-start gap-2 text-xs text-muted-foreground"
-                                        >
-                                            <CheckCircle2 className="mt-0.5 h-3.5 w-3.5 shrink-0 text-accent" />
-                                            <span>{item}</span>
-                                        </li>
-                                    ))}
-                                </ul>
+                                    <div className="mt-6 pt-5 border-t border-border/50 flex items-center justify-between gap-4">
+                                        <span className="text-xs font-semibold text-accent">
+                                            {service.items.length} services included
+                                        </span>
+                                        <span className="flex h-8 w-8 items-center justify-center rounded-full bg-secondary transition-all duration-300 group-hover:bg-secondary/80">
+                                            <ArrowRight className="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-0.5" />
+                                        </span>
+                                    </div>
+                                </Link>
                             </MotionDiv>
                         ))}
                     </div>
@@ -372,7 +199,7 @@ export function DigitalAgencyContent() {
                             </h3>
                             <p className="mt-4 text-base leading-relaxed text-muted-foreground">
                                 To deliver world-class digital solutions that enable
-                                organisations to invovate, grow, compete, and succeed in a
+                                organisations to innovate, grow, compete, and succeed in a
                                 rapidly evolving digital world.
                             </p>
                         </MotionDiv>
