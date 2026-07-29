@@ -43,6 +43,7 @@ const navLinks: NavLink[] = [
   },
   { label: "Events", href: "/events" },
   { label: "Gallery", href: "/gallery" },
+  { label: "Digital Agency", href: "/digital-agency" },
 ]
 
 
