@@ -9,6 +9,7 @@ import { CtaSection } from "@/components/cta-section"
 import { Partners } from "@/components/partners"
 import { Footer } from "@/components/footer"
 
+
 export const metadata: Metadata = {
   title: "SkillHub International | Professional Training Courses South Africa",
   description: "SkillHub International offers QCTO-accredited short courses and learnerships in supply chain, logistics, procurement, finance, and leadership. Training across South Africa since 1999.",

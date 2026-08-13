@@ -41,10 +41,8 @@ const navLinks: NavLink[] = [
       { label: "Bootcamps", href: "/learnerships/bootcamps" },
     ],
   },
-  { label: "Events", href: "/events" },
-  { label: "Gallery", href: "/gallery" },
   {
-    label: "Digital Agency",
+    label: "Agency",
     href: "/digital-agency",
     dropdown: [
       { label: "All Services", href: "/digital-agency" },
@@ -59,6 +57,8 @@ const navLinks: NavLink[] = [
       { label: "Creative Design and Branding", href: "/digital-agency/services/creative-design-and-branding" },
     ],
   },
+  { label: "Events", href: "/events" },
+  { label: "Gallery", href: "/gallery" },
 ]
 
 

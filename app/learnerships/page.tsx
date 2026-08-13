@@ -25,7 +25,7 @@ function getAllLearnerships(): LearnershipItem[] {
         section: "Supply Chain",
         nqf: c.nqf,
         credits: c.credits,
-        duration: `${c.duration} Months`,
+        duration: `12 Months`,
         description: `QCTO-accredited learnership. Entry: ${c.entryRequirements}.`,
         href: `/contact?learnership=${encodeURIComponent(c.title)}`,
         cta: "Enquire Now",
