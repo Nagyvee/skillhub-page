@@ -22027,6 +22027,11 @@ const RealEstateManagementCourses = [
         ]
     }
 ]
+// ===========================================================================
+// CYBERSECURITY COURSES — paste this whole block near the END of
+// short-courses/NewCourse.tsx, BEFORE the line: export const NewCourse = [
+// (i.e. right after the closing '}' of RealEstateManagementCourses, around line 22030)
+// ===========================================================================
 
 const CybersecurityCourses = [
     {
@@ -22037,14 +22042,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Cybersecurity for Government Critical Infrastructure | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Government critical infrastructure—encompassing public administration networks, e-government platforms, national defence systems, public utilities, emergency services, transportation, and civic digital public goods—is increasingly targeted by advanced nation-state threat actors, cybercriminals, and sophisticated syndicates.",
             "seoKeywords": "Cybersecurity for Government Critical Infrastructure, cybersecurity government critical course, cybersecurity training, cybersecurity government certification",
             "seoHeading": "Cybersecurity for Government Critical Infrastructure"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Government critical infrastructure—encompassing public administration networks, e-government platforms, national defence systems, public utilities, emergency services, transportation, and civic digital public goods—is increasingly targeted by advanced nation-state threat actors, cybercriminals, and sophisticated syndicates.",
+        "overview": "Government critical infrastructure—encompassing public administration networks, e-government platforms, national defence systems, public utilities, emergency services, transportation, and civic digital public goods—is increasingly targeted by advanced nation-state threat actors, cybercriminals, and sophisticated syndicates. A successful cyberattack against government critical infrastructure can paralyze public service delivery, compromise sensitive citizen data, undermine national security, and cause severe economic and societal disruption. This intensive five-day programme equips government officials, public sector executives, critical infrastructure regulators, IT directors, and security professionals with a comprehensive, practical framework to identify, assess, govern, and protect vital public systems. The curriculum covers public sector cybersecurity governance, regulatory frameworks, IT/OT convergence, threat intelligence, incident response, and national cyber resilience.",
         "audience": [
             "Government Officials and Public Sector Policy Makers",
             "Critical Infrastructure Regulators",
@@ -22499,14 +22504,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Network Security & Defence | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Modern enterprise networks form the backbone of digital operations, connecting users, cloud platforms, branch offices, and critical data repositories.",
             "seoKeywords": "Network Security & Defence, network security defence course, cybersecurity training, network security certification",
             "seoHeading": "Network Security & Defence"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Modern enterprise networks form the backbone of digital operations, connecting users, cloud platforms, branch offices, and critical data repositories.",
+        "overview": "Modern enterprise networks form the backbone of digital operations, connecting users, cloud platforms, branch offices, and critical data repositories. However, as networks expand to support remote work and digital transformation, they also present an increasingly complex attack surface. Cyber adversaries continuously probe enterprise perimeters, exploit misconfigurations, and execute lateral movements to compromise sensitive systems. This intensive five-day programme equips network administrators, security engineers, IT managers, and defense professionals with a comprehensive, practical framework to design, secure, monitor, and defend enterprise networks against modern cyber threats. The curriculum covers core network security principles, perimeter defense, advanced firewall architectures, network segmentation, intrusion detection systems, traffic analysis, and continuous defensive hardening.",
         "audience": [
             "Network and Systems Administrators",
             "IT Managers",
@@ -22902,14 +22907,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Cyber Incident Response & Crisis Management | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Cyber incidents can rapidly escalate from a technical security event into a major organisational crisis.",
             "seoKeywords": "Cyber Incident Response & Crisis Management, cyber incident response course, cybersecurity training, cyber incident certification",
             "seoHeading": "Cyber Incident Response & Crisis Management"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Cyber incidents can rapidly escalate from a technical security event into a major organisational crisis.",
+        "overview": "Cyber incidents can rapidly escalate from a technical security event into a major organisational crisis. Ransomware, data breaches, business email compromise, denial-of-service attacks, insider threats and supply-chain compromises can disrupt operations, compromise sensitive information, create financial losses and damage organisational reputation. Effective cyber incident management therefore requires more than technical security controls. Organisations need clearly defined response structures, trained personnel, effective communication, tested procedures, business continuity arrangements and strong executive decision-making. This intensive five-day programme provides participants with a practical understanding of how to prepare for, detect, assess, contain, respond to, recover from and learn from cybersecurity incidents. The programme brings together cybersecurity, incident response, crisis management, business continuity, disaster recovery, communications, governance and executive leadership. Participants will work through realistic cyber incident scenarios and simulations designed to develop their ability to make effective decisions under pressure.",
         "audience": [
             "Chief Executive Officers and Senior Executives",
             "Chief Information Officers (CIOs)",
@@ -23262,14 +23267,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Cybersecurity for Energy & Utilities | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Energy and utility organisations—encompassing power generation, electrical transmission and distribution, smart grids, oil and gas extraction, water treatment, and renewable energy networks—rely heavily on complex, interconnected information technology (IT) and operational technology (OT) systems.",
             "seoKeywords": "Cybersecurity for Energy & Utilities, cybersecurity energy utilities course, cybersecurity training, cybersecurity energy certification",
             "seoHeading": "Cybersecurity for Energy & Utilities"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Energy and utility organisations—encompassing power generation, electrical transmission and distribution, smart grids, oil and gas extraction, water treatment, and renewable energy networks—rely heavily on complex, interconnected information technology (IT) and operational technology (OT) systems.",
+        "overview": "Energy and utility organisations—encompassing power generation, electrical transmission and distribution, smart grids, oil and gas extraction, water treatment, and renewable energy networks—rely heavily on complex, interconnected information technology (IT) and operational technology (OT) systems. The convergence of IT with Industrial Control Systems (ICS), SCADA, and smart metering infrastructure has vastly expanded the sector's cyber attack surface. A successful cyberattack against energy and utility infrastructure can cause catastrophic power outages, contamination of water supplies, severe environmental damage, economic paralysis, and immediate threats to public safety. This intensive five-day programme equips utility executives, engineering managers, IT/OT professionals, and risk stakeholders with a practical framework to identify, assess, govern, and mitigate cyber risks across energy environments.",
         "audience": [
             "Energy and Utility Executives and Managers",
             "Chief Information Officers (CIOs) and Chief Information Security Officers (CISOs)",
@@ -23942,14 +23947,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Cybersecurity for Procurement & Supply Chain Management | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Modern supply chains rely heavily on interconnected digital systems, cloud platforms, vendor software, and third-party service providers to deliver goods and services.",
             "seoKeywords": "Cybersecurity for Procurement & Supply Chain Management, cybersecurity procurement supply course, cybersecurity training, cybersecurity procurement certification",
             "seoHeading": "Cybersecurity for Procurement & Supply Chain Management"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Modern supply chains rely heavily on interconnected digital systems, cloud platforms, vendor software, and third-party service providers to deliver goods and services.",
+        "overview": "Modern supply chains rely heavily on interconnected digital systems, cloud platforms, vendor software, and third-party service providers to deliver goods and services. While digital transformation drives efficiency, it also expands the cyber attack surface, making procurement and supply chain networks primary targets for malicious actors. A security breach originating from a third-party vendor or software supplier can cause severe operational disruption, financial loss, intellectual property theft, and regulatory penalties. This intensive five-day programme equips procurement professionals, supply chain managers, risk officers, and IT stakeholders with the practical knowledge and tools required to identify, assess, and mitigate cyber risks throughout the entire vendor lifecycle and supply chain ecosystem.",
         "audience": [
             "Procurement Directors and Managers",
             "Supply Chain Managers",
@@ -24067,14 +24072,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Cybersecurity Risk Management & Governance | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Organisations face an increasingly complex digital landscape where cyber threats threaten financial stability, regulatory compliance, operational integrity, and strategic objectives.",
             "seoKeywords": "Cybersecurity Risk Management & Governance, cybersecurity risk management course, cybersecurity training, cybersecurity risk certification",
             "seoHeading": "Cybersecurity Risk Management & Governance"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Organisations face an increasingly complex digital landscape where cyber threats threaten financial stability, regulatory compliance, operational integrity, and strategic objectives.",
+        "overview": "Organisations face an increasingly complex digital landscape where cyber threats threaten financial stability, regulatory compliance, operational integrity, and strategic objectives. Effective cybersecurity is no longer just an IT function; it is a fundamental pillar of corporate governance, enterprise risk management, and operational resilience. This intensive five-day programme equips executives, managers, risk professionals, and technical stakeholders with a robust framework to identify, assess, govern, and mitigate cybersecurity risks across the enterprise. The curriculum covers cybersecurity governance, risk management frameworks, threat intelligence, security architecture, compliance, incident management, and third-party risk. Participants will learn how to align cybersecurity strategies with business goals while protecting critical digital assets and ensuring operational continuity.",
         "audience": [
             "Chief Information Officers (CIOs)",
             "Chief Information Security Officers (CISOs)",
@@ -24381,14 +24386,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Cybersecurity for Critical Infrastructure | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Critical infrastructure organisations increasingly depend on interconnected information technology (IT), operational technology (OT), industrial control systems, telecommunications, cloud platforms and digital services to deliver essential services to citizens, businesses and the economy.",
             "seoKeywords": "Cybersecurity for Critical Infrastructure, cybersecurity critical infrastructure course, cybersecurity training, cybersecurity critical certification",
             "seoHeading": "Cybersecurity for Critical Infrastructure"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Critical infrastructure organisations increasingly depend on interconnected information technology (IT), operational technology (OT), industrial control systems, telecommunications, cloud platforms and digital services to deliver essential services to citizens, businesses and the economy.",
+        "overview": "Critical infrastructure organisations increasingly depend on interconnected information technology (IT), operational technology (OT), industrial control systems, telecommunications, cloud platforms and digital services to deliver essential services to citizens, businesses and the economy. A successful cyberattack against critical infrastructure can have consequences far beyond data loss. It can disrupt electricity, water, transportation, telecommunications, financial services, mining, healthcare, ports and other essential services, potentially creating significant operational, economic and safety risks. This intensive five-day programme provides managers, technical professionals and critical-infrastructure stakeholders with a practical understanding of how to identify, assess and manage cybersecurity risks affecting critical infrastructure. The programme focuses on IT/OT convergence, industrial control systems, cyber risk management, threat detection, incident response, business continuity, third-party risk and cyber resilience. Participants will learn how to develop and implement practical cybersecurity measures that protect critical assets while maintaining operational availability, safety and service continuity.",
         "audience": [
             "Critical Infrastructure Executives and Managers",
             "Chief Information Officers (CIOs)",
@@ -24759,14 +24764,14 @@ const CybersecurityCourses = [
         "duration": "5 Days",
         "seo": {
             "seoTitle": "Vulnerability Management & Security Testing | SkillHub International",
-            "seoDescription": "",
+            "seoDescription": "Modern enterprises face an expanding digital attack surface driven by rapid technological change, cloud adoption, and complex software supply chains.",
             "seoKeywords": "Vulnerability Management & Security Testing, vulnerability management security course, cybersecurity training, vulnerability management certification",
             "seoHeading": "Vulnerability Management & Security Testing"
         },
         "brochure": "",
         "popular": false,
-        "shortDesc": "",
-        "overview": "",
+        "shortDesc": "Modern enterprises face an expanding digital attack surface driven by rapid technological change, cloud adoption, and complex software supply chains.",
+        "overview": "Modern enterprises face an expanding digital attack surface driven by rapid technological change, cloud adoption, and complex software supply chains. Cyber adversaries constantly probe networks, applications, and cloud environments to exploit unknown or unpatched flaws before security teams can find them. Vulnerability management and security testing are foundational pillars of proactive defense, enabling organisations to systematically discover, prioritize, and remediate security weaknesses. This intensive five-day programme equips security professionals, vulnerability managers, penetration testers, and IT administrators with a comprehensive, practical framework to implement continuous vulnerability assessment, ethical hacking, risk-based prioritization, and robust remediation workflows.",
         "audience": [
             "Chief Information Officers (CIOs)",
             "Chief Information Security Officers (CISOs)",
