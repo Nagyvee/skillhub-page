@@ -27,6 +27,7 @@ const navLinks: NavLink[] = [
       { label: "Microsoft Courses", href: "/courses/category/Microsoft-Productivity-and-Analytics" },
       { label: "Inventory & Warehouse", href: "/courses/category/Inventory-Warehouse" },
       { label: "Ports & Shipping", href: "/courses/category/Ports-Shipping" },
+      { label: "Cybersecurity", href: "/courses/category/Cybersecurity" },
     ],
   },
   {
